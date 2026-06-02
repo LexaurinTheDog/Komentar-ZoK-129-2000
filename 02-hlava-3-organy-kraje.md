@@ -216,20 +216,34 @@ Vazba na § 62 — když hejtman pozastaví výkon usnesení rady (suspenzivní 
 > **§ 36**
 >
 > *Zastupitelstvu je dále vyhrazeno rozhodování o těchto právních jednáních kraje:*
+>
 > *- a) nabytí a převod hmotných nemovitých věcí, s výjimkou inženýrských sítí a pozemních komunikací,*
-> *- b) poskytování věcných a peněžitých darů … v hodnotě nad 500 000 Kč jedné fyzické nebo právnické osobě v kalendářním roce,*
-> *- c) poskytování dotací a návratných finančních výpomocí nad 1 000 000 Kč …,*
+>
+> *- b) poskytování věcných a peněžitých darů podle zvláštního zákona v hodnotě nad 500 000 Kč jedné fyzické nebo právnické osobě v kalendářním roce,*
+>
+> *- c) poskytování dotací a návratných finančních výpomocí nad 1 000 000 Kč v jednotlivém případě fyzickým nebo právnickým osobám a uzavření veřejnoprávních smluv o jejich poskytnutí, nejedná-li se o dotace z prostředků státního rozpočtu, o návratné finanční výpomoci příspěvkovým organizacím zřízeným krajem nebo o dotace nebo návratné finanční výpomoci poskytované v době trvání krizového stavu28), mimořádného opatření při epidemii nebo nebezpečí jejího vzniku nebo mimořádného veterinárního opatření a v souvislosti s nimi,*
+>
 > *- d) vzdání se práva a prominutí dluhu vyšší než 1 000 000 Kč,*
+>
 > *- e) zastavení movitých věcí nebo práv v hodnotě vyšší než 1 000 000 Kč,*
+>
 > *- f) dohody o splátkách s lhůtou splatnosti delší než 18 měsíců,*
+>
 > *- g) postoupení pohledávky vyšší než 1 000 000 Kč,*
-> *- h) uzavření smlouvy o přijetí a poskytnutí úvěru, zápůjčky, o převzetí ručitelského závazku …,*
+>
+> *- h) uzavření smlouvy o přijetí a poskytnutí úvěru, zápůjčky, o převzetí ručitelského závazku s výjimkou převzetí ručitelského závazku na základě smlouvy o spolupráci podle zákona o podpoře bydlení, o přistoupení k závazku a ke smlouvě o společnosti,*
+>
 > *- i) zastavení nemovitostí,*
+>
 > *- j) vydání komunálních dluhopisů,*
+>
 > *- k) stanovení majetkové účasti na podnikání jiných právnických osob,*
+>
 > *- l) peněžité a nepeněžité vklady do právnických osob,*
-> *- m) nabytí a převod práva stavby …,*
-> *- n) zpeněžení hmotné nemovité věci ve vlastnictví kraje … ve veřejné dražbě a nabytí hmotné nemovité věci nebo práva stavby krajem v dražbě…; tuto pravomoc může zastupitelstvo zcela nebo zčásti svěřit radě nebo hejtmanovi.*
+>
+> *- m) nabytí a převod práva stavby a smluvní zřízení práva stavby k pozemku ve vlastnictví kraje,*
+>
+> *- n) zpeněžení hmotné nemovité věci ve vlastnictví kraje nebo práva stavby ve veřejné dražbě a nabytí hmotné nemovité věci nebo práva stavby krajem v dražbě, ve veřejné soutěži o nejvhodnější nabídku nebo jiným obdobným způsobem; tuto pravomoc může zastupitelstvo zcela nebo zčásti svěřit radě nebo hejtmanovi.*
 
 **Výklad:**
 
@@ -286,7 +300,7 @@ Praktický význam: zastupitelstvo si často vyhrazuje schvalování významnýc
 >
 > *(2) Ustavujícímu zasedání předsedá zpravidla nejstarší člen zastupitelstva do doby, než je zvolen hejtman nebo náměstek hejtmana. Ustavující zasedání zastupitelstva zvolí hejtmana, náměstka hejtmana a další členy rady. Pokud se tak nestane, předsedající ustavující zasedání přeruší. Současně zastupitelstvo rozhodne, kdy bude zasedání pokračovat tak, aby se uskutečnilo nejdéle do 7 dnů od konání přerušeného jednání.*
 >
-> *(3) Jestliže se ustavující zasedání nově zvoleného zastupitelstva nekonalo ve lhůtě podle odstavce 1, svolá je po uplynutí této lhůty ministerstvo …*
+> *(3) Jestliže se ustavující zasedání nově zvoleného zastupitelstva nekonalo ve lhůtě podle odstavce 1, svolá je po uplynutí této lhůty ministerstvo, ledaže soud vyhověl návrhu na neplatnost voleb nebo na neplatnost hlasování. Informaci o svolání ustavujícího zasedání zastupitelstva zveřejní ministerstvo v rozsahu stanoveném v § 42 po dobu v tomto ustanovení stanovenou na své úřední desce.*
 
 **Výklad:**
 
@@ -318,7 +332,7 @@ Pokud hejtman zasedání nesvolá včas, **Ministerstvo vnitra** ho svolá po up
 
 > **§ 40**
 >
-> *(1) Zastupitelstvo se schází podle potřeby, nejméně však jedenkrát za 3 měsíce. Zasedání zastupitelstva písemně svolává a řídí zpravidla hejtman. …*
+> *(1) Zastupitelstvo se schází podle potřeby, nejméně však jedenkrát za 3 měsíce. Zasedání zastupitelstva písemně svolává a řídí zpravidla hejtman. Do lhůty stanovené ve větě první se nezapočítává doba, po niž se na území kraje vztahuje krizový stav28), mimořádné opatření při epidemii nebo nebezpečí jejího vzniku nebo mimořádné veterinární opatření.*
 >
 > *(2) K platnému usnesení, rozhodnutí nebo volbě zastupitelstva je třeba souhlasu nadpoloviční většiny všech členů zastupitelstva.*
 
@@ -360,7 +374,11 @@ Třetinová menšina (např. 15 členů u malého kraje) má **veto vůči neči
 
 > **§ 41a**
 >
-> *(1) Stanoví-li tak předem jednací řád zastupitelstva, může se člen zastupitelstva účastnit jednání zastupitelstva též distančním způsobem s využitím technického zařízení pro přenos obrazu a zvuku, pokud umožňuje uplatňovat zákonná práva spojená s účastí na jednání. … Člen zastupitelstva má vždy právo účastnit se jednání zastupitelstva osobně v místě, v němž se zasedání zastupitelstva koná.*
+> *(1) Stanoví-li tak předem jednací řád zastupitelstva, může se člen zastupitelstva účastnit jednání zastupitelstva též distančním způsobem s využitím technického zařízení pro přenos obrazu a zvuku, pokud umožňuje uplatňovat zákonná práva spojená s účastí na jednání. Jednací řád stanoví pravidla účasti na jednání zastupitelstva distančním způsobem. Člen zastupitelstva má vždy právo účastnit se jednání zastupitelstva osobně v místě, v němž se zasedání zastupitelstva koná.*
+>
+> *(2) Ustanovení odstavce 1 se použije obdobně i pro účast veřejnosti na jednání zastupitelstva.*
+>
+> *(3) O možnosti účastnit se jednání zastupitelstva distančním způsobem a o podmínkách, za nichž je tato účast možná, informuje krajský úřad v informaci podle § 42 odst. 1 nebo 2.*
 
 **Výklad:**
 
@@ -380,11 +398,13 @@ Praktickými limity jsou autentifikace hlasujícího, zabezpečení přenosu a z
 
 > **§ 42**
 >
-> *(1) Zasedání zastupitelstva je veřejné. Krajský úřad zveřejní informaci o místě, době a navrženém programu připravovaného zasedání zastupitelstva vždy nejméně 10 dnů předem na úřední desce krajského úřadu …*
+> *(1) Zasedání zastupitelstva je veřejné. Krajský úřad zveřejní informaci o místě, době a navrženém programu připravovaného zasedání zastupitelstva vždy nejméně 10 dnů předem na úřední desce2) krajského úřadu, kromě toho může informaci zveřejnit způsobem v místě obvyklým.*
 >
-> *(2) Je-li nezbytné konat zasedání zastupitelstva v souvislosti s řešením mimořádné události … alespoň po dobu 2 dnů před zasedáním zastupitelstva. Záležitosti, které se netýkají řešení situací uvedených ve větě první, mohou být na tomto zasedání projednávány pouze tehdy, jestliže byla informace zveřejněna nejméně 10 dnů před zasedáním zastupitelstva.*
+> *(2) Je-li nezbytné konat zasedání zastupitelstva v souvislosti s řešením mimořádné události podle zákona o integrovaném záchranném systému38), k zabránění jejího vzniku nebo k odstraňování jejích následků, anebo jestliže se na území kraje vztahuje krizový stav28), mimořádné opatření při epidemii nebo nebezpečí jejího vzniku nebo mimořádné veterinární opatření, zveřejní se informace o místě, době a navrženém programu připravovaného zasedání zastupitelstva podle odstavce 1 na úřední desce krajského úřadu alespoň po dobu 2 dnů před zasedáním zastupitelstva. Záležitosti, které se netýkají řešení situací uvedených ve větě první, mohou být na tomto zasedání projednávány pouze tehdy, jestliže byla informace zveřejněna nejméně 10 dnů před zasedáním zastupitelstva.*
 >
 > *(3) Návrh programu jednání zastupitelstva připravuje a předkládá zastupitelstvu ke schválení rada.*
+>
+> *(4) O zařazení návrhů dalších bodů programu, přednesených v průběhu zasedání zastupitelstva, rozhodne zastupitelstvo.*
 >
 > *(5) Zúčastní-li se zasedání zastupitelstva člen vlády nebo jím pověřený zástupce, poslanec, senátor a požádá-li o slovo, musí mu být vždy uděleno.*
 
@@ -412,7 +432,7 @@ Návrh programu připravuje rada, schvaluje zastupitelstvo. Rada má tedy **agen
 
 > **§ 43**
 >
-> *O průběhu zasedání zastupitelstva se pořizuje zápis, který podepisuje hejtman nebo náměstek hejtmana a zvolení ověřovatelé. Zápis, který je nutno pořídit do 15 dnů po skončení zasedání, musí obsahovat údaj o počtu přítomných členů zastupitelstva, schválený program jednání, průběh a výsledek hlasování a přijatá usnesení a musí být uložen u krajského úřadu k nahlédnutí. …*
+> *O průběhu zasedání zastupitelstva se pořizuje zápis, který podepisuje hejtman nebo náměstek hejtmana a zvolení ověřovatelé. Zápis, který je nutno pořídit do 15 dnů po skončení zasedání, musí obsahovat údaj o počtu přítomných členů zastupitelstva, schválený program jednání, průběh a výsledek hlasování a přijatá usnesení a musí být uložen u krajského úřadu k nahlédnutí. O námitkách člena zastupitelstva proti zápisu rozhodne nejbližší zasedání zastupitelstva.*
 
 **Výklad:**
 
@@ -450,9 +470,11 @@ Jednací řád je **vnitřní předpis** zastupitelstva. Zákon stanoví pouze m
 
 > **§ 45**
 >
-> *(1) Klesne-li počet členů zastupitelstva o více než polovinu oproti počtu stanovenému v § 31 odst. 1 a nejsou-li náhradníci, do doby, než bude zvoleno zastupitelstvo nové, zabezpečuje jeho úkoly stávající zastupitelstvo. V takovém případě však nepřísluší zastupitelstvu vykonávat působnost podle § 35 odst. 2 a § 36, s výjimkou přijímání rozpočtových opatření …*
+> *(1) Klesne-li počet členů zastupitelstva o více než polovinu oproti počtu stanovenému v § 31 odst. 1 a nejsou-li náhradníci, do doby, než bude zvoleno zastupitelstvo nové, zabezpečuje jeho úkoly stávající zastupitelstvo. V takovém případě však nepřísluší zastupitelstvu vykonávat působnost podle § 35 odst. 2 a § 36, s výjimkou přijímání rozpočtových opatření, rozhodování podle § 35 odst. 2 písm. m), n) a p) až t) a stanovení pravidel rozpočtového provizoria. Tuto skutečnost krajský úřad bezodkladně oznámí ministerstvu.*
 >
-> *(2) Jestliže se zastupitelstvo nesejde po dobu delší než 6 měsíců tak, aby bylo schopno se usnášet, nebo nezvolí-li hejtmana do 6 měsíců ode dne, kdy byl odvolán nebo se funkce vzdal, nebo do 6 měsíců ode dne ustavujícího zasedání, ministerstvo je rozpustí a ministr vnitra vyhlásí nové volby. …*
+> *(2) Jestliže se zastupitelstvo nesejde po dobu delší než 6 měsíců tak, aby bylo schopno se usnášet, nebo nezvolí-li hejtmana do 6 měsíců ode dne, kdy byl odvolán nebo se funkce vzdal, nebo do 6 měsíců ode dne ustavujícího zasedání, ministerstvo je rozpustí a ministr vnitra vyhlásí nové volby. Proti rozhodnutí o rozpuštění zastupitelstva může kraj podat žalobu k soudu. Ustanovení § 60a a 64b se použijí obdobně. Do lhůty podle věty první se nezapočítává doba, po niž se na území kraje vztahuje krizový stav28), mimořádné opatření při epidemii nebo nebezpečí jejího vzniku nebo mimořádné veterinární opatření.*
+>
+> *Odměňování členů zastupitelstva*
 
 **Výklad:**
 
@@ -481,13 +503,13 @@ Bloko §§ 46–53 upravuje **finanční postavení zastupitelů**. Vzhledem k o
 >
 > *(1) Funkci člena zastupitelstva vykonávají*
 >
-> *- a) … „uvolněný člen zastupitelstva",*
+> *- a) členové zastupitelstva zvolení do funkcí, jež zastupitelstvo určilo jako funkce, pro které budou členové zastupitelstva uvolněni, (dále jen „uvolněný člen zastupitelstva“),*
 >
-> *- b) … „neuvolněný člen zastupitelstva".*
+> *- b) ostatní členové zastupitelstva (dále jen „neuvolněný člen zastupitelstva“).*
 >
-> *(2) Neuvolněnému členovi zastupitelstva poskytne zaměstnavatel pro výkon funkce pracovní volno s náhradou mzdy nebo platu; rozsah doby nezbytně nutný k výkonu funkce určí kraj. Náhradu mzdy nebo platu … uhradí kraj zaměstnavateli.*
+> *(2) Neuvolněnému členovi zastupitelstva poskytne zaměstnavatel pro výkon funkce pracovní volno s náhradou mzdy nebo platu; rozsah doby nezbytně nutný k výkonu funkce určí kraj. Náhradu mzdy nebo platu, včetně odpovídající částky pojistného na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti a pojistného na veřejné zdravotní pojištění podle zvláštních právních předpisů32), uhradí kraj zaměstnavateli.*
 >
-> *(3) Neuvolněnému členovi zastupitelstva, který je podnikající fyzickou osobou nebo osobou provozující jinou samostatnou výdělečnou činnost, poskytuje kraj náhradu výdělku ušlého v souvislosti s výkonem funkce paušální částkou.*
+> *(3) Neuvolněnému členovi zastupitelstva, který je podnikající fyzickou osobou nebo osobou provozující jinou samostatnou výdělečnou činnost, poskytuje kraj náhradu výdělku ušlého v souvislosti s výkonem funkce paušální částkou. Paušální částku za hodinu a nejvyšší částku, kterou lze jako náhradu výdělku ušlého v souvislosti s výkonem funkce poskytnout v souhrnu za kalendářní měsíc, stanoví zastupitelstvo.*
 >
 > *(4) Kraj nesmí členovi zastupitelstva poskytnout v souvislosti s výkonem funkce člena zastupitelstva dar, a to ani po skončení výkonu funkce.*
 
@@ -523,9 +545,23 @@ Kraj **nesmí** poskytnout zastupiteli dar (ani peněžitý, ani věcný) v souv
 
 > **§ 47**
 >
-> *(1) Uvolněnému členovi zastupitelstva poskytuje kraj za výkon funkce odměnu ve výši podle § 48 odst. 1. … Uvolněnému členovi zastupitelstva, který je poslancem, senátorem nebo členem vlády, poskytuje kraj odměnu ve výši 0,4násobku výše odměny … *
+> *(1) Uvolněnému členovi zastupitelstva poskytuje kraj za výkon funkce odměnu ve výši podle § 48 odst. 1. Odměna se poskytuje ode dne zvolení do funkce, již zastupitelstvo určilo jako funkci, pro kterou budou členové zastupitelstva uvolněni, nejdříve však ode dne, od kterého ji zastupitelstvo jako takovou funkci určilo. Uvolněnému členovi zastupitelstva, který je poslancem, senátorem nebo členem vlády, poskytuje kraj odměnu ve výši 0,4násobku výše odměny, která by jinak náležela uvolněnému členovi zastupitelstva. Je-li uvolněný člen zastupitelstva kraje zároveň členem zastupitelstva obce nebo hlavního města Prahy podle jiného právního předpisu, poskytne mu odměnu v plné výši pouze ten samosprávný celek, který by mu jako členovi zastupitelstva poskytoval odměnu vyšší. Druhý z obou samosprávných celků, jehož zastupitelstva je členem, mu poskytne odměnu ve výši 0,4násobku výše odměny, kterou by mu jinak jako členovi zastupitelstva poskytoval.*
 >
-> *(2) Neuvolněnému členovi zastupitelstva může kraj poskytovat za výkon funkce odměnu až do maximální výše podle § 48 odst. 2. …*
+> *(2) Neuvolněnému členovi zastupitelstva může kraj poskytovat za výkon funkce odměnu až do maximální výše podle § 48 odst. 2. V takovém případě se odměna poskytuje ode dne stanoveného zastupitelstvem, nejdříve však ode dne přijetí usnesení zastupitelstva, kterým odměnu stanovilo. Je-li neuvolněný člen zastupitelstva kraje, který vykonává funkci hejtmana nebo náměstka hejtmana, zároveň členem zastupitelstva obce nebo hlavního města Prahy podle jiného právního předpisu, poskytne mu odměnu v plné výši pouze ten samosprávný celek, který by mu jako členovi zastupitelstva poskytoval odměnu vyšší. Druhý z obou samosprávných celků, jehož zastupitelstva je členem, mu poskytne odměnu ve výši 0,4násobku výše odměny, kterou by mu jinak jako členovi zastupitelstva poskytoval. Neuvolněnému členovi zastupitelstva kraje vykonávajícímu funkci hejtmana nebo náměstka hejtmana, který je zároveň poslancem, senátorem nebo členem vlády, může kraj poskytovat odměnu nejvýše ve výši 0,4násobku výše odměny, která by mu jinak jako neuvolněnému členovi zastupitelstva kraje při výkonu těchto funkcí náležela.*
+>
+> *(3) V usnesení podle odstavce 2 zastupitelstvo stanoví výši odměn neuvolněným členům zastupitelstva za měsíc, a to částkou v celých korunách, přitom může přihlédnout k plnění individuálních úkolů, které jednotlivým neuvolněným členům zastupitelstva uložilo, a předem stanoveným způsobem k jejich účasti na jednání orgánů, jejichž jsou členy. Usnesení podle odstavce 2 pozbývá účinnosti ukončením funkčního období zastupitelstva, které odměnu stanovilo.*
+>
+> *(4) Neuvolněnému členovi zastupitelstva, který vykonává funkci hejtmana, poskytuje kraj odměnu v rozmezí od 0,3 do 0,6násobku výše odměny, která by náležela uvolněnému členovi zastupitelstva, který vykonává funkci hejtmana. Pokud zastupitelstvo neuvolněnému členovi zastupitelstva, který vykonává funkci hejtmana, odměnu nestanovilo, náleží mu ode dne zvolení do funkce hejtmana odměna ve výši 0,3násobku výše odměny, která by náležela uvolněnému členovi zastupitelstva, který vykonává funkci hejtmana.*
+>
+> *(5) Odměna se členovi zastupitelstva poskytuje měsíčně. Pokud člen zastupitelstva vykonával funkci jen po část měsíce, náleží mu za tento měsíc odměna ve výši násobku jedné třicetiny jeho odměny a počtu kalendářních dnů, po které funkci v daném měsíci vykonával.*
+>
+> *(6) Nevykonává-li uvolněný člen zastupitelstva funkci z důvodu dočasné pracovní neschopnosti, nařízené karantény, těhotenství a mateřství, péče o dítě do 4 let věku anebo ošetřování fyzické osoby nebo péče o dítě mladší 10 let podle zákona o nemocenském pojištění, odměna mu nenáleží, nestanoví-li tento zákon jinak.*
+>
+> *(7) Uvolněnému členovi zastupitelstva za každý kalendářní den od prvního do čtrnáctého kalendářního dne dočasné pracovní neschopnosti nebo karantény náleží odměna ve výši 60 % jedné třicetiny odměny. Pro účely stanovení výše odměny ve snížené výši podle věty první se jedna třicetina odměny upraví obdobným způsobem, jakým se upravuje denní vyměřovací základ pro stanovení nemocenského z nemocenského pojištění33).*
+>
+> *(8) Odměna stanovená podle odstavce 7 se snižuje o 50 %, pokud se nemocenské podle právních předpisů o nemocenském pojištění snižuje na polovinu. Odměna ve snížené výši stanovená podle odstavce 7 a podle věty první za jednotlivý kalendářní den se zaokrouhluje na celé koruny nahoru.*
+>
+> *(9) Je-li člen zastupitelstva odvolán z funkce nebo se funkce vzdal a v tentýž den je zvolen do jiné funkce, za kterou mu náleží odměna, náleží mu za tento den pouze ta z odměn, která je vyšší. V případě souhrnu odměn podle § 49 odst. 2 je pro posouzení výše odměn rozhodná výše souhrnné odměny, o níž rozhodlo zastupitelstvo.*
 
 **Výklad:**
 
@@ -552,7 +588,21 @@ Uvolněnému členovi se odměna **neposkytuje** za dobu dočasné pracovní nes
 >
 > *(1) Odměna uvolněného člena zastupitelstva se určí jako součin základny pro výpočet odměny a koeficientu stanoveného v příloze k tomuto zákonu podle zastávané funkce a velikostní kategorie kraje.*
 >
-> *(3) Za základnu pro výpočet odměny v příslušném kalendářním roce se považuje průměrná hrubá měsíční nominální mzda na přepočtené počty zaměstnanců v národním hospodářství dosažená za první pololetí předchozího kalendářního roku …*
+> *(2) Maximální výše odměny neuvolněného člena zastupitelstva se určí jako součin základny pro výpočet odměny a koeficientu stanoveného v příloze k tomuto zákonu podle zastávané funkce a podle velikostní kategorie kraje.*
+>
+> *(3) Za základnu pro výpočet odměny v příslušném kalendářním roce se považuje průměrná hrubá měsíční nominální mzda na přepočtené počty zaměstnanců v národním hospodářství dosažená za první pololetí předchozího kalendářního roku podle zveřejněných údajů Českého statistického úřadu známých k 1. říjnu předchozího kalendářního roku.*
+>
+> *(4) Výši základny pro výpočet odměny podle odstavce 3 vyhlašuje ministerstvo sdělením ve Sbírce zákonů a mezinárodních smluv.*
+>
+> *(5) Při určení výše odměny člena zastupitelstva se vychází z počtu obyvatel kraje34), kteří byli hlášeni v kraji k trvalému pobytu k 1. lednu kalendářního roku, ve kterém se konaly volby do zastupitelstva.*
+>
+> *(6) Změní-li se v průběhu volebního období zastupitelstva počet obyvatel kraje hlášených v kraji k trvalému pobytu k 1. lednu kalendářního roku ve srovnání s rozhodným počtem obyvatel podle odstavce 5 o více než 10 % tak, že dojde ke změně zařazení kraje ve velikostní kategorii krajů podle přílohy k tomuto zákonu, náleží od 1. ledna tohoto kalendářního roku*
+>
+> *- a) uvolněnému členovi zastupitelstva odměna ve výši odpovídající velikostní kategorii kraje,*
+>
+> *- b) neuvolněnému členovi zastupitelstva dosavadní odměna, pokud nepřesahuje maximální výši odměny pro příslušnou velikostní kategorii kraje, jinak mu přísluší odměna v maximální výši.*
+>
+> *(7) Odměna se zaokrouhluje na celé koruny nahoru.*
 
 **Výklad:**
 
@@ -580,7 +630,7 @@ Pokud se v průběhu funkčního období počet obyvatel kraje **změní o více
 >
 > *(1) V případě souběhu výkonu více funkcí náleží uvolněnému členovi zastupitelstva odměna za tu z jeho funkcí, za kterou náleží nejvyšší odměna.*
 >
-> *(2) V případě souběhu výkonu více funkcí může být neuvolněnému členovi zastupitelstva poskytnuta odměna až do výše souhrnu odměn za tři různé funkce. …*
+> *(2) V případě souběhu výkonu více funkcí může být neuvolněnému členovi zastupitelstva poskytnuta odměna až do výše souhrnu odměn za tři různé funkce. Do tohoto souhrnu lze zahrnout pouze odměny za výkon funkce člena rady, předsedy nebo člena výboru zastupitelstva, předsedy nebo člena komise rady anebo předsedy nebo člena zvláštního orgánu. Pokud zastupitelstvo nerozhodne o poskytnutí odměny podle věty první, náleží neuvolněnému členovi zastupitelstva odměna za funkci, za kterou mu náleží nejvyšší odměna schválená zastupitelstvem.*
 
 **Výklad:**
 
@@ -595,7 +645,17 @@ Pokud se v průběhu funkčního období počet obyvatel kraje **změní o více
 
 > **§ 50**
 >
-> *(1) Náměstkovi hejtmana, který po dobu delší než 4 týdny nepřetržitě zastupoval … hejtmana v plném rozsahu jeho funkce z důvodu jeho nepřítomnosti nebo v době, kdy hejtman nevykonával funkci, náleží od prvního dne zastupování odměna ve výši, která by v daném období náležela hejtmanovi, je-li tato odměna vyšší.*
+> *(1) Náměstkovi hejtmana, který po dobu delší než 4 týdny nepřetržitě zastupoval podle § 64 věty třetí hejtmana v plném rozsahu jeho funkce z důvodu jeho nepřítomnosti nebo v době, kdy hejtman nevykonával funkci, náleží od prvního dne zastupování odměna ve výši, která by v daném období náležela hejtmanovi, je-li tato odměna vyšší.*
+>
+> *(2) Členovi rady, který byl zastupitelstvem pověřen výkonem pravomocí hejtmana podle § 64a věty druhé, náleží odměna ve výši, která by v daném období náležela hejtmanovi, je-li tato odměna vyšší.*
+>
+> *(3) Osobě, která nadále vykonává pravomoci hejtmana nebo náměstka hejtmana podle § 64b, náleží po dobu výkonu těchto pravomocí dosavadní odměna za výkon této funkce a další související nároky spojené s výkonem této funkce. Osobě, která nadále vykonává pravomoci člena rady podle § 60 odst. 2 nebo § 60a, náleží po dobu výkonu těchto pravomocí dosavadní odměna za výkon této funkce a další související nároky spojené s výkonem této funkce.*
+>
+> *(4) Osobě, která je předsedou nebo členem zvláštního orgánu, náleží po skončení funkčního období zastupitelstva do odvolání z funkce dosavadní odměna za výkon této funkce a další související nároky spojené s výkonem této funkce.*
+>
+> *(5) Osobě, která je předsedou nebo členem komise rady, náleží po skončení funkčního období zastupitelstva dosavadní odměna za výkon této funkce a další související nároky spojené s výkonem této funkce po dobu výkonu pravomocí dosavadní rady podle § 60a.*
+>
+> *(6) Náležela-li by členovi zastupitelstva v jeden den odměna podle odstavce 3, 4 nebo 5 a současně odměna podle § 47 odst. 1 nebo 2, náleží mu za tento den pouze ta z odměn, která je vyšší. V případě souhrnu odměn podle § 49 odst. 2 je pro posouzení výše odměn rozhodná výše souhrnné odměny, o níž rozhodlo zastupitelstvo.*
 
 **Výklad:**
 
@@ -611,7 +671,11 @@ Náměstek nebo pověřený člen rady, který fakticky vykonává hejtmanovu fu
 >
 > *(1) Členovi zastupitelstva může kraj poskytnout mimořádnou odměnu za splnění mimořádných nebo zvláště významných úkolů kraje.*
 >
-> *(2) Souhrnná výše mimořádných odměn poskytnutých v kalendářním roce členovi zastupitelstva, který byl alespoň po část tohoto roku uvolněným členem zastupitelstva, nesmí být vyšší než dvojnásobek nejvyšší odměny, která mu v průběhu tohoto kalendářního roku náležela …*
+> *(2) Souhrnná výše mimořádných odměn poskytnutých v kalendářním roce členovi zastupitelstva, který byl alespoň po část tohoto roku uvolněným členem zastupitelstva, nesmí být vyšší než dvojnásobek nejvyšší odměny, která mu v průběhu tohoto kalendářního roku náležela za výkon jím zastávaných funkcí za měsíc.*
+>
+> *(3) Souhrnná výše mimořádných odměn poskytnutých v kalendářním roce neuvolněnému členovi zastupitelstva nesmí být vyšší než dvojnásobek nejvyšší maximální výše odměny neuvolněného člena zastupitelstva, která mu v průběhu tohoto kalendářního roku mohla být krajem poskytována za výkon jím zastávané funkce nebo v souhrnu za výkon jím zastávaných funkcí za měsíc.*
+>
+> *(4) Návrh na poskytnutí mimořádné odměny členovi zastupitelstva musí být odůvodněn a projednán jako samostatný bod programu jednání zastupitelstva. Důvod poskytnutí mimořádné odměny musí být uveden v usnesení zastupitelstva, kterým byla mimořádná odměna poskytnuta.*
 
 **Výklad:**
 
@@ -629,7 +693,19 @@ Cílem je zabránit netransparentnímu obohacování politiků prostřednictvím
 
 > **§ 52**
 >
-> *(1) Neuvolněnému členovi zastupitelstva, který vykonává funkci hejtmana nebo náměstka hejtmana, a uvolněnému členovi zastupitelstva, jimž zanikl mandát člena zastupitelstva, poskytne kraj odchodné …*
+> *(1) Neuvolněnému členovi zastupitelstva, který vykonává funkci hejtmana nebo náměstka hejtmana, a uvolněnému členovi zastupitelstva, jimž zanikl mandát člena zastupitelstva, poskytne kraj odchodné, pokud jim ke dni zániku mandátu člena zastupitelstva náležela odměna. K případům nevyplácení odměny v rozhodný den z důvodů uvedených v § 47 odst. 6 se nepřihlíží.*
+>
+> *(2) Neuvolněnému členovi zastupitelstva, který vykonává funkci hejtmana nebo náměstka hejtmana, a uvolněnému členovi zastupitelstva, kteří byli v průběhu funkčního období odvoláni nebo se vzdali funkce, poskytne kraj odchodné, pokud jim ke dni odvolání nebo vzdání se funkce náležela odměna. K případům nevyplácení odměny v rozhodný den z důvodů uvedených v § 47 odst. 6 se nepřihlíží.*
+>
+> *(3) Odchodné podle odstavce 1 při zániku mandátu člena zastupitelstva dnem voleb do zastupitelstva členovi zastupitelstva nenáleží, pokud byl v novém funkčním období opětovně zvolen do funkce uvolněného člena zastupitelstva nebo do funkce neuvolněného člena zastupitelstva, který vykonává funkci hejtmana nebo náměstka hejtmana, za niž mu náleží odměna. O opětovné zvolení do funkce podle věty první nejde, jde-li o druhé a následující obsazení uvedené funkce v průběhu funkčního období.*
+>
+> *(4) Odchodné podle odstavce 2 členovi zastupitelstva nenáleží, pokud byl nejpozději na následujícím zasedání zastupitelstva opětovně zvolen do funkce uvolněného člena zastupitelstva nebo do funkce neuvolněného člena zastupitelstva, který vykonává funkci hejtmana nebo náměstka hejtmana, za niž mu náleží odměna.*
+>
+> *(5) Odchodné členovi zastupitelstva nenáleží, pokud byl v průběhu výkonu funkce pravomocně odsouzen pro úmyslný trestný čin nebo pro nedbalostní trestný čin spáchaný v souvislosti s výkonem funkce člena zastupitelstva, jeho trestní stíhání pro takový trestný čin bylo podmíněně zastaveno nebo bylo rozhodnuto o schválení narovnání a zastavení trestního stíhání.*
+>
+> *(6) Vznikl-li členovi zastupitelstva nárok na odchodné v době, kdy je proti němu vedeno trestní stíhání pro úmyslný trestný čin nebo pro nedbalostní trestný čin spáchaný v souvislosti s výkonem funkce člena zastupitelstva, odchodné se nevyplatí. Byl-li člen zastupitelstva pro trestný čin uvedený ve větě první pravomocně odsouzen, jeho trestní stíhání bylo podmíněně zastaveno nebo bylo-li rozhodnuto o schválení narovnání a zastavení trestního stíhání, platí, že nárok na odchodné nevznikl; v opačném případě se odchodné vyplatí.*
+>
+> *(7) Odchodné podle odstavce 2 lze členovi zastupitelstva poskytnout ve funkčním období pouze jednou.*
 
 **Výklad:**
 
@@ -655,7 +731,11 @@ Odchodné nenáleží, pokud byl člen v novém funkčním období **opětovně 
 
 > **§ 53**
 >
-> *(1) Odchodné se stanoví ve výši odměny, která členovi zastupitelstva náležela za měsíc … k níž se přičte násobek této částky a počtu celých ukončených po sobě jdoucích let výkonu funkce, nejvíce však tří ukončených let výkonu funkce.*
+> *(1) Odchodné se stanoví ve výši odměny, která členovi zastupitelstva náležela za měsíc ke dni zániku mandátu člena zastupitelstva nebo ke dni odvolání nebo vzdání se funkce, k níž se přičte násobek této částky a počtu celých ukončených po sobě jdoucích let výkonu funkce, nejvíce však tří ukončených let výkonu funkce. Do rozhodné doby podle věty první se započte i doba, po kterou člen zastupitelstva podle § 52 odst. 3 nebo 4 do opětovného zvolení do funkce nevykonával funkci uvolněného člena zastupitelstva anebo funkci neuvolněného člena zastupitelstva, který vykonává funkci hejtmana nebo náměstka hejtmana.*
+>
+> *(2) Odchodné je splatné, jsou-li splněny podmínky stanovené v § 52 a předloženo čestné prohlášení podle odstavce 3, a vyplácí se jednorázově v nejbližším výplatním termínu. Pokud do 3 měsíců nenastala překážka pro nárok na odchodné podle § 52 odst. 3 a 4, odchodné se vyplatí. Člen zastupitelstva, jemuž bylo vyplaceno odchodné podle věty první, je povinen vyplacené odchodné vrátit, jestliže následně nastaly překážky pro nárok na odchodné podle § 52 odst. 3 a 4.*
+>
+> *(3) Člen zastupitelstva je povinen předložit čestné prohlášení, že u něj nejsou dány překážky pro výplatu odchodného stanovené v § 52 odst. 5 a 6.*
 
 **Výklad:**
 
@@ -697,9 +777,21 @@ Nejde tedy o úplnou pracovněprávní subordinaci — povaha veřejné funkce z
 >
 > *(1) Členovi zastupitelstva lze z peněžního fondu nebo z rozpočtu kraje poskytnout*
 >
-> *- a) příspěvek na podporu vzdělávání …,*
+> *- a) příspěvek na podporu vzdělávání v souvislosti s výkonem funkce člena zastupitelstva,*
 >
-> *- b) příspěvek na stravování, jde-li o uvolněného člena zastupitelstva, …*
+> *- b) příspěvek na stravování, jde-li o uvolněného člena zastupitelstva,*
+>
+> *- c) příspěvek na penzijní připojištění se státním příspěvkem, doplňkové penzijní spoření nebo životní pojištění,*
+>
+> *- d) odměnu při významném životním výročí,*
+>
+> *- e) příspěvek na pojištění rizik spojených s výkonem funkce člena zastupitelstva,*
+>
+> *- f) příspěvek na podporu zdravotních, kulturních a sportovních aktivit, jde-li o uvolněného člena zastupitelstva,*
+>
+> *- g) příspěvek na rekreaci, jde-li o uvolněného člena zastupitelstva,*
+>
+> *- h) příspěvek na úhradu zvýšených nákladů na úpravu zevnějšku v souvislosti se zastupováním kraje na veřejných občanských obřadech.*
 >
 > *(2) Plnění podle odstavce 1 lze členovi zastupitelstva poskytnout za obdobných podmínek a v obdobné výši jako zaměstnancům kraje.*
 
@@ -785,11 +877,17 @@ Hejtman a náměstek hejtmana jsou **automaticky členy rady ex officio**. Pokud
 
 > **§ 58**
 >
-> *(1) Rada se schází ke svým schůzím podle potřeby. Schůze rady svolává hejtman. Schůze rady jsou neveřejné. …*
+> *(1) Rada se schází ke svým schůzím podle potřeby. Schůze rady svolává hejtman. Schůze rady jsou neveřejné. Rada může k jednotlivým bodům svého jednání přizvat i dalšího člena zastupitelstva nebo jiné osoby.*
 >
 > *(2) K platnému usnesení, volbě nebo rozhodnutí je třeba souhlasu nadpoloviční většiny všech členů rady.*
 >
 > *(3) Rada vydá jednací řád, v němž stanoví podrobnosti o jednání rady.*
+>
+> *(4) Stanoví-li tak předem jednací řád rady, může se člen rady nebo jiná oprávněná osoba zúčastnit schůze rady též distančním způsobem s využitím technického zařízení pro přenos obrazu a zvuku, pokud umožňuje uplatňovat zákonná práva spojená s účastí na schůzi. Jednací řád stanoví pravidla účasti na schůzi rady distančním způsobem. Člen rady má vždy právo účastnit se schůze rady osobně v místě, v němž se schůze rady koná.*
+>
+> *(5) O průběhu schůze rady se pořizuje zápis, ve kterém se vždy uvede počet přítomných členů rady, schválený program schůze rady, průběh a výsledek hlasování a přijatá usnesení. Zápis podepisuje hejtman nebo náměstek hejtmana, spolu s ověřovateli. Zápis, který je nutno pořídit do 15 dnů po skončení schůze, musí být uložen u krajského úřadu k nahlédnutí členům zastupitelstva kraje. O námitkách člena rady proti zápisu rozhodne nejbližší schůze rady.*
+>
+> *(6) Rada podává na každém zasedání zastupitelstva zprávu o své činnosti.*
 
 **Výklad:**
 
@@ -853,7 +951,7 @@ Delegace urychluje operativní rozhodování — typicky se přenáší nakupov�
 
 > **§ 60**
 >
-> *(1) Poklesne-li v průběhu funkčního období počet členů rady tak, že rada není usnášeníschopná (§ 58 odst. 2) a na nejbližším zasedání zastupitelstva nebude počet členů rady doplněn …, vykonává její působnost, až do zvolení potřebného počtu členů rady, zastupitelstvo. …*
+> *(1) Poklesne-li v průběhu funkčního období počet členů rady tak, že rada není usnášeníschopná (§ 58 odst. 2) a na nejbližším zasedání zastupitelstva nebude počet členů rady doplněn tak, aby usnášeníschopná byla, vykonává její působnost, až do zvolení potřebného počtu členů rady, zastupitelstvo. V těchto případech zastupitelstvo může svěřit hejtmanovi výkon pravomoci rady s výjimkou vydávání nařízení kraje.*
 >
 > *(2) Je-li rada odvolána jako celek a není-li současně s tím zvolena nová rada, vykonává dosavadní rada své pravomoci až do zvolení nové rady.*
 
@@ -871,9 +969,9 @@ Delegace urychluje operativní rozhodování — typicky se přenáší nakupov�
 
 > **§ 60a**
 >
-> *(1) Rada vykonává své pravomoci podle tohoto zákona i po ukončení funkčního období zastupitelstva až do zvolení nové rady. …*
+> *(1) Rada vykonává své pravomoci podle tohoto zákona i po ukončení funkčního období zastupitelstva až do zvolení nové rady. Za zvolení nové rady podle věty první se považuje zvolení alespoň nadpoloviční většiny počtu členů rady, který má být volen podle § 57 odst. 2, jestliže došlo ke zvolení hejtmana nebo náměstka hejtmana.*
 >
-> *(2) Jestliže soud vyhoví návrhu na neplatnost voleb nebo hlasování, je rada ode dne právní moci rozhodnutí soudu do dne, ve kterého se koná ustavující zasedání nově zvoleného zastupitelstva, kromě pravomocí stanovených v odstavci 1, oprávněna stanovit pravidla rozpočtového provizoria a schvalovat rozpočtová opatření.*
+> *(2) Jestliže soud vyhoví návrhu na neplatnost voleb nebo hlasování, je rada ode dne právní moci rozhodnutí soudu do dne, ve kterém se koná ustavující zasedání nově zvoleného zastupitelstva, kromě pravomocí stanovených v odstavci 1, oprávněna stanovit pravidla rozpočtového provizoria a schvalovat rozpočtová opatření19a).*
 
 **Výklad:**
 
@@ -896,13 +994,21 @@ V případě neplatnosti voleb dostává dosavadní rada navíc rozpočtové pra
 > *(2) Hejtmana a náměstka hejtmana (náměstky hejtmana) volí zastupitelstvo z řad svých členů. Hejtman a náměstek hejtmana musí být občany České republiky. Odpovídají za výkon své funkce zastupitelstvu. Rada může ukládat úkoly hejtmanovi jen v rozsahu své působnosti.*
 >
 > *(3) Hejtman*
+>
 > *- a) s náměstkem hejtmana podepisuje právní předpisy kraje,*
-> *- b) po předchozím souhlasu ministra vnitra jmenuje a odvolává ředitele …,*
-> *- c) stanoví podle zvláštního předpisu plat řediteli a ukládá mu úkoly,*
+>
+> *- b) po předchozím souhlasu ministra vnitra jmenuje a odvolává ředitele v souladu se zvláštním zákonem; jmenování nebo odvolání ředitele bez předchozího souhlasu ministra vnitra je neplatné,*
+>
+> *- c) stanoví podle zvláštního předpisu21) plat řediteli a ukládá mu úkoly,*
+>
 > *- d) na základě zmocnění v zákoně zřizuje pro výkon přenesené působnosti zvláštní orgány,*
+>
 > *- e) odpovídá za včasné objednání přezkoumání hospodaření kraje za uplynulý kalendářní rok,*
-> *- f) odpovídá za informování občanů o činnosti kraje,*
+>
+> *- f) odpovídá za informování občanů o činnosti kraje,22)*
+>
 > *- g) vykonává další úkoly v samostatné nebo přenesené působnosti, pokud jsou mu svěřeny zastupitelstvem, radou nebo tak stanoví zákon,*
+>
 > *- h) plní obdobné úkoly jako statutární orgán zaměstnavatele podle zvláštních předpisů vůči uvolněným členům zastupitelstva a řediteli.*
 >
 > *(4) Hejtman svolává a zpravidla řídí zasedání zastupitelstva a rady, podepisuje spolu s ověřovateli zápis z jednání zastupitelstva a zápis z jednání rady.*
@@ -946,7 +1052,7 @@ Obecně závazné vyhlášky kraje (zastupitelstvo) a nařízení kraje (rada) p
 
 > **§ 61a**
 >
-> *Je-li to nezbytné v souvislosti s řešením mimořádné události … nebo jestliže se na území kraje vztahuje krizový stav, mimořádné opatření při epidemii nebo nebezpečí jejího vzniku nebo mimořádné veterinární opatření, může hejtman rozhodovat v záležitostech podle § 59 odst. 2 písm. e) a f) a § 59 odst. 3 namísto rady, popřípadě zastupitelstva, pokud si podle § 37 rozhodování v těchto záležitostech předem vyhradilo. …*
+> *Je-li to nezbytné v souvislosti s řešením mimořádné události podle zákona o integrovaném záchranném systému38), k zabránění jejího vzniku nebo k odstraňování jejích následků, anebo jestliže se na území kraje vztahuje krizový stav28), mimořádné opatření při epidemii nebo nebezpečí jejího vzniku nebo mimořádné veterinární opatření, může hejtman rozhodovat v záležitostech podle § 59 odst. 2 písm. e) a f) a § 59 odst. 3 namísto rady, popřípadě zastupitelstva, pokud si podle § 37 rozhodování v těchto záležitostech předem vyhradilo. Tím není dotčeno předchozí svěření pravomoci radou podle § 59 odst. 4.*
 
 **Výklad:**
 
@@ -1001,7 +1107,7 @@ Jeden z náměstků je zastupitelstvem určen jako **statutární zástupce hejt
 
 > **§ 64a**
 >
-> *Je-li hejtman ze své funkce odvolán nebo se funkce vzdal a není-li současně zvolen nový hejtman, vykonává jeho pravomoci podle tohoto zákona náměstek hejtmana, kterého určilo zastupitelstvo k zastupování hejtmana (§ 64). Neurčilo-li zastupitelstvo takového náměstka hejtmana …, pověří zastupitelstvo výkonem pravomocí hejtmana některého z členů rady.*
+> *Je-li hejtman ze své funkce odvolán nebo se funkce vzdal a není-li současně zvolen nový hejtman, vykonává jeho pravomoci podle tohoto zákona náměstek hejtmana, kterého určilo zastupitelstvo k zastupování hejtmana (§ 64). Neurčilo-li zastupitelstvo takového náměstka hejtmana nebo byl-li náměstek hejtmana z funkce odvolán nebo se funkce vzdal současně s hejtmanem, pověří zastupitelstvo výkonem pravomocí hejtmana některého z členů rady.*
 
 **Výklad:**
 
@@ -1017,7 +1123,7 @@ Jeden z náměstků je zastupitelstvem určen jako **statutární zástupce hejt
 
 > **§ 64b**
 >
-> *Dosavadní hejtman v období ode dne voleb do zastupitelstva do zvolení nové rady podle § 60a vykonává pravomoci podle § 61; v tomto období vykonává své pravomoci též dosavadní náměstek hejtmana. …*
+> *Dosavadní hejtman v období ode dne voleb do zastupitelstva do zvolení nové rady podle § 60a vykonává pravomoci podle § 61; v tomto období vykonává své pravomoci též dosavadní náměstek hejtmana. Nevykonává-li dosavadní hejtman své pravomoci podle věty první, vykonává je dosavadní náměstek hejtmana, a je-li dosavadních náměstků hejtmana více, ten, kterého přede dnem voleb pověřilo zastupitelstvo zastupováním hejtmana, jinak ten, kterého pověřil dosavadní hejtman. Vykonával-li ke dni voleb pravomoci hejtmana člen rady podle § 64a, použijí se věty první a druhá obdobně.*
 
 **Výklad:**
 
@@ -1055,7 +1161,7 @@ Rada může delegovat užívání odznaku na **jiného člena zastupitelstva neb
 >
 > *(1) Hejtman zřizuje pro výkon přenesené působnosti zvláštní orgány, pokud tak stanoví zvláštní zákon.*
 >
-> *(2) V čele zvláštního orgánu může být jen osoba, která, nestanoví-li zvláštní zákon jinak, prokázala zvláštní odbornou způsobilost v oblasti přenesené působnosti, pro jejíž výkon byl zvláštní orgán zřízen. …*
+> *(2) V čele zvláštního orgánu může být jen osoba, která, nestanoví-li zvláštní zákon jinak, prokázala zvláštní odbornou způsobilost v oblasti přenesené působnosti, pro jejíž výkon byl zvláštní orgán zřízen. Pro prokázání zvláštní odborné způsobilosti osoby stojící v čele zvláštního orgánu platí obdobně ustanovení zvláštních právních předpisů upravujících toto prokázání pro úředníky územních samosprávných celků.*
 >
 > *(3) Ustanovení odstavce 2 se nevztahuje na případy, kdy v čele zvláštního orgánu stojí na základě ustanovení zákona hejtman.*
 
@@ -1170,15 +1276,25 @@ V čele odboru stojí **vedoucí odboru** jmenovaný radou na návrh ředitele (
 > *(1) Ředitel je zaměstnancem kraje. Za plnění úkolů svěřených krajskému úřadu v samostatné a přenesené působnosti je odpovědný hejtmanovi.*
 >
 > *(2) Ředitel*
+>
 > *- a) zajišťuje úkoly v přenesené působnosti kraje vyplývající ze zvláštních zákonů,*
-> *- b) podává Ústavnímu soudu návrh na zrušení nařízení obce …,*
+>
+> *- b) podává Ústavnímu soudu návrh na zrušení nařízení obce za podmínek stanovených zvláštním právním předpisem22d),*
+>
 > *- c) podle zvláštních předpisů plní vůči zaměstnancům kraje zařazeným do krajského úřadu funkci statutárního orgánu zaměstnavatele,*
-> *- d) stanoví podle zvláštních předpisů platy zaměstnancům kraje …,*
+>
+> *- d) stanoví podle zvláštních předpisů21) platy zaměstnancům kraje zařazeným do krajského úřadu,*
+>
 > *- e) je nadřízeným všech zaměstnanců kraje zařazených do krajského úřadu a kontroluje jejich činnost,*
+>
 > *- f) vydává zejména organizační a pracovní řád, spisový řád a skartační řád krajského úřadu,*
+>
 > *- g) je oprávněn předkládat radě návrhy na vydání nařízení kraje,*
+>
 > *- h) určuje po projednání s hejtmanem své zástupce,*
+>
 > *- i) plní úkoly uložené mu zastupitelstvem, radou nebo hejtmanem,*
+>
 > *- j) plní úkoly stanovené v samostatné působnosti zastupitelstvem a radou a další úkoly stanovené zákonem.*
 >
 > *(3) Ředitel je oprávněn zúčastňovat se zasedání zastupitelstva a schůzí rady s hlasem poradním.*
