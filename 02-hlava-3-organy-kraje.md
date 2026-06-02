@@ -247,6 +247,11 @@ Vazba na § 62 — když hejtman pozastaví výkon usnesení rady (suspenzivní 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 29/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DF106D80D4EC2739C1257A4E0064BE14?openDocument) — 17. 2. 2011, kat. A
+  > „I. Účinky právní moci soudního rozhodnutí, jež se projevují tím, že je již nelze napadnout odvoláním jako řádným opravným prostředkem (formální právní moc) a dále závazností výroku rozhodnutí a jeho nezměnitelností (materiální právní moc) zůstávají odkladem vykonatelnosti rozhodnutí nedotčeny. II. Pohledávku insolvenčního navrhovatele přiznanou pravomocným rozhodčím nálezem, který má účinky pravomocného soudního rozhodnutí, nelze označit za spornou (za nedoloženou v intencích § 105 insolvenčního zákona) jen proto, že probíhá řízení o zrušení rozhodčího nálezu, ve kterém soud povolil odklad vykonatelnosti rozhodčího nálezu. III. Ručitelské prohlášení vyššího územního samosprávného celku ve smyslu § 143 odst. 4 insolvenčního zákona se musí týkat všech dluhů právnické osoby a nemůže být vázáno na splnění podmínky"
+
 #### Hodnotové limity jako dělící čára mezi zastupitelstvem a radou
 
 § 36 obsahuje **katalog majetkoprávních úkonů**, které musí schválit zastupitelstvo. Většina položek je svázána s **hodnotovým limitem** (500 000 Kč u darů, 1 000 000 Kč u dotací, dluhů, zástav atd.) — pod tento limit rozhoduje rada (§ 59 odst. 2), nad něj zastupitelstvo. Logika:
@@ -922,6 +927,11 @@ Pravidla distanční účasti a obsahu zápisu jsou paralelní s úpravou pro za
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 3529/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4A0359968C46115DC1257ED70025DEDC?openDocument) — 11. 8. 2015, kat. A
+  > „Ředitel krajského úřadu je oprávněn rozhodovat o organizačních změnách, vzhledem k nimž se může stát zaměstnanec kraje zařazený do krajského úřadu nadbytečným ve smyslu ustanovení § 52 písm. c) zák. práce, nejde-li o organizační změny, s nimiž je spojena změna celkového počtu zaměstnanců kraje zařazených do krajského úřadu, který stanovila rada kraje"
+
 #### Trojí typ pravomocí rady
 
 1. **Výhradní pravomoci (odst. 1)** — exekutivní jádro: rozpočtová opatření v rozsahu svěřeném zastupitelstvem, počet zaměstnanců a jejich platy, jmenování vedoucích odborů (na návrh ředitele!), komise rady, úkoly krajskému úřadu, výkon zakladatelských funkcí, vydávání nařízení kraje (jediná normotvorná pravomoc rady — pro přenesenou působnost), schvalování účetních závěrek příspěvkových organizací aj.
@@ -1248,6 +1258,11 @@ Specifická pravomoc plynoucí ze závazků ČR v oblasti **integrace národnost
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 3529/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4A0359968C46115DC1257ED70025DEDC?openDocument) — 11. 8. 2015, kat. A
+  > „Ředitel krajského úřadu je oprávněn rozhodovat o organizačních změnách, vzhledem k nimž se může stát zaměstnanec kraje zařazený do krajského úřadu nadbytečným ve smyslu ustanovení § 52 písm. c) zák. práce, nejde-li o organizační změny, s nimiž je spojena změna celkového počtu zaměstnanců kraje zařazených do krajského úřadu, který stanovila rada kraje"
+
 #### Hierarchická struktura úřadu
 
 Krajský úřad je vnitřně strukturován do **odborů a oddělení**. Příklad typické struktury:
@@ -1302,6 +1317,11 @@ V čele odboru stojí **vedoucí odboru** jmenovaný radou na návrh ředitele (
 > *(4) Ředitel nesmí vykonávat funkce v politických stranách a v politických hnutích. Jeho funkce je neslučitelná s funkcí poslance a senátora Parlamentu České republiky a s funkcí člena zastupitelstva územního samosprávného celku.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 3529/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4A0359968C46115DC1257ED70025DEDC?openDocument) — 11. 8. 2015, kat. A
+  > „Ředitel krajského úřadu je oprávněn rozhodovat o organizačních změnách, vzhledem k nimž se může stát zaměstnanec kraje zařazený do krajského úřadu nadbytečným ve smyslu ustanovení § 52 písm. c) zák. práce, nejde-li o organizační změny, s nimiž je spojena změna celkového počtu zaměstnanců kraje zařazených do krajského úřadu, který stanovila rada kraje"
 
 #### Profesionální vedoucí úřadu
 

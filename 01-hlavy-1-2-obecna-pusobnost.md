@@ -535,6 +535,11 @@ Vydávání potvrzení je zpravidla **přenesenou působností**, je-li to potvr
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 29/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DF106D80D4EC2739C1257A4E0064BE14?openDocument) — 17. 2. 2011, kat. A
+  > „I. Účinky právní moci soudního rozhodnutí, jež se projevují tím, že je již nelze napadnout odvoláním jako řádným opravným prostředkem (formální právní moc) a dále závazností výroku rozhodnutí a jeho nezměnitelností (materiální právní moc) zůstávají odkladem vykonatelnosti rozhodnutí nedotčeny. II. Pohledávku insolvenčního navrhovatele přiznanou pravomocným rozhodčím nálezem, který má účinky pravomocného soudního rozhodnutí, nelze označit za spornou (za nedoloženou v intencích § 105 insolvenčního zákona) jen proto, že probíhá řízení o zrušení rozhodčího nálezu, ve kterém soud povolil odklad vykonatelnosti rozhodčího nálezu. III. Ručitelské prohlášení vyššího územního samosprávného celku ve smyslu § 143 odst. 4 insolvenčního zákona se musí týkat všech dluhů právnické osoby a nemůže být vázáno na splnění podmínky"
+
 #### Péče řádného hospodáře (odst. 1 a 2)
 
 § 17 ZoK obsahuje **kodex péče řádného hospodáře** vztažený specificky na krajský majetek. Klíčové komponenty:
