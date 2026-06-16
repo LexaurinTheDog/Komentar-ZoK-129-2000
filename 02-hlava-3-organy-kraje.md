@@ -231,6 +231,11 @@ Mandát vzniká zvolením; slib je podmínkou jeho výkonu. Odmítnutí slibu č
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [7 Ao 1/2009 - 56](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/616533) — 26. 8. 2009
+  > „I v případě údajného nesplnění povinnosti oznámení o střetu zájmů nelze dovodit neplatnost usnesení zastupitelstva odpůrce. Územní plán byl totiž schválen výraznou většinou hlasů. Nelze dovodit ani případnou neplatnost hlasování Ing. J. Nelze zpochybňovat vůli zastupitelstva …"
+
 #### Trojí katalog práv zastupitele (odst. 1)
 
 | Právo | Adresát | Lhůta odpovědi |
@@ -311,6 +316,11 @@ Povinnost spočívá v **deklaraci skutečnosti před zahájením jednání**. S
 > *(3) Zastupitelstvo rozhoduje o zrušení usnesení rady, jsou-li mu předložena k rozhodnutí podle § 62.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [7 Aps 4/2011 - 164](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/623327) — 15. 12. 2011
+  > „Zákon o krajích v procesu zřízení příspěvkové organizace přiznává nejdůležitější roli zastupitelstvu kraje, kterému jako jedinému orgánu přísluší právo zřizovat a rušit příspěvkové organizace a schvalovat jejich zřizovací listiny. … Rada kraje tedy na sebe nesmí atrahovat pravomoc, která přísluší výhradně zastupitelstvu kraje, a to ani poukazem na to, že ve vztahu k příspěvkovým organizacím plní podle ust. § 59 odst. 1 písm. i) zákona o krajích zakladatelské a zřizovatelské funkce"
 
 #### Generální klauzule samostatné působnosti (odst. 1)
 
@@ -429,8 +439,8 @@ Zastupitelstvu náleží generální působnost v samostatné působnosti a taxa
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 NSCR 29/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DF106D80D4EC2739C1257A4E0064BE14?openDocument) — 17. 2. 2011, kat. A
-  > „I. Účinky právní moci soudního rozhodnutí, jež se projevují tím, že je již nelze napadnout odvoláním jako řádným opravným prostředkem (formální právní moc) a dále závazností výroku rozhodnutí a jeho nezměnitelností (materiální právní moc) zůstávají odkladem vykonatelnosti rozhodnutí nedotčeny. II. Pohledávku insolvenčního navrhovatele přiznanou pravomocným rozhodčím nálezem, který má účinky pravomocného soudního rozhodnutí, nelze označit za spornou (za nedoloženou v intencích § 105 insolvenčního zákona) jen proto, že probíhá řízení o zrušení rozhodčího nálezu, ve kterém soud povolil odklad vykonatelnosti rozhodčího nálezu. III. Ručitelské prohlášení vyššího územního samosprávného celku ve smyslu § 143 odst. 4 insolvenčního zákona se musí týkat všech dluhů právnické osoby a nemůže být vázáno na splnění podmínky"
+- *ÚS* [I.ÚS 339/01](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-339-01) — usnesení, 5. 9. 2001
+  > „Podle ustanovení § 36 zákona č. 129/2000 Sb. je zastupitelstvu kraje vyhrazeno rozhodování o věcech "patřících do samostatné působnosti" včetně práva rozhodovat o nabývání a převodech nemovitého majetku a jeho zatěžování zástavními právy, věcnými břemeny a zřizování dlouhodobých pronájmů věcí"
 
 #### Hodnotové limity jako dělící čára mezi zastupitelstvem a radou
 
@@ -1973,8 +1983,12 @@ Schůze rady jsou neveřejné, ale její výstupy kontrole podléhají: zápis (
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 3529/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4A0359968C46115DC1257ED70025DEDC?openDocument) — 11. 8. 2015, kat. A
+- *ÚS* [Pl.ÚS 34/02](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-34-02) — nález, 5. 2. 2003
+  > „Autonomní rozhodování o zaměstnancích určuje § 102 zákona č. 128/2000 Sb., o obcích (obecní zřízení), a § 59 zákona č. 129/2000 Sb., o krajích (krajské zřízení). Podle čl. 6 odst. 1 Charty jsou to místní společenství, jež si stanovují svou vlastní vnitřní strukturu podle svých potřeb. … delimitace zákonem č. 320/2002 Sb. je sice omezením autonomie obcí, měst a krajů určovat počty zaměstnanců svého obecního, městského či krajského úřadu [§ 102 odst. 2 písm. j) zákona o obcích nebo § 59 odst. 1 písm. b) zákona o krajích], jde však o omezení zákonné"
+- *NS* [21 Cdo 3529/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4A0359968C46115DC1257ED70025DEDC?openDocument) — kat. A, 11. 8. 2015
   > „Ředitel krajského úřadu je oprávněn rozhodovat o organizačních změnách, vzhledem k nimž se může stát zaměstnanec kraje zařazený do krajského úřadu nadbytečným ve smyslu ustanovení § 52 písm. c) zák. práce, nejde-li o organizační změny, s nimiž je spojena změna celkového počtu zaměstnanců kraje zařazených do krajského úřadu, který stanovila rada kraje"
+- *NSS* [7 Aps 4/2011 - 164](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/623327) — 15. 12. 2011
+  > „zákon o krajích v ust. § 59 odst. 1 písm. i) svěřuje výkon zakladatelských a zřizovatelských funkcí radě kraje. Zákon o krajích, a ani jiný právní předpis, zakladatelské a zřizovatelské funkce sice nijak nevymezuje, nicméně z výčtu obsaženého v citovaném ustanovení lze dovodit, že těmito funkcemi je třeba chápat zejména úkony zajišťující činnost zřizované právnické osoby či organizační složky po stránce personální a organizační včetně možnosti kontroly plnění úkolů příspěvkové organizace a sjednání nápravy případných pochybení"
 
 #### Trojí typ pravomocí rady
 
@@ -2644,6 +2658,11 @@ Zvláštní orgány zřizuje hejtman výhradně na základě výslovného zmocn�
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [7 As 62/2007 - 62](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/612390) — 19. 6. 2008
+  > „pokud je povinným subjektem kraj, za něhož podle § 66 zákona č. 129/2000 Sb., o krajích, ve znění pozdějších předpisů, plní úkoly v samostatné působnosti uložené mu zastupitelstvem a radou krajský úřad, přičemž požadovaná informace se týká činnosti spadající do samostatné působnosti kraje, pak rozhoduje o odvolání proti rozhodnutí povinného subjektu ten, kdo stojí v jeho čele, tedy hejtman příslušného kraje"
+
 #### Krajský úřad jako administrativní aparát
 
 Krajský úřad je **profesionální správní aparát** kraje. V samostatné působnosti:
@@ -2771,7 +2790,7 @@ Specifická pravomoc plynoucí ze závazků ČR v oblasti **integrace národnost
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 3529/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4A0359968C46115DC1257ED70025DEDC?openDocument) — 11. 8. 2015, kat. A
+- *NS* [21 Cdo 3529/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4A0359968C46115DC1257ED70025DEDC?openDocument) — kat. A, 11. 8. 2015
   > „Ředitel krajského úřadu je oprávněn rozhodovat o organizačních změnách, vzhledem k nimž se může stát zaměstnanec kraje zařazený do krajského úřadu nadbytečným ve smyslu ustanovení § 52 písm. c) zák. práce, nejde-li o organizační změny, s nimiž je spojena změna celkového počtu zaměstnanců kraje zařazených do krajského úřadu, který stanovila rada kraje"
 
 #### Hierarchická struktura úřadu
@@ -2867,7 +2886,7 @@ V čele odboru stojí **vedoucí odboru** jmenovaný radou na návrh ředitele (
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 3529/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4A0359968C46115DC1257ED70025DEDC?openDocument) — 11. 8. 2015, kat. A
+- *NS* [21 Cdo 3529/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4A0359968C46115DC1257ED70025DEDC?openDocument) — kat. A, 11. 8. 2015
   > „Ředitel krajského úřadu je oprávněn rozhodovat o organizačních změnách, vzhledem k nimž se může stát zaměstnanec kraje zařazený do krajského úřadu nadbytečným ve smyslu ustanovení § 52 písm. c) zák. práce, nejde-li o organizační změny, s nimiž je spojena změna celkového počtu zaměstnanců kraje zařazených do krajského úřadu, který stanovila rada kraje"
 
 #### Profesionální vedoucí úřadu

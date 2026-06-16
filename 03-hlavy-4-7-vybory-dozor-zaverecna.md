@@ -20,6 +20,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [7 As 420/2017 - 36](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/645211) — 13. 2. 2018
+  > „Výbory ve smyslu § 76 odst. 1 zákona č. 129/2000 Sb., o krajích, jsou tedy interní součástí procesu rozhodování zastupitelstva kraje a plní poradní úlohu, obdobně jako např. výbory Poslanecké sněmovny Parlamentu ČR. Rozhodnutí o zřízení či nezřízení, respektive o doplnění či nedoplnění takového výboru není rozhodováním o veřejných subjektivních právech"
+
 #### Pojem výboru — iniciativní a kontrolní funkce (odst. 1)
 
 Výbor zastupitelstva je **kolektivní pomocný orgán** zastupitelstva kraje, jehož funkce je dvojí:
@@ -201,6 +206,11 @@ Kvórum výboru se vždy počítá z plného (zákonného) počtu členů; usnes
 > *- e) plní další úkoly v oblasti výchovy a vzdělávání, kterými jej pověří zastupitelstvo.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 As 336/2017 - 18](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/645300) — 20. 2. 2018
+  > „Za splnění výše uvedených podmínek není zřízení výboru pro národnostní menšiny interní či organizační záležitostí zastupitelstva, o které by zastupitelstvo mohlo rozhodovat na základě svého uvážení. Právě naopak: … zastupitelstvo je povinno takový výbor zřídit, jsou-li pro to splněny zákonné podmínky. Tato povinnost má ústavní rozměr, neboť mimo jiné právě prostřednictvím výboru zastupitelstva kraje pro národnostní menšiny mohou příslušníci národnostní menšiny realizovat svá ústavně zaručená práva, zejména právo účasti na řešení věcí týkajících se národnostních a etnických menšin podle čl. 25 odst. 2 písm. c) Listiny"
 
 #### Tři obligatorní výbory (odst. 1)
 
@@ -1347,6 +1357,11 @@ Ministerstvo vnitra je koordinátorem vztahu ústřední správy ke krajům: ved
 > *(4) Správní řízení pravomocně neskončená před nabytím účinnosti tohoto zákona se dokončí podle dosavadních předpisů.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [Komp 4/2006 - 103](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/610834) — 22. 2. 2008
+  > „Jedním z projevů respektování práva na územní samosprávu je pak nutně i to, že odvolací správní orgán, jímž je ohledně věcí spadajících do samostatné působnosti Ministerstvo vnitra, podle ustanovení § 94 odst. 1 krajského zřízení i podle ustanovení § 90 odst. 1 písm. c) správního řádu nemůže ve správním řízení rozhodnutí krajského úřadu jako orgánu I. stupně ve věcech samostatné působnosti kraje změnit. Pokud by tomu tak nebylo, rozhodování v oblasti samosprávy a samostatné působnosti by mohlo být nahrazeno státní správou. V pochybnostech je tedy třeba dát přednost řešení, které lépe zajistí respektování práva na územní samosprávu"
 
 #### Příslušnost krajského úřadu v samostatné působnosti (odst. 1)
 

@@ -120,6 +120,11 @@ Věta „**Kraj pečuje o všestranný rozvoj svého území a o potřeby svých
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 As 23/2012 - 20](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/627123) — 28. 2. 2013
+  > „Zatímco předmětem přenesené působnosti je výkon státní správy, který je státem toliko „přenášen“ na kraje, resp. jejich jednotlivé orgány, v případě samostatné působnosti se jedná o krajskou samosprávu, samosprávnou působnost kraje jako veřejnoprávní korporace, vykonávanou vlastním jménem a na vlastní odpovědnost, v jejímž rámci kraj (prostřednictvím svých orgánů) realizuje své právo na autonomní správu vlastních záležitostí. Zatímco v případě přenesené působnosti se jedná toliko o dekoncentraci státní správy, působnost samostatná je výrazem decentralizace veřejné správy, tedy jejího přenosu na jiný subjekt než stát …"
+
 #### Smíšený model územní samosprávy (odst. 1 a 2)
 
 Česká republika zvolila pro výstavbu územní samosprávy **smíšený model** — tytéž orgány (zastupitelstvo, rada, hejtman, krajský úřad) vykonávají jak **samosprávu** (samostatnou působnost), tak i **státní správu** (přenesenou působnost). Alternativou — neuplatněnou — by byl tzv. oddělený („francouzský") model, v němž státní správu na regionální úrovni vykonává oddělený státní orgán (prefekt). Smíšený model je administrativně úspornější, ale klade vysoké nároky na rozlišení režimů, v nichž orgán kraje v konkrétním okamžiku jedná.
@@ -191,6 +196,11 @@ Odkaz na zákon č. 250/2000 Sb. o rozpočtových pravidlech územních rozpočt
 > *Pokud zvláštní zákon upravuje působnost krajů a nestanoví, že jde o přenesenou působnost, platí, že jde vždy o činnosti patřící do samostatné působnosti krajů.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [Komp 4/2017 - 31](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/646868) — 26. 6. 2018
+  > „Konečně třetím hlediskem, nedávají-li první dvě hlediska jasnou odpověď na řešenou otázku, je podle Nejvyššího správního soudu nastavení poměru mezi samostatnou a přenesenou působností v § 4 zákona č. 129/2000 Sb., o krajích (krajské zřízení) … Platí totiž, že není-li zákonem stanoveno jinak, vykonává kraj svěřené úkoly v oblasti samostatné působnosti"
 
 #### Generální klauzule a její dosah
 
@@ -388,6 +398,13 @@ OZV kraje je použitelná jen tam, kde zvláštní zákon výslovně zmocňuje k
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 1085/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1085-11_1) — usnesení, 17. 4. 2013
+  > „S ohledem na uvedené se Ústavní soud v dané věci ztotožňuje se závěrem Nejvyššího správního soudu, že nařízení kraje (Program ke zlepšení kvality ovzduší), vydané k provedení ust. § 48 odst. 2 písm. c) zákona č. 86/2002 Sb., o ochraně ovzduší, je právním předpisem (ust. § 7 zákona č. 129/2000 Sb., o krajích), nikoli opatřením obecné povahy"
+- *NSS* [62 A 90/2022 - 139](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/737842) — 28. 11. 2024
+  > „Podle § 7 zákona č. 129/2000 Sb., o krajích, vydává rada na základě a v mezích zákona právní předpisy v přenesené působnosti, je-li k tomu kraj zákonem zmocněn; tyto právní předpisy se nazývají nařízení kraje; taková nařízení pak představují prováděcí předpisy k zákonu …"
+
 #### Pramen krajského práva v přenesené působnosti
 
 **Nařízení kraje** je obdobou nařízení obce (§ 11 zákona č. 128/2000 Sb.) a vládních nařízení (čl. 78 Ústavy) — jde o **podzákonný předpis vydaný k provedení zákona v přenesené působnosti**. Tvůrcem je **rada kraje** (nikoliv zastupitelstvo), neboť přenesená působnost je výkon státní správy a v něm je rada efektivnějším orgánem.
@@ -548,6 +565,11 @@ Klíčové důsledky režimu od 1. 1. 2022:
 > *(3) Oprávnění uvedená v odstavci 2 písm. b) až f) má i fyzická osoba, která dosáhla věku 18 let a vlastní na území kraje nemovitost.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [30 A 22/2020 - 211](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/419318) — 3. 6. 2020
+  > „Předmětné ustanovení totiž nelze interpretovat tak, že pokud určitý bod programu v pozvánce na zasedání zastupitelstva nebyl avizován, občané neměli možnost se k němu vyjádřit a projednání tohoto bodu bylo automaticky nezákonné. Lze souhlasit se žalobci, že řešení otázek zásadního politického významu by mělo být oznamováno s předstihem, aby si občané kraje mohli uspořádat své záležitosti a v případě zájmu se na jednání zastupitelstva dostavit a vyjádřit …"
 
 #### Definice občana kraje (odst. 1)
 
@@ -737,6 +759,13 @@ V praxi kraje udělují **medaile, plakety a čestná občanství** podle vlastn
 > *(5) Kraje jsou povinny, pokud je to možné, předem projednat s obcemi opatření dotýkající se jejich působnosti.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 51/06](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-51-06_1) — nález, 27. 9. 2006
+  > „… lze pod potřeby občanů kraje podřadit i otázky ochrany a rozvoje zdraví a poskytování zdravotní péče, ačkoliv to zákon č. 129/2000 Sb. (na rozdíl od zákona č. 128/2000 Sb.) výslovně neuvádí. Do samostatné působnosti kraje podle ustanovení § 14 odst. 1 zákona č. 129/2000 Sb. patří záležitosti, které jsou v zájmu kraje a občanů kraje, pokud nejde o přenesenou působnost kraje"
+- *NSS* [1 Afs 92/2023 - 64](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/722368) — 20. 6. 2024
+  > „Do samostatné působnosti kraje patří podle § 14 zákona č. 129/2000 Sb., o krajích (dále jen „krajské zřízení“) záležitosti, které jsou v zájmu kraje a občanů kraje, pokud nejde o přenesenou působnost kraje"
 
 #### Generální klauzule (odst. 1)
 
@@ -1041,8 +1070,10 @@ Vydávání potvrzení je zpravidla **přenesenou působností**, je-li to potvr
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 NSCR 29/2009](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DF106D80D4EC2739C1257A4E0064BE14?openDocument) — 17. 2. 2011, kat. A
-  > „I. Účinky právní moci soudního rozhodnutí, jež se projevují tím, že je již nelze napadnout odvoláním jako řádným opravným prostředkem (formální právní moc) a dále závazností výroku rozhodnutí a jeho nezměnitelností (materiální právní moc) zůstávají odkladem vykonatelnosti rozhodnutí nedotčeny. II. Pohledávku insolvenčního navrhovatele přiznanou pravomocným rozhodčím nálezem, který má účinky pravomocného soudního rozhodnutí, nelze označit za spornou (za nedoloženou v intencích § 105 insolvenčního zákona) jen proto, že probíhá řízení o zrušení rozhodčího nálezu, ve kterém soud povolil odklad vykonatelnosti rozhodčího nálezu. III. Ručitelské prohlášení vyššího územního samosprávného celku ve smyslu § 143 odst. 4 insolvenčního zákona se musí týkat všech dluhů právnické osoby a nemůže být vázáno na splnění podmínky"
+- *NSS* [2 As 195/2015 - 25](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/636985) — 6. 1. 2016
+  > „Minimálně dle § 17 odst. 1 zákona č. 129/2000 Sb., o krajích (krajské zřízení), musí být majetek kraje využíván účelně a hospodárně v souladu s jeho zájmy a úkoly vyplývajícími ze zákonem vymezené působnosti. Kraj je povinen pečovat o zachování a rozvoj svého majetku"
+- *NSS* [5 A 176/2014 - 90](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/511341) — 25. 10. 2017
+  > „Kraj nese odpovědnost za účelné a hospodárné využití vynaložených prostředků [§ 17 odst. 1 zákona č. 129/2000 Sb., o krajích (krajské zřízení), ve znění pozdějších předpisů]"
 
 #### Péče řádného hospodáře (odst. 1 a 2)
 
@@ -1128,6 +1159,11 @@ Kraj má aktivní povinnost (i) chránit majetek před neoprávněnými zásahy 
 > *(5) Odstavce 1 a 2 se nepoužijí v případě postupu podle § 18a až 18c a v případě zpětného převodu majetku státu podle § 21b odst. 3 písm. e) zákona o majetku České republiky a jejím vystupování v právních vztazích.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [11 A 219/2010 - 98](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/546902) — 20. 11. 2014
+  > „Vyhlášení výběrového řízení spočívajícího v hodnocení nabídek reagujících na záměr … pronajmout nemovitý majetek dle § 36 odst. 1 zákona č. 131/2000 Sb., o hlavním městě Praze (obdobně pak i dle § 39 odst. 1 zákona č. 128/2000 Sb., o obcích, či § 18 odst. 1 zákona č. 129/2000 Sb., o krajích) … není sice stricto sensu zákonnou povinností, ale je naplněním zásady účelného, hospodárného a transparentního využití majetku hlavního města Prahy (a obdobně majetku obcí a krajů)"
 
 #### Princip transparentnosti dispozic (odst. 1)
 
@@ -2032,6 +2068,11 @@ Mezinárodní aktivity kraje jsou předmětem **informování Ministerstva zahra
 > *(2) Kraj obdrží ze státního rozpočtu příspěvek na výkon přenesené působnosti. Výši příspěvku stanoví Ministerstvo financí po projednání s ministerstvem.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 217/2017 - 44](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/644666) — 20. 12. 2017
+  > „… výkon přenesené působnosti krajskými úřady je dotován příspěvkem ze státního rozpočtu ve smyslu § 29 odst. 2 zákona č. 129/2000 Sb., o krajích (krajské zřízení), ve znění pozdějších předpisů. Z praktického hlediska by se tudíž jednalo o redundantní kruhové transakce, měl-li by orgán územní samosprávy v soudním řízení, kde vystupuje v rámci výkonu přenesené působnosti, platit soudní poplatky"
 
 #### Materiální vymezení přenesené působnosti (odst. 1)
 
