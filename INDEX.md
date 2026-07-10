@@ -25,3 +25,7 @@ Středočeský, Jihočeský, Plzeňský, Karlovarský, Ústecký, Liberecký, Kr
 - **Krajský úřad + ředitel** — § 66+
 - **OZV kraje** — kraj **vydává obecně závazné vyhlášky** a **nařízení** podobně jako obec
 - **Dozor MV ČR** nad samostatnou a přenesenou působností — § 81+
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
