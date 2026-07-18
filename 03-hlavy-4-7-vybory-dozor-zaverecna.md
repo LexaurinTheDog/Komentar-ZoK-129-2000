@@ -89,54 +89,6 @@ Výbor je pomocný orgán bez rozhodovací pravomoci: vše, co má mít právní
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=0528e75b0b518193b0a0 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
-#### Revizní doplnění k § 76
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
-
-##### Znění ustanovení
-
-> (1) Zastupitelstvo může zřídit jako své iniciativní a kontrolní orgány výbory. Svá stanoviska a návrhy předkládají výbory zastupitelstvu.
->
-> (2) Předsedou výboru je vždy člen zastupitelstva.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=0528e75b0b518193b0a0 -->
-
 ### § 77 — Úkoly, jednání a usnášení výborů
 
 > **§ 77**
@@ -221,56 +173,6 @@ Kvórum výboru se vždy počítá z plného (zákonného) počtu členů; usnes
 **Typicky rozhodné důkazy / podklady:** zřizovací usnesení (počet členů), prezenční listiny, zápisy a písemná usnesení výboru, jednací řád, zápis ze zasedání zastupitelstva.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=397ea4b1e8a3639db2bc generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
-#### Revizní doplnění k § 77
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
-
-##### Znění ustanovení
-
-> (1) Výbory plní úkoly, kterými je pověří zastupitelstvo. Ze své činnosti odpovídají výbory zastupitelstvu.
->
-> (2) Počet členů výborů je vždy lichý. Výbory se schází podle potřeby.
->
-> (3) K přijetí usnesení je třeba nadpoloviční většiny hlasů všech členů výborů. Usnesení výborů se vyhotovují písemně a podepisuje je předseda výboru.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=397ea4b1e8a3639db2bc -->
 
 ### § 78 — Obligatorní výbory a jejich věcná působnost
 
@@ -417,86 +319,6 @@ Finanční výbor, kontrolní výbor a výbor pro výchovu, vzdělávání a zam
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=18637e57668033f386f6 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
-#### Revizní doplnění k § 78
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
-
-##### Znění ustanovení
-
-> (1) Zastupitelstvo zřizuje vždy výbor finanční, výbor kontrolní a výbor pro výchovu, vzdělávání a zaměstnanost. Tyto výbory jsou nejméně pětičlenné.
->
-> (2) Kraj, v jehož územním obvodu žije podle posledního sčítání lidu alespoň 5 % občanů kraje hlásících se k národnosti jiné než české, zřizuje výbor pro národnostní menšiny, pokud o to písemně požádá spolek zastupující zájmy národnostní menšiny31). Nejméně polovinu členů výboru musí tvořit příslušníci národnostních menšin, ledaže tuto podmínku nelze splnit pro nedostatek kandidátů z řad národnostních menšin.
->
-> (3) Členy finančního a kontrolního výboru nemohou být hejtman, zástupce hejtmana, ředitel ani osoby zabezpečující rozpočtové a účetní práce na krajském úřadu.
->
-> (4) Finanční výbor
->
-> - a) provádí kontrolu hospodaření s majetkem a finančními prostředky kraje,
->
-> - b) provádí kontrolu hospodaření právnických osob a zařízení založených nebo zřízených krajem, nebo které na kraj byly převedeny,
->
-> - c) provádí kontrolu využití dotací a návratných finančních výpomocí poskytnutých krajem z jeho prostředků obcím; za tímto účelem je výbor oprávněn požadovat od obcí příslušné podklady a obce jsou povinny poskytnout výboru požadovanou součinnost,
->
-> - d) plní další úkoly ve finanční oblasti, kterými jej pověří zastupitelstvo.
->
-> (5) Kontrolní výbor
->
-> - a) kontroluje plnění usnesení zastupitelstva a rady,
->
-> - b) kontroluje dodržování právních předpisů ostatními výbory a krajským úřadem na úseku samostatné působnosti,
->
-> - c) plní další kontrolní úkoly, kterými jej pověří zastupitelstvo.
->
-> (6) Výbor pro výchovu, vzdělávání a zaměstnanost
->
-> - a) v návaznosti na demografický vývoj a vývoj zaměstnanosti posuzuje a vyjadřuje se k síti škol a školských zařízení, studijních a učebních oborů a k jejich změnám v působnosti kraje,
->
-> - b) předkládá návrhy na zkvalitnění péče poskytované školami a školskými zařízeními, popřípadě předškolními zařízeními, které kraj zřizuje,
->
-> - c) vyjadřuje se k záměrům na poskytování dotací v oblasti mládeže, tělovýchovy a sportu,
->
-> - d) projednává zprávy o výsledcích výchovně vzdělávací činnosti škol, školských zařízení a předškolních zařízení, které kraj zřizuje,
->
-> - e) plní další úkoly v oblasti výchovy a vzdělávání, kterými jej pověří zastupitelstvo.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=18637e57668033f386f6 -->
-
 ### § 79 — Zápis o provedené kontrole
 
 > **§ 79**
@@ -560,54 +382,6 @@ Zápis o kontrole musí vždy obsahovat předmět, zjištěné nedostatky a náv
 **Typicky rozhodné důkazy / podklady:** zápis o kontrole s podpisy, záznam o odmítnutí podpisu, vyjádření kontrolovaných, zápis a usnesení zastupitelstva, jednací řád výboru.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=49a8175158604bf3a7a6 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
-#### Revizní doplnění k § 79
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
-
-##### Znění ustanovení
-
-> (1) O provedené kontrole výbor pořídí zápis, který obsahuje předmět kontroly, jaké nedostatky byly zjištěny a návrhy na opatření směřující k odstranění nedostatků. Zápis podepisuje člen výboru a zaměstnanec, jehož činnosti se kontrola týkala.
->
-> (2) Výbor předloží zápis zastupitelstvu; v případě kontrolního zápisu se k zápisu připojí vyjádření orgánu, případně zaměstnanců, jejichž činnosti se kontrola týkala.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=49a8175158604bf3a7a6 -->
 
 ### § 80 — Komise rady
 
@@ -693,56 +467,6 @@ Komise je poradním orgánem rady bez kontrolní funkce a bez pravomoci komukoli
 > **Poznámka k systematice — chybějící HLAVA V:** V textové verzi zákona (na řádku 1019 zdroje) je za § 80 přímo „HLAVA VI — DOZOR". Hlava V (která v původní verzi z roku 2000 upravovala další aspekty orgánů kraje a byla v podstatě prázdná nebo přečíslovaná v důsledku pozdějších novelizací) se zde tedy nevyskytuje a komentář pokračuje Hlavou VI.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=25a2ff5b6e2d5e28b9f4 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
-#### Revizní doplnění k § 80 — Komise
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
-
-##### Znění ustanovení
-
-> (1) Rada zřizuje jako své iniciativní a poradní orgány komise. Svá stanoviska a náměty předkládají komise radě.
->
-> (2) Komise se usnáší většinou hlasů všech svých členů.
->
-> (3) Komise je ze své činnosti odpovědna radě.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=25a2ff5b6e2d5e28b9f4 -->
 
 ## HLAVA VI — Dozor
 
@@ -855,58 +579,6 @@ Dozor nad vyhláškami kraje je sekvenční: výzva (60 dnů) → pozastavení �
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=ebbcea39f2ab9e21712d generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
-#### Revizní doplnění k § 81
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
-
-##### Znění ustanovení
-
-> (1) Odporuje-li obecně závazná vyhláška kraje zákonu, vyzve ministerstvo kraj ke zjednání nápravy. Nezjedná-li kraj nápravu do 60 dnů od doručení výzvy nebo ministerstvu sdělí, že nápravu nezjedná, rozhodne ministerstvo o pozastavení účinnosti této obecně závazné vyhlášky. Účinnost obecně závazné vyhlášky kraje je pozastavena dnem doručení rozhodnutí ministerstva kraji. Ministerstvo v rozhodnutí současně stanoví kraji přiměřenou lhůtu ke zjednání nápravy. Zjedná-li zastupitelstvo kraje nápravu ve stanovené lhůtě, ministerstvo své rozhodnutí o pozastavení účinnosti obecně závazné vyhlášky kraje zruší neprodleně poté, co obdrží sdělení kraje o zjednání nápravy.
->
-> (2) V případě zřejmého rozporu obecně závazné vyhlášky kraje s lidskými právy a základními svobodami může ministerstvo pozastavit její účinnost bez předchozí výzvy ke zjednání nápravy. Účinnost obecně závazné vyhlášky kraje je pozastavena dnem doručení rozhodnutí ministerstva kraji. Ministerstvo v rozhodnutí současně stanoví kraji lhůtu ke zjednání nápravy. Zjedná-li zastupitelstvo kraje nápravu ve stanovené lhůtě, ministerstvo své rozhodnutí o pozastavení účinnosti obecně závazné vyhlášky kraje zruší neprodleně poté, co obdrží sdělení kraje o zjednání nápravy.
->
-> (3) Nezjedná-li zastupitelstvo kraje nápravu ve stanovené lhůtě a není-li proti rozhodnutí ministerstva podle odstavce 1 a [[#§ 2|2]] podán rozklad, podá ministerstvo do 30 dnů od uplynutí lhůty pro podání rozkladu Ústavnímu soudu návrh na zrušení obecně závazné vyhlášky kraje. Je-li proti rozhodnutí ministerstva podle odstavce 1 a [[#§ 2|2]] podán rozklad, podá ministerstvo takový návrh Ústavnímu soudu do 30 dnů ode dne právní moci rozhodnutí o rozkladu, kterým byl rozklad zamítnut. Jestliže Ústavní soud tento návrh odmítne, zamítne nebo řízení zastaví, rozhodnutí ministerstva o pozastavení účinnosti obecně závazné vyhlášky kraje pozbývá platnosti dnem, kdy rozhodnutí Ústavního soudu nabude právní moci.
->
-> (4) Zjedná-li zastupitelstvo kraje nápravu před rozhodnutím Ústavního soudu o návrhu podle odstavce 3, sdělí kraj neprodleně tuto skutečnost Ústavnímu soudu a ministerstvu. Ministerstvo své rozhodnutí o pozastavení účinnosti obecně závazné vyhlášky kraje zruší do 15 dnů od doručení sdělení kraje o zjednání nápravy.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 2
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=ebbcea39f2ab9e21712d -->
-
 ### § 82 — Dozor nad usneseními, rozhodnutími a jinými opatřeními orgánů kraje v samostatné působnosti
 
 > **§ 82**
@@ -1004,62 +676,6 @@ Dozor podle § 82 dopadá na všechny akty orgánů kraje v samostatné působno
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=137e467e8de45011816c generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
-#### Revizní doplnění k § 82
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
-
-##### Znění ustanovení
-
-> (1) Je-li usnesení, rozhodnutí nebo jiné opatření orgánu kraje v samostatné působnosti v rozporu se zákonem nebo jiným právním předpisem a nejde-li o obecně závaznou vyhlášku kraje, vyzve ministerstvo kraj ke zjednání nápravy. Nezjedná-li příslušný orgán kraje nápravu do 60 dnů od doručení výzvy nebo ministerstvu sdělí, že nápravu nezjedná, pozastaví ministerstvo výkon takového usnesení, rozhodnutí nebo jiného opatření orgánu kraje v samostatné působnosti. Výkon usnesení, rozhodnutí nebo jiného opatření orgánu kraje v samostatné působnosti je pozastaven dnem doručení rozhodnutí ministerstva kraji. Ministerstvo v rozhodnutí současně stanoví kraji přiměřenou lhůtu ke zjednání nápravy. Zjedná-li příslušný orgán kraje nápravu ve stanovené lhůtě, ministerstvo své rozhodnutí o pozastavení výkonu usnesení, rozhodnutí nebo jiného opatření orgánu kraje v samostatné působnosti zruší neprodleně poté, co obdrží sdělení kraje o zjednání nápravy, jehož přílohou je i usnesení, rozhodnutí nebo jiné opatření orgánu kraje v samostatné působnosti, kterým byla zjednána náprava.
->
-> (2) V případě zřejmého a závažného rozporu usnesení, rozhodnutí nebo jiného opatření orgánu kraje v samostatné působnosti se zákonem může ministerstvo pozastavit výkon takového usnesení, rozhodnutí nebo jiného opatření orgánu kraje v samostatné působnosti bez předchozí výzvy ke zjednání nápravy. Výkon takového usnesení, rozhodnutí nebo jiného opatření orgánu kraje v samostatné působnosti je pozastaven dnem doručení rozhodnutí ministerstva kraji. Ministerstvo v rozhodnutí současně stanoví kraji lhůtu ke zjednání nápravy. Zjedná-li příslušný orgán kraje nápravu ve stanovené lhůtě, ministerstvo své rozhodnutí o pozastavení výkonu usnesení, rozhodnutí nebo jiného opatření orgánu kraje v samostatné působnosti zruší neprodleně poté, co obdrží sdělení kraje o zjednání nápravy, jehož přílohou je i usnesení, rozhodnutí nebo jiné opatření orgánu kraje v samostatné působnosti, kterým byla zjednána náprava.
->
-> (3) Nezjedná-li příslušný orgán kraje ve stanovené lhůtě nápravu a není-li proti rozhodnutí ministerstva podle odstavce 1 a [[#§ 2|2]] podán rozklad, podá ministerstvo do 30 dnů od uplynutí lhůty pro podání rozkladu příslušnému soudu návrh na zrušení usnesení, rozhodnutí nebo jiného opatření orgánu kraje v samostatné působnosti. Je-li proti rozhodnutí ministerstva podle odstavce 1 a [[#§ 2|2]] podán rozklad, podá ministerstvo takový návrh příslušnému soudu do 30 dnů ode dne právní moci rozhodnutí o rozkladu, kterým byl rozklad zamítnut. Jestliže soud tento návrh odmítne, zamítne nebo řízení zastaví, rozhodnutí ministerstva o pozastavení výkonu usnesení, rozhodnutí nebo jiného opatření orgánu kraje v samostatné působnosti pozbývá platnosti dnem, kdy rozhodnutí soudu nabude právní moci.
->
-> (4) Zjedná-li příslušný orgán kraje před rozhodnutím soudu o návrhu podle odstavce 3 nápravu, sdělí kraj neprodleně tuto skutečnost soudu a ministerstvu. Ministerstvo své rozhodnutí o pozastavení výkonu usnesení, rozhodnutí nebo jiného opatření orgánu kraje v samostatné působnosti zruší do 15 dnů od doručení sdělení kraje o zjednání nápravy, jehož přílohou je usnesení, rozhodnutí nebo jiné opatření orgánu kraje v samostatné působnosti, kterým byla zjednána náprava.
->
-> (5) Ministerstvo o pozastavení výkonu usnesení, rozhodnutí nebo jiného opatření orgánu kraje v samostatné působnosti nerozhodne, jestliže již bylo vykonáno; v takovém případě podá pouze návrh soudu na jeho zrušení.
->
-> (6) Ustanovení odstavců 1 až 5 se nepoužijí v případě porušení právních předpisů občanského, obchodního nebo pracovního práva a v případě, kdy jsou dozor nebo kontrola výkonu samostatné působnosti krajů upraveny zvláštním právním předpisem25).
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 2
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=137e467e8de45011816c -->
-
 ### Díl 2 — Dozor v přenesené působnosti
 
 ### § 83 — Dozor nad nařízeními kraje
@@ -1140,58 +756,6 @@ Nařízení kraje dozoruje věcně příslušný resort podle úseku státní sp
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=a768756b7b153b78e9d3 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
-#### Revizní doplnění k § 83
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
-
-##### Znění ustanovení
-
-> (1) Odporuje-li nařízení kraje zákonu nebo jinému právnímu předpisu, vyzve věcně příslušné ministerstvo nebo jiný ústřední správní úřad kraj ke zjednání nápravy. Nezjedná-li příslušný orgán kraje nápravu do 60 dnů od doručení výzvy nebo věcně příslušnému ministerstvu nebo jinému ústřednímu správnímu úřadu sdělí, že nápravu nezjedná, rozhodne věcně příslušné ministerstvo nebo jiný ústřední správní úřad o pozastavení účinnosti tohoto nařízení kraje. Účinnost nařízení kraje je pozastavena dnem doručení rozhodnutí věcně příslušného ministerstva nebo jiného ústředního správního úřadu kraji. Věcně příslušné ministerstvo nebo jiný ústřední správní úřad v rozhodnutí současně stanoví kraji přiměřenou lhůtu ke zjednání nápravy. Zjedná-li příslušný orgán kraje nápravu ve stanovené lhůtě, věcně příslušné ministerstvo nebo jiný ústřední správní úřad své rozhodnutí o pozastavení účinnosti nařízení kraje zruší neprodleně poté, co obdrží sdělení kraje o zjednání nápravy.
->
-> (2) V případě zřejmého rozporu nařízení kraje s lidskými právy a základními svobodami může věcně příslušné ministerstvo nebo jiný ústřední správní úřad pozastavit jeho účinnost bez předchozí výzvy ke zjednání nápravy. Účinnost nařízení kraje je pozastavena dnem doručení rozhodnutí věcně příslušného ministerstva nebo jiného ústředního správního úřadu kraji. Věcně příslušné ministerstvo nebo jiný ústřední správní úřad v rozhodnutí současně stanoví kraji přiměřenou lhůtu ke zjednání nápravy. Zjedná-li příslušný orgán kraje nápravu ve stanovené lhůtě, věcně příslušné ministerstvo nebo jiný ústřední správní úřad své rozhodnutí o pozastavení účinnosti nařízení kraje zruší neprodleně poté, co obdrží sdělení kraje o zjednání nápravy.
->
-> (3) Nezjedná-li příslušný orgán kraje nápravu ve stanovené lhůtě, podá věcně příslušné ministerstvo nebo jiný ústřední správní úřad do 30 dnů ode dne uplynutí lhůty pro nápravu Ústavnímu soudu návrh na zrušení nařízení kraje. Jestliže Ústavní soud tento návrh odmítne, zamítne nebo řízení zastaví, rozhodnutí věcně příslušného ministerstva nebo jiného ústředního správního úřadu o pozastavení účinnosti nařízení kraje pozbývá platnosti dnem, kdy rozhodnutí Ústavního soudu nabude právní moci.
->
-> (4) Zjedná-li příslušný orgán kraje před rozhodnutím Ústavního soudu o návrhu podle odstavce 3 nápravu, sdělí kraj neprodleně tuto skutečnost Ústavnímu soudu a věcně příslušnému ministerstvu nebo jinému ústřednímu správnímu úřadu. Věcně příslušné ministerstvo nebo jiný ústřední správní úřad rozhodnutí o pozastavení účinnosti nařízení kraje zruší do 15 dnů od doručení sdělení kraje o zjednání nápravy.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=a768756b7b153b78e9d3 -->
-
 ### § 84 — Dozor nad usneseními, rozhodnutími a jinými opatřeními orgánů kraje v přenesené působnosti
 
 > **§ 84**
@@ -1271,54 +835,6 @@ V přenesené působnosti ministerstvo akty kraje po marné výzvě přímo ruš
 **Typicky rozhodné důkazy / podklady:** napadený akt, směrnice a doklad o vyhlášení ve Věstníku, výzva a sdělení kraje, rozhodnutí o zrušení, zákonná zmocnění.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=ba33728fe74f7973bf21 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
-#### Revizní doplnění k § 84
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
-
-##### Znění ustanovení
-
-> (1) Odporuje-li usnesení, rozhodnutí nebo jiné opatření orgánu kraje v přenesené působnosti zákonu, jinému právnímu předpisu a v jejich mezích též usnesení vlády, směrnici ústředního správního úřadu nebo opatření věcně příslušného ministerstva nebo jiného ústředního správního úřadu přijatému při kontrole výkonu přenesené působnosti, vyzve věcně příslušné ministerstvo nebo jiný ústřední správní úřad kraj ke zjednání nápravy. Nezjedná-li kraj nápravu do 60 dnů od doručení výzvy nebo věcně příslušnému ministerstvu nebo jinému ústřednímu správnímu úřadu sdělí, že nápravu nezjedná, věcně příslušné ministerstvo nebo jiný ústřední správní úřad takové usnesení, rozhodnutí nebo jiné opatření orgánu kraje zruší a o rozhodnutí o zrušení usnesení, rozhodnutí nebo jiného opatření orgánu kraje v přenesené působnosti informuje krajský úřad.
->
-> (2) V případě zřejmého a závažného rozporu usnesení, rozhodnutí nebo jiného opatření orgánu kraje v přenesené působnosti se zákonem může věcně příslušné ministerstvo nebo jiný ústřední správní úřad takové usnesení, rozhodnutí nebo jiné opatření orgánu kraje zrušit bez předchozí výzvy ke zjednání nápravy.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=ba33728fe74f7973bf21 -->
 
 ### Díl 3 — Společná ustanovení k dozoru
 
@@ -1408,58 +924,6 @@ Tato rozhodnutí mají vlastní **přezkumný režim** (odvolání, přezkumné 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=4f3f85a7459cc758ced9 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
-#### Revizní doplnění k § 85
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
-
-##### Znění ustanovení
-
-> (1) Kraj vyvěsí neprodleně na úřední desce po dobu nejméně 15 dnů ode dne jeho doručení rozhodnutí soudu, kterým se zrušuje usnesení, rozhodnutí nebo jiné opatření orgánu kraje v samostatné působnosti.
->
-> (2) Kraj na požádání zašle neprodleně ministerstvu usnesení, rozhodnutí a jiná opatření orgánů kraje v samostatné působnosti. Kraj na požádání zašle neprodleně věcně příslušnému ministerstvu nebo jinému ústřednímu správnímu úřadu usnesení, rozhodnutí a jiná opatření orgánů kraje v přenesené působnosti.
->
-> (3) Na rozhodování o pozastavení účinnosti nařízení kraje a o zrušení usnesení, rozhodnutí nebo jiného opatření orgánu kraje v přenesené působnosti se ustanovení [[správního řádu|správního řádu]] nepoužijí, s výjimkou ustanovení o základních zásadách činnosti správních orgánů.
->
-> (4) Ustanovení dílů 1 a 2 se nevztahují na rozhodnutí a jiné úkony orgánů kraje učiněné podle [[správního řádu|správního řádu]] nebo podle daňového řádu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=4f3f85a7459cc758ced9 -->
-
 ## HLAVA VII — Kontrola výkonu samostatné a přenesené působnosti
 
 > **Téma hlavy:** Kontrola je institut odlišný od dozoru — je zaměřena na **procesní sledování dodržování právních předpisů** (a v přenesené působnosti i interních aktů řízení) orgány kraje. Výsledkem kontroly není rušení aktů (jako u dozoru), nýbrž **protokol o kontrole, nápravná opatření a politická akountabilita** vůči zastupitelstvu.
@@ -1530,58 +994,6 @@ Kontrolu samostatné působnosti vykonává Ministerstvo vnitra, přenesené vě
 **Typicky rozhodné důkazy / podklady:** oznámení o kontrole s vymezením předmětu, pověření kontrolujících, kontrolované smlouvy a usnesení, protokol o kontrole, námitky kraje.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=752285825f90fa5cd856 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
-#### Revizní doplnění k § 86
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
-
-##### Znění ustanovení
-
-> (1) Nestanoví-li zvláštní právní předpis jinak, kontrolují výkon samostatné působnosti svěřené orgánům krajů ministerstvo a výkon přenesené působnosti svěřené orgánům krajů věcně příslušná ministerstva nebo jiné ústřední správní úřady.
->
-> (2) Kontrolou se pro účely tohoto zákona rozumí činnost orgánů veřejné správy uvedených v odstavci 1, při které se zjišťuje, zda orgány krajů dodržují
->
-> - a) při výkonu samostatné působnosti zákony a jiné právní předpisy, s výjimkou právních předpisů občanského, obchodního nebo pracovního práva,
->
-> - b) při výkonu přenesené působnosti zákony, jiné právní předpisy a v jejich mezích též usnesení vlády, směrnice ústředních správních úřadů a opatření příslušných orgánů veřejné správy přijatá při kontrole výkonu přenesené působnosti.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=752285825f90fa5cd856 -->
 
 ### § 87 — Kontrola výkonu samostatné působnosti
 
@@ -1663,60 +1075,6 @@ Po kontrole samostatné působnosti následuje pevný cyklus: náprava → sezn�
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=2d58aeddaad69a5aa4b1 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
-#### Revizní doplnění k § 87 — Kontrola výkonu samostatné působnosti
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
-
-##### Znění ustanovení
-
-> (1) Kraj je povinen zajistit nápravu nedostatků zjištěných kontrolou výkonu samostatné působnosti.
->
-> (2) Požádá-li kraj o doporučení opatření k nápravě nedostatků zjištěných kontrolou, uvede kontrolující tato doporučení v protokolu o kontrole.
->
-> (3) Hejtman, popřípadě jím pověřený zástupce, seznámí s protokolem o kontrole zastupitelstvo na jeho nejbližším zasedání konaném po ukončení kontroly. V případě, že byl kontrolou shledán nezákonný postup kraje, přijme kraj opatření k nápravě zjištěných nedostatků a opatření k zamezení opakování kontrolou zjištěných nedostatků.
->
-> (4) Informaci o přijatých nápravných opatřeních kraj vyvěsí na úřední desce krajského úřadu po dobu nejméně 15 dnů.
->
-> (5) Kraj informuje ministerstvo o splnění povinností stanovených v odstavcích 1, [[#§ 3|3]] a [[#§ 4|4.]]
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 3, § 4
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=2d58aeddaad69a5aa4b1 -->
-
 ### § 88 — Kontrola výkonu přenesené působnosti
 
 > **§ 88**
@@ -1779,54 +1137,6 @@ Při kontrole přenesené působnosti jedná za krajský úřad ředitel (nebo j
 **Typicky rozhodné důkazy / podklady:** oznámení o kontrole, písemná pověření, protokol s uloženými opatřeními, doklady o plnění, navazující akty krajského úřadu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=f6084272eb9c06f01e17 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
-#### Revizní doplnění k § 88 — Kontrola výkonu přenesené působnosti
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
-
-##### Znění ustanovení
-
-> (1) Při kontrole výkonu přenesené působnosti svěřené orgánům krajů jedná za tyto orgány v případě krajského úřadu ředitel nebo jím pověřená osoba a v případě ostatních orgánů kraje hejtman nebo jím pověřená osoba.
->
-> (2) Osoba uvedená v odstavci 1 je povinna zajistit nápravu nedostatků zjištěných kontrolou a splnění uložených opatření.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=f6084272eb9c06f01e17 -->
 
 ## HLAVA VIII — Vztah ministerstev a vlády k územním samosprávným celkům
 
@@ -1900,54 +1210,6 @@ V přenesené působnosti jsou orgány kraje podřízeny příslušným minister
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=96731337c62641c97e63 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
-#### Revizní doplnění k § 92
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
-
-##### Znění ustanovení
-
-> (1) Při výkonu přenesené působnosti jsou orgány územní samosprávy podřízeny příslušnému ministerstvu.
->
-> (2) Příslušná ministerstva, do jejichž působnosti náleží úseky státní správy vykonávané orgány územní samosprávy, řídí v rámci zákonů výkon státní správy vydáváním právních předpisů a směrnic; podmínkou platnosti směrnice je její publikace, ve výjimečném případě oznámení o vydání ve Věstníku vlády pro orgány krajů a orgány obcí.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=96731337c62641c97e63 -->
-
 ### § 92a — Přezkum rozhodnutí a kontrola výkonu přenesené působnosti
 
 > **§ 92a**
@@ -2010,56 +1272,6 @@ Proti rozhodnutím krajského úřadu ve správním řízení v přenesené půs
 **Typicky rozhodné důkazy / podklady:** rozhodnutí s poučením, odvolání, správní spis, kompetenční ustanovení zvláštního zákona.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=664bf1a4e18ce8d27403 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
-#### Revizní doplnění k § 92a — Vztah ministerstev ke krajům
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
-
-##### Znění ustanovení
-
-> Příslušná ministerstva, do jejichž působnosti náleží úseky státní správy vykonávané orgány kraje,
->
-> - a) přezkoumávají rozhodnutí orgánů kraje vydaná na úseku přenesené působnosti ve správním řízení;4) na přezkoumávání rozhodnutí orgánů kraje vydaných ve správním řízení se vztahují ustanovení [[správního řádu|správního řádu]],
->
-> - b) kontrolují výkon přenesené působnosti orgány kraje na svěřeném úseku.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=664bf1a4e18ce8d27403 -->
 
 ### § 93 — Působnost Ministerstva vnitra ke krajům
 
@@ -2127,62 +1339,6 @@ Ministerstvo vnitra je koordinátorem vztahu ústřední správy ke krajům: ved
 **Typicky rozhodné důkazy / podklady:** text směrnice, částky Věstníku vlády pro orgány krajů a orgány obcí, korespondence s MV, kontrolní protokoly.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=ce2b46363050c49b0c1a generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
-#### Revizní doplnění k § 93
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
-
-##### Znění ustanovení
-
-> Ministerstvo ve vztahu ke krajům na úseku přenesené působnosti
->
-> - a) koordinuje vydávání směrnic ministerstev a jiných ústředních správních úřadů, jež se dotýkají přenesené působnosti kraje nebo přenesené působnosti obce; k tomu vydává Věstník vlády pro orgány krajů a orgány obcí; podmínkou platnosti směrnic ústředních správních úřadů je jejich vyhlášení ve Věstníku vlády pro orgány krajů a orgány obcí,
->
-> - b) kontroluje dodržování usnesení a opatření vlády v činnosti příslušných orgánů kraje a poskytování odborné pomoci krajským úřadem obcím,
->
-> - c) organizuje porady ředitelů krajských úřadů,
->
-> - d) ve spolupráci s příslušnými ústředními správními úřady organizuje provádění kontrol na vybraných úsecích činnosti orgánů kraje, vyhodnocuje jejich výsledky a předkládá vládě návrhy na potřebná opatření,
->
-> - e) řídí a ve spolupráci s příslušnými ministerstvy koordinuje výstavbu a realizaci informačních systémů krajů a zabezpečuje řešení a realizaci projektů.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=ce2b46363050c49b0c1a -->
 
 ## HLAVA IX — Ustanovení společná, přechodná a závěrečná
 
@@ -2291,58 +1447,6 @@ V samostatné působnosti rozhoduje v prvním stupni krajský úřad podle sprá
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=78c0237d2922c71e9ded generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
-#### Revizní doplnění k § 94
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
-
-##### Znění ustanovení
-
-> (1) Je-li orgánům kraje svěřeno rozhodování o právech a povinnostech fyzických a právnických osob ve věcech patřících do samostatné působnosti kraje, k řízení je příslušný krajský úřad; na jeho rozhodování se vztahuje [[správní řád|správní řád]],4) pokud tento nebo zvláštní zákon nestanoví jinak. K přezkoumávání těchto rozhodnutí je příslušné ministerstvo, pokud zvláštní zákon nestanoví jinak25a); odvolací orgán nemůže rozhodnutí změnit.
->
-> (2) Skutečnosti nasvědčující vyloučení zaměstnance zařazeného do krajského úřadu27) z projednávání a rozhodování věci ve správním řízení se oznamují příslušnému vedoucímu odboru krajského úřadu; skutečnosti nasvědčující vyloučení vedoucího odboru krajského úřadu nebo vedoucího nebo člena zvláštního orgánu se oznamují řediteli krajského úřadu. O podjatosti rozhoduje zaměstnanec, jemuž se skutečnosti nasvědčující vyloučení oznamují; ten také v případě rozhodnutí o vyloučení pro podjatost učiní potřebná opatření k zajištění dalšího řízení.
->
-> (3) Orgány kraje samy vykonávají správní rozhodnutí jimi vydaná, pokud není podán návrh na soudní výkon rozhodnutí. Pokuty uložené krajem vybírá a vymáhá kraj;26) výnos pokut je příjmem kraje, pokud zvláštní zákon nestanoví jinak.
->
-> (4) Správní řízení pravomocně neskončená před nabytím účinnosti tohoto zákona se dokončí podle dosavadních předpisů.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=78c0237d2922c71e9ded -->
-
 ### § 95 — Výluka pro hlavní město Prahu
 
 > **§ 95**
@@ -2391,52 +1495,6 @@ Na hlavní město Prahu se zákon o krajích nepoužije vůbec — vždy je tře
 **Typicky rozhodné důkazy / podklady:** napadený akt, příslušná kompetenční ustanovení zákona o hlavním městě Praze.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=0be4e33c8bf63b752058 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
-#### Revizní doplnění k § 95
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
-
-##### Znění ustanovení
-
-> Tento zákon se nevztahuje na hlavní město Prahu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=0be4e33c8bf63b752058 -->
 
 ### Přechodná ustanovení
 
@@ -2512,56 +1570,6 @@ Dnem účinnosti ZoK (12. 11. 2000) přešla **práva a povinnosti** ze stávaj�
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=71290e059a482b0b9d8a generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
-#### Revizní doplnění k § 96
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
-
-##### Znění ustanovení
-
-> (1) Přednosta okresního úřadu v sídle kraje přijme do pracovního poměru k okresnímu úřadu zaměstnance, kteří budou určeni ministerstvem na základě výsledků výběrového řízení organizovaného ministerstvem. Tito zaměstnanci zabezpečí přípravu zahájení činnosti nově zvolených orgánů kraje a výkon působnosti krajského úřadu.
->
-> (2) Pro Brněnský kraj zabezpečí úkoly podle odstavce 1 Okresní úřad Brno-venkov, pro Ostravský kraj Okresní úřad Karviná a pro Plzeňský kraj Okresní úřad Plzeň-sever.
->
-> (3) Práva a povinnosti z pracovněprávních vztahů zaměstnanců přijatých podle odstavců 1 a [[#§ 2|2]] přecházejí ke dni nabytí účinnosti tohoto zákona z okresních úřadů na příslušné kraje.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 2
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=71290e059a482b0b9d8a -->
-
 ### § 97 — Svolání ustavujícího zasedání
 
 > **§ 97**
@@ -2608,52 +1616,6 @@ Toto ustanovení mělo praktický význam jen jednou — pro ustavující zased�
 **Typicky rozhodné důkazy / podklady:** vyhlášení výsledků voleb, akt svolání, zápis z ustavujícího zasedání.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=b78c5c64c60e63773406 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
-#### Revizní doplnění k § 97
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
-
-##### Znění ustanovení
-
-> Ustavující zasedání zastupitelstev zvolených ve volbách v roce 2000 svolá ministr vnitra. Termín jeho konání stanoví tak, aby se uskutečnila do 40 dnů od vyhlášení výsledků voleb.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=b78c5c64c60e63773406 -->
 
 ### § 97a — Příspěvek na druhou fázi reformy veřejné správy
 
@@ -2715,58 +1677,6 @@ Toto ustanovení je dnes již konzumováno (uskutečněno) a fakticky obsoletní
 **Typicky rozhodné důkazy / podklady:** usnesení vlády, majetkové a delimitační protokoly, pasport užívání budov, rozpočtová dokumentace roku 2003.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=0e7ddd04d72c05e027d9 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
-#### Revizní doplnění k § 97a
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
-
-##### Znění ustanovení
-
-> (1) Kraje obdrží ze státního rozpočtu příspěvek27a) určený na úhradu nákladů spojených s převzetím výkonu státní správy v souvislosti s druhou fází reformy veřejné správy v celkovém objemu 536 mil. Kč pro rok 2003.
->
-> (2) Výši příspěvku pro jednotlivé kraje určí vláda svým usnesením.
->
-> (3) Příspěvek neobdrží kraje, které budou dlouhodobě využívat administrativní budovy v majetku státu nebo na něž tento majetek přejde.
->
-> (4) V případě, že kraje budou administrativní budovy dlouhodobě využívat pouze částečně, odstavec 3 se použije přiměřeně.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=0e7ddd04d72c05e027d9 -->
 
 ### Závěrečná ustanovení
 
@@ -2848,54 +1758,6 @@ ZoK nabyl účinnosti 12. 11. 2000 (dnem prvních krajských voleb); § 96 již 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=b9f6b0fff629c200520d generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
-#### Revizní doplnění k § 99 — Účinnost
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
-
-##### Znění ustanovení
-
-> (1) Tento zákon nabývá účinnosti dnem voleb do zastupitelstev v krajích, s výjimkou ustanovení [[#§ 7|§ 7]], [[#§ 29|29]], [[#§ 30|30]] a [[#§ 67|67]], která nabývají účinnosti dnem 1. ledna 2001.
->
-> (2) Ustanovení [[#§ 96|§ 96]] nabývá účinnosti dnem vyhlášení tohoto zákona ve Sbírce zákonů.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 7, § 29, § 30, § 67, § 96
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=b9f6b0fff629c200520d -->
-
 ## Příloha k zákonu č. 129/2000 Sb. — Koeficienty pro stanovení výše odměn
 
 Příloha stanoví **koeficienty pro odměňování členů zastupitelstev krajů**, odstupňované podle:
@@ -2928,56 +1790,6 @@ Konkrétní výši odměn pak stanoví vláda **nařízením** (podle § 47 a 53
 Příloha je tedy **základní kvantitativní matricí** pro výpočet odměn — slouží jako bázový algoritmický vstup, jenž je následně transformován vládním nařízením do konkrétních korunových částek.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=12cb84eafbd5909a30ec generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
-### Revizní doplnění k příloze — Koeficienty pro stanovení výše odměn členů zastupitelstev krajů
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
-
-#### Znění ustanovení
-
-> Příloha k zákonu č. 129/2000 Sb.
-> Koeficienty pro stanovení výše odměn členů zastupitelstev krajů
-> Číslo řádku - velikostní kategorie krajePočet obyvatel
->  s trvalým pobytem na území krajeUvolnění členové zastupitelstvaNeuvolnění členové zastupitelstvahejtmannáměstek hejtmanačlen rady (neuvedený ve sl. 1 a 2)předseda výboru zastupitelstva, komise rady, zvl. orgánu, ostatní uvolněníhejtmannáměstek hejtmanačlen rady (neuvedený ve sl. 5 a 6)předseda výboru zastupitelstva, komise rady, zvláštního
->  orgánučlen výboru zastupitelstva, komise rady, zvláštního orgánučlen zastupitelstva bez dalších funkcí123456789101kraj do 500 0003,6323,1962,9062,4702,1791,9610,4360,2540,2180,1822kraj 500 001 - 1 000 0003,7533,3033,0032,5522,2522,0270,4500,2630,2250,1883kraj nad 1 000 0003,8743,4093,1002,6352,3252,0920,4650,2710,2320,194
-
-#### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-#### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-#### Souvisící předpisy
-
-- zákon č. 129/2000 Sb. (výslovně uvedeno v místním znění)
-
-#### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-#### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-#### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-#### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=12cb84eafbd5909a30ec -->
 
 ## Závěrečné shrnutí
 
