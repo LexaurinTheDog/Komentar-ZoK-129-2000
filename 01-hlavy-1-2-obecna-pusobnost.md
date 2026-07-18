@@ -106,6 +106,58 @@ Věta „**Kraj pečuje o všestranný rozvoj svého území a o potřeby svých
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=64b2595d807cd8deaf1e generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 1
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Kraj je územním společenstvím občanů, které má právo na samosprávu.
+>
+> (2) Kraj je veřejnoprávní korporací, která má vlastní majetek a vlastní příjmy vymezené zákonem a hospodaří za podmínek stanovených zákonem podle vlastního rozpočtu. Kraj vystupuje v právních vztazích svým jménem a nese odpovědnost z těchto vztahů vyplývající.
+>
+> (3) Kraj je samostatně spravován zastupitelstvem kraje (dále jen „zastupitelstvo“); dalšími orgány kraje jsou rada kraje (dále jen „rada“), hejtman kraje (dále jen „hejtman“) a krajský úřad. Orgánem kraje je též zvláštní orgán kraje (dále jen „zvláštní orgán“) zřízený podle zákona.
+>
+> (4) Kraj pečuje o všestranný rozvoj svého území a o potřeby svých občanů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=64b2595d807cd8deaf1e -->
+
 ### § 2 — Dualita samostatné a přenesené působnosti
 
 > **§ 2**
@@ -189,6 +241,58 @@ Odkaz na zákon č. 250/2000 Sb. o rozpočtových pravidlech územních rozpočt
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=16f6853bae640c920f47 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 2
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Kraj spravuje své záležitosti samostatně (dále jen „samostatná působnost“). Státní orgány mohou do samostatné působnosti zasahovat, jen vyžaduje-li to ochrana zákona, a jen způsobem, který stanoví zákon. Rozsah samostatné působnosti může být též omezen zákonem.
+>
+> (2) Státní správu, jejíž výkon byl zákonem svěřen orgánům kraje, vykonávají orgány kraje jako svou přenesenou působnost ([[#§ 29|§ 29]] a [[#§ 30|30]]). Kraj je při výkonu státní správy správním obvodem. Kraj je povinen zabezpečit výkon přenesené působnosti.
+>
+> (3) Kraj při výkonu samostatné působnosti a přenesené působnosti chrání veřejný zájem.
+>
+> (4) Kraj zajišťuje výkon finanční kontroly podle [[rozpočtových pravidel územních rozpočtů|rozpočtových pravidel územních rozpočtů]] a podle zvláštního právního předpisu.1)
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 29, § 30
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=16f6853bae640c920f47 -->
+
 ### § 4 — Domněnka samostatné působnosti
 
 > **§ 4**
@@ -252,6 +356,52 @@ Důvod tohoto pravidla je dvojí:
 **Typicky rozhodné důkazy / podklady:** text zmocňovacího ustanovení, důvodová zpráva ke zvláštnímu zákonu, povaha výstupu (koncepce vs. rozhodnutí), stanoviska MV ČR k režimu působností.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f07d201e03eccf3770ad generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 4
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> Pokud zvláštní zákon upravuje působnost krajů a nestanoví, že jde o přenesenou působnost, platí, že jde vždy o činnosti patřící do samostatné působnosti krajů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f07d201e03eccf3770ad -->
 
 ### § 5 — Znak a vlajka kraje
 
@@ -324,6 +474,58 @@ Porušení povinnosti získat souhlas k užívání znaku kraje může být sank
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e0634e5b7ea44509fd81 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 5
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Kraj může mít znak a vlajku.
+>
+> (2) Předseda Poslanecké sněmovny může kraji, který nemá znak nebo vlajku, na jeho návrh znak nebo vlajku udělit.
+>
+> (3) Předseda Poslanecké sněmovny může na žádost kraje změnit znak nebo vlajku kraje.
+>
+> (4) Kraje a jimi zřízené nebo založené organizační složky a právnické osoby mohou užívat znak a vlajku kraje. Jiné subjekty mohou užívat znak kraje jen s jeho souhlasem. K užívání vlajky kraje není nutný jeho souhlas.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e0634e5b7ea44509fd81 -->
+
 ### Díl 2 — Obecně závazné vyhlášky kraje a nařízení kraje
 
 ### § 6 — Obecně závazná vyhláška kraje (samostatná působnost)
@@ -389,6 +591,52 @@ OZV kraje je použitelná jen tam, kde zvláštní zákon výslovně zmocňuje k
 **Typicky rozhodné důkazy / podklady:** text OZV a zmocňovacího ustanovení, usnesení zastupitelstva, dozorové akty MV, vyhlášení v eSbírce ÚSC, podklady o věcném odůvodnění regulace.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=dc889117484b819bdb6e generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 6
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> Obecně závaznou vyhláškou kraje vydanou zastupitelstvem v mezích jeho samostatné působnosti lze ukládat povinnosti fyzickým a právnickým osobám, jen stanoví-li tak zákon.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dc889117484b819bdb6e -->
 
 ### § 7 — Nařízení kraje (přenesená působnost)
 
@@ -469,6 +717,52 @@ Nařízení kraje je odvozená normotvorba rady v přenesené působnosti: vždy
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=db075dcc9e402498eed9 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 7
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> Na základě a v mezích zákona rada vydává právní předpisy v přenesené působnosti, je-li k tomu kraj zákonem zmocněn; tyto právní předpisy se nazývají nařízení kraje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=db075dcc9e402498eed9 -->
+
 ### § 8 — Soulad s vyššími předpisy a vyhlášení
 
 > **§ 8**
@@ -535,6 +829,54 @@ Klíčové důsledky režimu od 1. 1. 2022:
 **Typicky rozhodné důkazy / podklady:** výpis z eSbírky ÚSC, doklad o vyvěšení na úřední desce (u předpisů do konce 2021), text předpisu s datem přijetí, zmocňovací ustanovení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f7db2474f5e1b31bd8be generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 8
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Obecně závazné vyhlášky kraje musí být v souladu se zákony a nařízení kraje musí být v souladu se zákony a právními předpisy vydanými vládou a ústředními správními úřady.
+>
+> (2) Způsob vyhlášení obecně závazných vyhlášek a nařízení kraje (dále jen „právní předpis kraje“) a podmínky nabytí platnosti a účinnosti právních předpisů kraje stanoví zákon o Sbírce právních předpisů územních samosprávných celků a některých správních úřadů37).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f7db2474f5e1b31bd8be -->
 
 ### Díl 4 — Občané kraje
 
@@ -634,6 +976,70 @@ Odst. 3 přiznává **vybranou část** občanských práv kraje i fyzickým oso
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a31b6b6a24e487e0d105 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 12
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Občanem kraje je fyzická osoba, která je státním občanem České republiky a je přihlášena k trvalému pobytu5) v některé obci nebo na území vojenského újezdu v územním obvodu kraje.
+>
+> (2) Občan kraje, který dosáhl věku 18 let, má právo
+>
+> - a) volit a být volen do zastupitelstva za podmínek stanovených zákonem,6)
+>
+> - b) vyjadřovat na zasedání zastupitelstva v souladu s jednacím řádem svá stanoviska k projednávaným věcem,
+>
+> - c) nahlížet do rozpočtu kraje a do závěrečného účtu kraje, do zprávy o výsledku přezkoumání hospodaření kraje za uplynulý kalendářní rok, do usnesení a zápisů z jednání zastupitelstva, do usnesení rady, výborů zastupitelstva (dále jen „výbory“) a komisí rady (dále jen „komise“) a pořizovat si z nich výpisy, pokud tomu nebrání jiné zákony,
+>
+> - d) požadovat projednání určité záležitosti v oblasti samostatné působnosti radou nebo zastupitelstvem; je-li žádost podepsána nejméně 1 000 občany kraje, musí být projednána na jejich zasedání nejpozději do 60 dnů, jde-li o působnost zastupitelstva, nejdéle do 90 dnů,
+>
+> - e) podávat orgánům kraje návrhy, připomínky a podněty; orgány kraje je vyřizují bezodkladně, nejdéle však do 60 dnů, jde-li o působnost zastupitelstva, nejdéle do 90 dnů,
+>
+> - f) vyjadřovat se k návrhu rozpočtu kraje a k závěrečnému účtu kraje za uplynulý kalendářní rok, a to buď písemně, ve lhůtě stanovené jednacím řádem, nebo ústně na zasedání zastupitelstva,
+>
+> - g) hlasovat v krajském referendu za podmínek stanovených zvláštním zákonem.
+>
+> (3) Oprávnění uvedená v odstavci 2 písm. b) až f) má i fyzická osoba, která dosáhla věku 18 let a vlastní na území kraje nemovitost.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a31b6b6a24e487e0d105 -->
+
 ### § 13 — Cizinci s trvalým pobytem na základě mezinárodní smlouvy
 
 > **§ 13**
@@ -688,6 +1094,52 @@ Praktický důsledek: § 13 ZoK má v současné praxi **velmi omezený dosah** 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=936a0d4d539eb35efc68 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 13
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> Oprávnění uvedená v § 12 odst. 2 má i fyzická osoba, která dosáhla věku 18 let, je cizím státním občanem a je přihlášena k trvalému pobytu v některé obci nebo vojenském újezdu v územním obvodu kraje, stanoví-li tak mezinárodní smlouva, kterou je Česká republika vázána a která byla vyhlášena.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=936a0d4d539eb35efc68 -->
+
 ### § 13a — Oceňování významných životních událostí občanů
 
 > **§ 13a**
@@ -739,6 +1191,52 @@ V praxi kraje udělují **medaile, plakety a čestná občanství** podle vlastn
 **Typicky rozhodné důkazy / podklady:** statut ocenění, usnesení o udělení, rozpočet a doklady o výdajích, záznamy o zpracování osobních údajů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=96b4c9b85200baa9f53b generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 13a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> Kraj může ocenit významné životní události svých občanů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=96b4c9b85200baa9f53b -->
 
 ## Hlava III — Působnost kraje
 
@@ -853,6 +1351,60 @@ Klíčový princip: **kraj není nadřízeným orgánem obcí**. Kraj a obec jso
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a125065b4fcf177f97ea generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 14
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Do samostatné působnosti kraje patří záležitosti, které jsou v zájmu kraje a občanů kraje, pokud nejde o přenesenou působnost kraje.
+>
+> (2) Do samostatné působnosti kraje patří zejména záležitosti uvedené v [[#§ 11|§ 11]], [[#§ 35|35]], [[#§ 36|36]] a [[#§ 59|59]], s výjimkou vydávání nařízení kraje, a dále záležitosti, které do samostatné působnosti svěří zákon.
+>
+> (3) Kraj může pro výkon samostatné působnosti zakládat a zřizovat právnické osoby a organizační složky kraje, pokud zákon nestanoví jinak.
+>
+> (4) Při výkonu samostatné působnosti kraj spolupracuje s obcemi; nesmí přitom zasahovat do jejich samostatné působnosti. Proti takovému zásahu může obec podat žalobu podle zvláštního zákona.
+>
+> (5) Kraje jsou povinny, pokud je to možné, předem projednat s obcemi opatření dotýkající se jejich působnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 11, § 35, § 36, § 59
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a125065b4fcf177f97ea -->
+
 ### § 15 — Spolupráce kraje se státními orgány a obcemi; bezplatné údaje
 
 > **§ 15**
@@ -921,6 +1473,56 @@ Kraje mohou **bezplatně využívat údaje katastru nemovitostí** (zákon č. 2
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5cf8fa35013353f7b2d2 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 15
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Kraj je oprávněn vyjadřovat se k návrhům státních orgánů, které se dotýkají působnosti kraje. Státní orgány jsou povinny, pokud je to možné, předem projednat s krajem opatření dotýkající se působnosti kraje.
+>
+> (2) Státní orgány a orgány obcí poskytují orgánům kraje na požádání bezplatně údaje a informace pro výkon jejich působnosti. Tuto povinnost má i kraj vůči státním orgánům a orgánům obcí. Ochrana údajů a utajovaných informací podle zvláštních právních předpisů7) zůstává nedotčena.
+>
+> (3) Kraje jsou při výkonu své působnosti oprávněny využívat bezplatně údajů katastru nemovitostí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5cf8fa35013353f7b2d2 -->
+
 ### § 15a — Vydávání potvrzení a zpráv
 
 > **§ 15a**
@@ -976,6 +1578,54 @@ Vydávání potvrzení je zpravidla **přenesenou působností**, je-li to potvr
 **Typicky rozhodné důkazy / podklady:** žádost s doložením účelu, archivní personální/mzdová dokumentace, doklad o právním nástupnictví kraje po zrušené organizaci, vydané potvrzení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4affe33d7f4405d9abc6 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 15a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Kraj je povinen vydávat potvrzení a vyhotovovat zprávy pro potřeby právnických a fyzických osob, stanoví-li tak zvláštní právní předpis.
+>
+> (2) Kraj vydává potvrzení potřebná pro uplatnění práva v cizině i v případě, že právní předpis takovou povinnost neukládá, ale požadované údaje jsou mu známy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4affe33d7f4405d9abc6 -->
 
 ### § 16 — Pramen práva v samostatné působnosti
 
@@ -1035,6 +1685,56 @@ Vydávání potvrzení je zpravidla **přenesenou působností**, je-li to potvr
 **Typicky rozhodné důkazy / podklady:** text OZV a zmocňovacího zákona, text podzákonného předpisu, dozorová korespondence, dotační podmínky a doklady o hospodaření.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=48d78c3b9f06030b641f generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 16
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> Při výkonu samostatné působnosti se kraj řídí
+>
+> - a) při vydávání obecně závazných vyhlášek zákonem,
+>
+> - b) v ostatních záležitostech též jinými právními předpisy vydanými na základě zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=48d78c3b9f06030b641f -->
 
 ### Hospodaření kraje (§§ 17–23)
 
@@ -1144,6 +1844,74 @@ Kraj má aktivní povinnost (i) chránit majetek před neoprávněnými zásahy 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8cf9cd3f615fdd0bf791 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 17
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Majetek kraje musí být využíván účelně a hospodárně v souladu s jeho zájmy a úkoly vyplývajícími ze zákonem vymezené působnosti. Kraj je povinen pečovat o zachování a rozvoj svého majetku. Porušením povinností stanovených ve větě první a druhé není takové nakládání s majetkem kraje, které sleduje jiný důležitý zájem kraje, který je řádně odůvodněn. Kraj vede účetnictví podle zákona [[o účetnictví|o účetnictví]].
+>
+> (2) Majetek musí být chráněn před zničením, poškozením, odcizením nebo zneužitím. S nepotřebným majetkem kraj naloží způsoby a za podmínek stanovených zvláštními předpisy,9) pokud tento zákon nestanoví jinak.
+>
+> (3) Kraj nesmí ručit za dluhy osob vyjma
+>
+> - a) dluhů vyplývajících ze smlouvy o úvěru, jsou-li peněžní prostředky určeny pro investici uskutečňovanou s finanční podporou ze státního rozpočtu, státních fondů, nebo národního fondu,
+>
+> - b) dluhů vyplývajících ze smlouvy o úvěru, jsou-li peněžní prostředky určeny pro investici do krajem nebo obcí vlastněné nemovitosti,
+>
+> - c) ručení vyplývajícího ze smlouvy o spolupráci podle zákona o podpoře bydlení, nepřesahuje-li tento dluh čtyřnásobek nejvyššího přípustného nájemného pro přiznání příspěvku podle zákona o podpoře bydlení v den uzavření smlouvy o spolupráci,
+>
+> - d) těch, jejichž zřizovatelem je kraj, stát nebo obec,
+>
+> - e) těch, v nichž míra účasti kraje nebo spolu s jiným krajem (kraji), obcí (obcemi) nebo státem přesahuje 50 %.
+>
+> (4) Právní jednání učiněná v rozporu s ustanovením odstavce 3 jsou neplatná.
+>
+> (5) Stát neručí za hospodaření a dluhy kraje, pokud tyto dluhy nepřevezme stát smluvně.
+>
+> (6) Kraj je povinen chránit svůj majetek před neoprávněnými zásahy a včas uplatňovat právo na náhradu škody a právo na vydání bezdůvodného obohacení.
+>
+> (7) Kraj je povinen trvale sledovat, zda dlužníci včas a řádně plní své závazky a zabezpečit, aby nedošlo k promlčení nebo zániku práv z těchto závazků vyplývajících.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8cf9cd3f615fdd0bf791 -->
+
 ### § 18 — Zveřejnění záměru dispozice s nemovitým majetkem
 
 > **§ 18**
@@ -1237,6 +2005,60 @@ Odst. 3–5 vyjmenovává situace, kdy se zveřejnění **nevyžaduje**:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ce28d1b68617885c6ac3 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 18
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Záměr kraje prodat, směnit, darovat, pronajmout, propachtovat nebo vypůjčit hmotnou nemovitou věc nebo právo stavby anebo je přenechat jako výprosu a záměr kraje smluvně zřídit právo stavby k pozemku ve vlastnictví kraje kraj zveřejní po dobu nejméně 30 dnů před rozhodnutím v příslušném orgánu kraje vyvěšením na úřední desce2) krajského úřadu (dále jen „úřední deska“), aby se k němu mohli zájemci vyjádřit a předložit své nabídky. Nemovitá věc se v záměru označí údaji podle zvláštního zákona9a) platnými ke dni zveřejnění záměru. Pokud kraj záměr po uvedenou dobu nezveřejní, je právní jednání neplatné.
+>
+> (2) Při úplatném převodu majetku se cena sjednává zpravidla ve výši, která je v daném místě a čase obvyklá, nejde-li o cenu regulovanou státem. Odchylka od ceny obvyklé musí být zdůvodněna, jde-li o cenu nižší než obvyklou. Není-li odchylka od ceny obvyklé zdůvodněna, je právní jednání neplatné.
+>
+> (3) Ustanovení odstavce 1 se nepoužije, jde-li o pronájem bytů, dále jde-li o pronájem, pacht anebo výpůjčku majetku kraje na dobu kratší než 90 dnů nebo jde-li o pronájem, pacht, výprosu nebo výpůjčku právnické osobě, jejímž zřizovatelem nebo zakladatelem je kraj anebo kterou kraj ovládá30), nebo jde-li o pronájem silničního nebo silničního pomocného pozemku v souvislosti se zvláštním užíváním silnic podle zvláštního zákona9b).
+>
+> (4) Ustanovení odstavců 1 a [[#§ 2|2]] se nevztahují na výpůjčku, výprosu, pacht nebo pronájem majetku svěřeného příspěvkovým organizacím zřízeným krajem, nestanoví-li zvláštní předpis nebo zastupitelstvo ve zřizovací listině jinak.
+>
+> (5) Odstavce 1 a [[#§ 2|2]] se nepoužijí v případě postupu podle § 18a až 18c a v případě zpětného převodu majetku státu podle [[§ 21b odst. 3 písm. e)|§ 21b odst. 3 písm. e)]] zákona [[o majetku České republiky a jejím vystupování v právních vztazích|o majetku České republiky a jejím vystupování v právních vztazích]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 18a, § 21b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ce28d1b68617885c6ac3 -->
+
 ### § 18a — Převody vlastnictví na stát: informační povinnost
 
 > **§ 18a**
@@ -1309,6 +2131,62 @@ Před zcizením nemovitostí vyjmenovaných v § 18b odst. 1 a § 18c odst. 1 mu
 **Typicky rozhodné důkazy / podklady:** záznam o uveřejnění na webu ÚZSVM s datem, ÚPD (vymezení veřejně prospěšné stavby), sdělení státních subjektů o zájmu/nezájmu, návrh smlouvy a doklad o doručení, kupní/darovací smlouva.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=36e2649c481444002bb5 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 18a — Převody vlastnictví na stát
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Kraj informuje organizační složky státu, státní organizace, na které se použije zákon [[o majetku České republiky a jejím vystupování v právních vztazích|o majetku České republiky a jejím vystupování v právních vztazích]] (dále jen „státní organizace“), a Ředitelství silnic a dálnic s. p. prostřednictvím internetových stránek Úřadu pro zastupování státu ve věcech majetkových o úmyslu zcizit hmotnou nemovitou věc uvedenou v § 18b odst. 1 nebo § 18c odst. 1. To se nepoužije, jde-li o hmotnou nemovitou věc určenou ke směně.
+>
+> (2) Převést hmotnou nemovitou věc uvedenou v § 18b odst. 1 nebo § 18c odst. 1 ve prospěch jiné osoby lze teprve poté, nesdělí-li oprávněná organizační složka státu, státní organizace nebo Ředitelství silnic a dálnic s. p. podle § 18b odst. 1 nebo § 18c odst. 1 do 2 měsíců od uveřejnění informace podle odstavce 1, že má zájem o převod. Omezení se nepoužije, pokud oprávněná organizační složka státu, státní organizace nebo Ředitelství silnic a dálnic s. p. kraji sdělí, že o převod nemá zájem.
+>
+> (3) Sdělení podle odstavce 2 se činí prostřednictvím internetových stránek Úřadu pro zastupování státu ve věcech majetkových.
+>
+> (4) Projeví-li zájem o převod více oprávněných organizačních složek státu nebo státních organizací podle § 18b odst. 1 nebo § 18c odst. 1 a nesdělí-li do 1 měsíce ode dne uplynutí lhůty pro projevení zájmu o převod, že se dohodly, kdo bude s krajem jednat, jedná kraj s tou organizační složkou státu nebo státní organizací, která projevila zájem o převod jako první. To se nepoužije v případě postupu podle § 18c odst. 1 písm. e).
+>
+> (5) Kraj učiní vůči oprávněné organizační složce státu, státní organizaci nebo Ředitelství silnic a dálnic s. p., které projevily zájem o převod, návrh na uzavření smlouvy. Návrh na uzavření smlouvy lze odvolat.
+>
+> (6) Nesdělí-li organizační složka státu nebo státní organizace nebo Ředitelství silnic a dálnic s. p. zájem o převod podle odstavce 2 v případech podle § 18b odst. 1 nebo § 18c odst. 1 ve stanovené lhůtě nebo v téže lhůtě sdělí, že o převod nemá zájem, nebo nepřijme-li návrh na uzavření smlouvy do 4 měsíců ode dne, kdy jí došel, právo na převod vlastnického práva podle [[#§ 18b|§ 18b]] nebo [[#§ 18c|18c]] zaniká a kraj naloží s hmotnou nemovitou věcí podle tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 18b, § 18c
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=36e2649c481444002bb5 -->
 
 ### § 18b — Bezúplatné převody na stát
 
@@ -1421,6 +2299,80 @@ Omezení se sjednává na **10 let** ode dne vkladu do KN. Účelem je zajistit,
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=db09301117badb40230d generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 18b — Bezúplatné převody na stát
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Projeví-li oprávněná organizační složka státu nebo státní organizace uvedená v písmenech d) až g) nebo Ředitelství silnic a dálnic s. p. v případě písmen a) až c) zájem o převod podle § 18a odst. 2 a za předpokladu, že tomu nebrání práva třetích osob, kraj jim zašle návrh smlouvy o bezúplatném převodu
+>
+> - a) silničního pozemku, na němž je umístěno těleso dálnice nebo silnice I. třídy, do vlastnictví státu a práva hospodařit Ředitelství silnic a dálnic s. p.,
+>
+> - b) zastavěného stavebního pozemku39), na němž byla realizována veřejně prospěšná stavba ve vlastnictví státu, do vlastnictví státu a práva hospodařit Ředitelství silnic a dálnic s. p., které má právo s veřejně prospěšnou stavbou hospodařit,
+>
+> - c) pozemku určeného územně plánovací dokumentací k realizaci veřejně prospěšné stavby do vlastnictví státu a práva hospodařit Ředitelství silnic a dálnic s. p., které je stavebníkem dané veřejně prospěšné stavby,
+>
+> - d) zastavěného stavebního pozemku39), na němž byla realizována veřejně prospěšná stavba ve vlastnictví státu, do vlastnictví státu a příslušnosti hospodařit té organizační složky státu nebo státní organizace, která je příslušná s veřejně prospěšnou stavbou hospodařit,
+>
+> - e) pozemku určeného územně plánovací dokumentací k realizaci veřejně prospěšné stavby do vlastnictví státu a příslušnosti hospodařit té organizační složky státu nebo státní organizace, která je stavebníkem dané veřejně prospěšné stavby,
+>
+> - f) pozemku určeného územně plánovací dokumentací k realizaci veřejně prospěšných opatření nebo již k tomuto účelu využitého do vlastnictví státu a příslušnosti hospodařit té organizační složky státu nebo státní organizace, která o převod projeví zájem,
+>
+> - g) stavby civilní ochrany, stavby dotčené požadavky civilní ochrany, stavby pro bezpečnost státu nebo pozemků, jichž jsou uvedené stavby součástí, nebo hmotné nemovité věci určené územní plánovací dokumentací nebo veřejnoprávní smlouvou k plnění úkolů bezpečnostního sboru nebo pro přípravu na ně do vlastnictví státu a příslušnosti hospodařit Ministerstva vnitra (dále jen „ministerstvo“) nebo organizační složky státu, která je bezpečnostním sborem nebo jeho částí, za předpokladu, že v případě veřejnoprávní smlouvy ministerstvo předem kraji sdělilo, že hmotná nemovitá věc je určena k plnění úkolů bezpečnostního sboru nebo pro přípravu na ně; to se nepoužije, je-li kraj stranou veřejnoprávní smlouvy.
+>
+> (2) V případě, že je pozemní komunikací zastavěna část pozemku evidovaného v katastru nemovitostí, převede se pouze tato část určená geometrickým plánem s tím, že náklady na vyhotovení geometrického plánu na rozdělení pozemku hradí Ředitelství silnic a dálnic s. p.
+>
+> (3) Smlouva o bezúplatném převodu pozemku do vlastnictví státu podle odstavce 1 písm. b) až g) musí obsahovat v souvislosti s poskytnutím podpory z veřejných prostředků následující ujednání:
+>
+> - a) zákaz zcizení zřízený ve prospěch kraje jako věcné právo,
+>
+> - b) zákaz zatížení zřízený ve prospěch kraje jako věcné právo, s výjimkou případu, kdy má být smluvně zřízena v nezbytném rozsahu služebnost inženýrské sítě, služebnost stezky nebo služebnost cesty k zajištění nezbytného přístupu třetí osoby k hmotné nemovité věci v jejím vlastnictví, a
+>
+> - c) omezení ve způsobu využití převedeného pozemku tak, aby nebyly porušeny právní předpisy o veřejné podpoře.
+>
+> (4) Omezení podle odstavce 3 se sjednají na dobu 10 let ode dne provedení vkladu vlastnického práva k dotčeným pozemkům do katastru nemovitostí ve prospěch státu.
+>
+> (5) Ustanovení [[§ 12 odst. 2|§ 12 odst. 2]] zákona [[o majetku České republiky a jejím vystupování v právních vztazích|o majetku České republiky a jejím vystupování v právních vztazích]] se pro převody podle odstavce 1 nepoužije.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 18a, § 12
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=db09301117badb40230d -->
+
 ### § 18c — Úplatné převody na stát
 
 > **§ 18c**
@@ -1507,6 +2459,68 @@ Ke kupní ceně se **připočítávají náklady** na znalecký posudek, geometr
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=689b789ba16b50b01a24 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 18c — Úplatné převody na stát
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Projeví-li oprávněná organizační složka státu nebo státní organizace uvedená v písmenech a) až f) zájem o převod podle § 18a odst. 2 a za předpokladu, že tomu nebrání práva třetích osob, kraj jí zašle návrh smlouvy o úplatném převodu
+>
+> - a) pozemku, na němž byla realizována stavba, která se eviduje v katastru nemovitostí a která je hmotnou nemovitou věcí ve vlastnictví státu, do vlastnictví státu a příslušnosti hospodařit té organizační složky státu nebo státní organizace, která je příslušná se stavbou hospodařit,
+>
+> - b) stavby, která se eviduje v katastru nemovitostí a která byla realizována na pozemku ve vlastnictví státu, do vlastnictví státu a příslušnosti hospodařit té organizační složky státu nebo státní organizace, která je příslušná s pozemkem hospodařit,
+>
+> - c) pozemku, který je určen pravomocným rozhodnutím o povolení záměru k realizaci stavby, jejímž stavebníkem je stát nebo státní organizace, do vlastnictví státu a příslušnosti hospodařit té organizační složky státu nebo státní organizace, která je stavebníkem,
+>
+> - d) pozemku, který tvoří jediný přístup k hmotné nemovité věci ve vlastnictví státu, do vlastnictví státu a příslušnosti hospodařit té organizační složky státu nebo státní organizace, která je příslušná s hmotnou nemovitou věcí hospodařit,
+>
+> - e) spoluvlastnického podílu na hmotné nemovité věci, u níž je stát spoluvlastníkem, do vlastnictví státu a příslušnosti hospodařit té organizační složky státu nebo státní organizace, která je příslušná hospodařit se spoluvlastnickým podílem na této nemovité věci,
+>
+> - f) objektu důležitého pro obranu státu určeného vládou podle zákona o zajišťování obrany, který je zařazen v evidenci objektů důležitých pro obranu státu, do vlastnictví státu a příslušnosti hospodařit Ministerstva obrany za předpokladu, že Ministerstvo obrany předem kraji sdělilo, že takový objekt je v evidenci objektů důležitých pro obranu státu veden.
+>
+> (2) Kraj určí kupní cenu pro převody podle odstavce 1 na základě znaleckého posudku. Kupní cena se určí ve výši ceny obvyklé podle zákona upravujícího oceňování majetku. Pokud nelze cenu obvyklou určit, určí se kupní cena ve výši zjištěné ceny podle zákona upravujícího oceňování majetku. Ke kupní ceně se připočtou náklady na vypracování znaleckého posudku, geometrického plánu a průkazu energetické náročnosti.
+>
+> (3) Ustanovení [[§ 12 odst. 4|§ 12 odst. 4]] a [[5|5]] zákona [[o majetku České republiky a jejím vystupování v právních vztazích|o majetku České republiky a jejím vystupování v právních vztazích]] se pro převody podle odstavce 1 nepoužije.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 18a, § 12
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=689b789ba16b50b01a24 -->
+
 ### § 19 — Důvěrnost informací o aukčním nabývání
 
 > **§ 19**
@@ -1560,6 +2574,52 @@ Tento institut chrání rozpočet kraje a je projevem zásady, že ekonomický z
 **Typicky rozhodné důkazy / podklady:** dražební vyhláška / podmínky soutěže, usnesení rady o limitní ceně, rozhodnutí o odmítnutí žádosti s odůvodněním, doklad o ukončení dražby.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0bc594d28bcee963a176 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 19
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> Informace týkající se nabytí věci krajem v dražbě, ve veřejné soutěži o nejvhodnější nabídku nebo o jejím nabytí jiným obdobným způsobem a informace týkající se vzniku užívacího nebo jiného práva kraje ve veřejné soutěži o nejvhodnější nabídku či jiným obdobným způsobem se až do ukončení dražby, veřejné soutěže o nejvhodnější nabídku nebo jiného obdobného postupu nezpřístupňují podle tohoto zákona ani neposkytují podle jiného právního předpisu22), pokud by jejich zpřístupnění mohlo kraj při nabývání této věci anebo při vzniku užívacího nebo jiného práva znevýhodnit proti jiným zájemcům.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0bc594d28bcee963a176 -->
 
 ### § 20 — Přezkoumání hospodaření
 
@@ -1627,6 +2687,56 @@ Hospodaření kraje za uplynulý rok přezkoumává výlučně Ministerstvo fina
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=08cc4961f4511afb5084 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 20
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Hospodaření kraje za uplynulý kalendářní rok přezkoumá Ministerstvo financí. Ministerstvo financí může přezkoumáním hospodaření kraje pověřit Generální finanční ředitelství nebo finanční úřad.
+>
+> (2) Závěrečný účet spolu se zprávou o výsledcích přezkoumání hospodaření kraje za uplynulý kalendářní rok projedná zastupitelstvo do 30. června následujícího roku a přijme opatření k nápravě nedostatků.
+>
+> (3) Přezkoumání hospodaření upravuje zvláštní právní předpis.9c)
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=08cc4961f4511afb5084 -->
+
 ### § 21 — Kontrola hospodaření s dotacemi
 
 > **§ 21**
@@ -1681,6 +2791,52 @@ Při zjištění porušení rozpočtové kázně (zákon č. 218/2000 Sb. o rozp
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o poskytnutí dotace s podmínkami, účetní doklady a výpisy, kontrolní protokol a námitky, doklady o nápravě, platební výměry na odvod/penále.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=59829dd8f8a285ed1c45 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 21
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> Hospodaření kraje s dotacemi ze státního rozpočtu republiky a ze státních fondů republiky kontroluje Ministerstvo financí nebo jím pověřený finanční úřad i v průběhu rozpočtového roku. V případě, že byl porušen zákon, Ministerstvo financí uloží opatření k odstranění zjištěných nedostatků.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=59829dd8f8a285ed1c45 -->
 
 ### § 22 — Sestavování rozpočtu
 
@@ -1739,6 +2895,52 @@ Zákon o rozpočtových pravidlech ÚSC je **kogentní** — kraj nemůže od je
 **Typicky rozhodné důkazy / podklady:** návrh rozpočtu s dokladem o zveřejnění, usnesení zastupitelstva (rozpočet, provizorium, rozpočtová opatření), výkazy plnění rozpočtu, zpráva o přezkoumání hospodaření.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0a8b21ce9930bf4ef82d generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 22
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> Sestavování rozpočtu a závěrečného účtu kraje a hospodaření s prostředky tohoto rozpočtu se řídí zvláštním zákonem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0a8b21ce9930bf4ef82d -->
 
 ### § 23 — Doložky a neplatnost právních jednání
 
@@ -1810,6 +3012,56 @@ Toto je výjimka z obvyklého režimu **relativní neplatnosti** (§ 586 občans
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=32b99f4d199d3b739382 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 23
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Podmiňuje-li tento zákon platnost právního jednání kraje předchozím zveřejněním, schválením nebo souhlasem, opatří se listina o tomto právním jednání doložkou, v níž bude potvrzeno, že tyto podmínky jsou splněny. Je-li listina touto doložkou krajem opatřena, má se za to, že povinnost předchozího zveřejnění, schválení nebo souhlasu byla splněna.
+>
+> (2) Právní jednání, která vyžadují schválení zastupitelstva, popřípadě rady, lze učinit jen po jejich předchozím schválení, jinak jsou tato právní jednání kraje neplatná.
+>
+> (3) K neplatnosti právního jednání z důvodů stanovených v odstavci 2, v § 17 odst. 4 a § 18 odst. 1 a [[#§ 2|2]] přihlédne soud i bez návrhu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 17, § 18, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=32b99f4d199d3b739382 -->
+
 ### Spolupráce krajů (§§ 24, 26)
 
 ### § 24 — Spolupráce mezi kraji a obcemi
@@ -1875,6 +3127,54 @@ Kraje mohou spolupracovat s kraji a obcemi jen veřejnoprávními a kapitálový
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=af2bcb20c1a75b7a963a generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 24
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Kraje mohou spolupracovat s ostatními kraji a s obcemi.
+>
+> (2) Na spolupráci krajů s ostatními kraji a s obcemi nelze použít ustanovení [[občanského zákoníku|občanského zákoníku]] o spolku11) a o smlouvě o společnosti29).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=af2bcb20c1a75b7a963a -->
+
 ### § 26 — Zákaz členství kraje ve svazku obcí
 
 > **§ 26**
@@ -1929,6 +3229,52 @@ Kraj nesmí být členem svazku obcí; spolupráci s ním realizuje smluvně (ve
 **Typicky rozhodné důkazy / podklady:** stanovy svazku obcí, veřejnoprávní smlouva o dotaci s podmínkami, usnesení zastupitelstva kraje, doklady o čerpání a kontrole dotace.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ee492da46a410c510aba generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 26
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> Kraj nemůže být členem svazku obcí.12)
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ee492da46a410c510aba -->
 
 ### Spolupráce s ostatními subjekty (§§ 27, 28)
 
@@ -1990,6 +3336,52 @@ Praktické situace:
 **Typicky rozhodné důkazy / podklady:** stanovy spolku / smlouva o společnosti, usnesení zastupitelstva, rozpočtové krytí příspěvků, zprávy zástupce kraje v orgánech entity, výpis ze spolkového rejstříku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1b9dfe078fb7b616caad generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 27
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> Na spolupráci mezi kraji a právnickými a fyzickými osobami v občanskoprávních vztazích lze použít ustanovení [[občanského zákoníku|občanského zákoníku]] o spolku11) a o smlouvě o společnosti29).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1b9dfe078fb7b616caad -->
 
 ### § 28 — Mezinárodní spolupráce
 
@@ -2056,6 +3448,52 @@ Mezinárodní aktivity kraje jsou předmětem **informování Ministerstva zahra
 **Typicky rozhodné důkazy / podklady:** text partnerské dohody/memoranda, stanovisko MZV, usnesení zastupitelstva, stanovy mezinárodního sdružení, projektová dokumentace Interreg, rozpočtové krytí.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a56e8147ed5c8e62e46c generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 28 — Spolupráce s územními samosprávnými celky jiných států
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> Kraj může spolupracovat s územními samosprávnými celky jiných států a být členem jejich mezinárodních sdružení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a56e8147ed5c8e62e46c -->
 
 ### Díl 2 — Přenesená působnost
 
@@ -2138,6 +3576,54 @@ Přenesenou působnost stanovenou zákonem musí kraj zabezpečit vždy; přísp
 **Typicky rozhodné důkazy / podklady:** kalkulace nákladů a výše příspěvku, statistiky vyřizování (lhůty), organizační řád krajského úřadu, korespondence s MF/MV, dozorová a kontrolní zjištění.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=74c41e6871a12d8ad8f2 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 29
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Orgány kraje vykonávají na svém území přenesenou působnost ve věcech, které stanoví zákon.
+>
+> (2) Kraj obdrží ze státního rozpočtu příspěvek na výkon přenesené působnosti. Výši příspěvku stanoví Ministerstvo financí po projednání s ministerstvem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=74c41e6871a12d8ad8f2 -->
 
 ### § 30 — Pramen práva v přenesené působnosti
 
@@ -2228,6 +3714,60 @@ V přenesené působnosti je kraj řízen státem, ale jen kvalifikovaně: směr
 **Typicky rozhodné důkazy / podklady:** text směrnice a doklad o publikaci ve Věstníku vlády, zákonná úprava agendy, korespondence s ministerstvem, kontrolní protokoly podle §§ 85–87, návrh nařízení kraje.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=dcbe5128f0488e2a1ad7 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 30
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> Při výkonu přenesené působnosti se orgány kraje řídí
+>
+> - a) při vydávání nařízení kraje zákony a jinými právními předpisy,
+>
+> - b) v ostatních případech též
+>
+> - 1. usneseními vlády a směrnicemi ústředních správních úřadů; usnesení vlády a směrnice ústředních správních úřadů nemohou ukládat orgánům kraje povinnosti, pokud nejsou stanoveny zákonem; podmínkou platnosti směrnic ústředních správních úřadů je jejich publikování ve Věstníku vlády pro orgány krajů a orgány obcí;
+>
+> - 2. opatřeními příslušných orgánů veřejné správy přijatými při kontrole výkonu přenesené působnosti podle tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dcbe5128f0488e2a1ad7 -->
 
 ## Shrnutí kapitoly
 

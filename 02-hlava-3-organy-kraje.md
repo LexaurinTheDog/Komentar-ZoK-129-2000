@@ -84,6 +84,57 @@ Počet členů zastupitelstva je dán zákonem ve třech fixních kvótách bez 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ce6c234b7f4f89b7896c generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 31
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Zastupitelstvo se skládá z členů zastupitelstva. Počet členů zastupitelstva činí v kraji s počtem obyvatel
+> a)do 600 000 obyvatel45 členů,b)nad 600 000 do 900 000 obyvatel55 členů,c)nad 900 000 obyvatel65 členů.
+>
+> (2) Rozhodující pro stanovení počtu členů zastupitelstva je počet obyvatel kraje k 1. lednu roku, v němž se konají volby.
+>
+> (3) Počet členů zastupitelstva, který má být zvolen, zveřejní krajský úřad nejpozději do 2 dnů od jeho stanovení na úřední desce2) a dále ve Sbírce právních předpisů územních samosprávných celků a některých správních úřadů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ce6c234b7f4f89b7896c -->
+
 ### § 32 — Veřejná funkce a postavení zastupitele
 
 > **§ 32**
@@ -143,6 +194,54 @@ Vznik, zánik a podmínky mandátu upravuje **zákon č. 130/2000 Sb., o volbác
 **Typicky rozhodné důkazy / podklady:** pozvánky a prezenční listiny, žádosti o volno a odpovědi zaměstnavatele, mzdová dokumentace, interní komunikace, usnesení kraje o rozsahu nezbytné doby.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f2502a6e14a00d90c859 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 32
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Funkce člena zastupitelstva je veřejnou funkcí.13) Člen zastupitelstva nesmí být pro výkon své funkce zkrácen na právech vyplývajících z jeho pracovního poměru nebo jiného obdobného právního vztahu.
+>
+> (2) Podmínky vzniku a zániku mandátu člena zastupitelstva upravuje zvláštní zákon.6)
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f2502a6e14a00d90c859 -->
 
 ### § 33 — Vznik mandátu, slib zastupitele
 
@@ -212,6 +311,56 @@ Mandát vzniká zvolením; slib je podmínkou jeho výkonu. Odmítnutí slibu č
 **Typicky rozhodné důkazy / podklady:** zápis a audiozáznam z ustavujícího zasedání, podepsané archy slibu, osvědčení o zvolení, doklad o povolání náhradníka.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5f962fb545c0b2d4f17a generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 33
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Mandát člena zastupitelstva kraje vzniká zvolením; ke zvolení dojde ukončením hlasování.
+>
+> (2) Člen zastupitelstva skládá na začátku prvního zasedání zastupitelstva, jehož se po svém zvolení zúčastní, slib tohoto znění: „Slibuji věrnost České republice. Slibuji na svou čest a svědomí, že svoji funkci budu vykonávat svědomitě, v zájmu kraje a jeho občanů a řídit se [[Ústavou|Ústavou]] a zákony České republiky.“
+>
+> (3) Člen zastupitelstva skládá slib před zastupitelstvem pronesením slova „slibuji“. Složení slibu potvrdí člen zastupitelstva svým podpisem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5f962fb545c0b2d4f17a -->
 
 ### § 34 — Práva a povinnosti člena zastupitelstva, střet zájmů
 
@@ -304,6 +453,62 @@ Povinnost spočívá v **deklaraci skutečnosti před zahájením jednání**. S
 **Typicky rozhodné důkazy / podklady:** písemné žádosti a odpovědi, zřizovací listiny, zápisy ze zasedání, výpisy z veřejných rejstříků, oznámení podle zákona o střetu zájmů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e68fcb79f1f289819376 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 34
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Člen zastupitelstva má při výkonu své funkce právo
+>
+> - a) předkládat zastupitelstvu a radě, jakož i výborům a komisím návrhy na projednání,
+>
+> - b) vznášet dotazy, připomínky a podněty na radu a její jednotlivé členy, na předsedy výborů, na statutární orgány právnických osob, jejichž zakladatelem je kraj, a na vedoucí příspěvkových organizací a organizačních složek, které kraj založil nebo zřídil; písemnou odpověď musí obdržet do 30 dnů,
+>
+> - c) požadovat od zaměstnanců kraje zařazených do krajského úřadu, jakož i od zaměstnanců právnických osob, které kraj zřídil, informace ve věcech, které souvisejí s výkonem jejich funkce; informace musí být poskytnuta do 30 dnů.
+>
+> (2) Člen zastupitelstva je povinen zúčastňovat se zasedání zastupitelstva, popřípadě zasedání jiných orgánů kraje, je-li jejich členem, plnit úkoly, které mu tyto orgány uloží, hájit zájmy občanů kraje a jednat a vystupovat tak, aby nebyla ohrožena vážnost jeho funkce.
+>
+> (3) Člen zastupitelstva, u něhož skutečnosti nasvědčují, že by jeho podíl na projednávání a rozhodování určité záležitosti v orgánech kraje mohl znamenat výhodu nebo škodu pro něj samotného nebo osobu blízkou, pro fyzickou nebo právnickou osobu, kterou zastupuje na základě zákona nebo plné moci (střet zájmů), je povinen sdělit tuto skutečnost před zahájením jednání orgánu kraje, který má danou záležitost projednávat.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e68fcb79f1f289819376 -->
 
 ### § 35 — Pravomoci zastupitelstva v samostatné působnosti
 
@@ -400,6 +605,102 @@ Zastupitelstvu náleží generální působnost v samostatné působnosti a taxa
 **Typicky rozhodné důkazy / podklady:** text dokumentu (materiální obsah), usnesení rady a zastupitelstva, zápisy z jednání, stanovisko dozorového orgánu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=909c243bdec7b8db0d9d generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 35
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Zastupitelstvo rozhoduje ve věcech patřících do samostatné působnosti. Ve věcech přenesené působnosti zastupitelstvo rozhoduje, jen stanoví-li tak zákon.
+>
+> (2) Zastupitelstvu je vyhrazeno
+>
+> - a) předkládat návrhy zákonů Poslanecké sněmovně,
+>
+> - b) předkládat návrhy Ústavnímu soudu na zrušení právních předpisů,15) má-li za to, že jsou v rozporu se zákonem,
+>
+> - c) vydávat obecně závazné vyhlášky kraje,
+>
+> - d) koordinovat rozvoj územního obvodu, schvalovat strategie rozvoje územního obvodu kraje podle zvláštních zákonů, zajišťovat jejich realizaci a kontrolovat jejich plnění,
+>
+> - e) schvalovat koncepce rozvoje cestovního ruchu na území kraje, zajišťovat jejich realizaci a kontrolovat jejich plnění,
+>
+> - f) stanovit rozsah základní dopravní obslužnosti pro území kraje,
+>
+> - g) rozhodovat o spolupráci kraje s jinými kraji a o mezinárodní spolupráci,
+>
+> - h) schvalovat střednědobý výhled rozpočtu kraje, rozpočet kraje, schvalovat závěrečný účet kraje a schvalovat účetní závěrku kraje sestavenou k rozvahovému dni,
+>
+> - i) zřizovat a rušit příspěvkové organizace a organizační složky kraje; k tomu schvalovat jejich zřizovací listiny,
+>
+> - j) rozhodovat o založení a rušení právnických osob, schvalovat jejich zakladatelské listiny, společenské smlouvy, zakládací smlouvy a stanovy, včetně jejich změn, a rozhodovat o účasti v již založených právnických osobách,
+>
+> - k) delegovat zástupce kraje, s výjimkou § 59 odst. 1 písm. j), na valnou hromadu obchodních společností, v nichž má kraj majetkovou účast,
+>
+> - l) navrhovat zástupce kraje do ostatních orgánů obchodních společností, v nichž má kraj majetkovou účast, a navrhovat jejich odvolání; to neplatí, rozhoduje-li rada ve věcech jediného společníka obchodní společnosti podle § 59 odst. 1 písm. j),
+>
+> - m) volit a odvolávat hejtmana, náměstka (náměstky) hejtmana a další členy rady z řad svých členů a odvolávat je z funkce,
+>
+> - n) stanovit funkce, pro které budou členové zastupitelstva uvolněni a od kterého dne,
+>
+> - o) zřizovat a zrušovat výbory, volit a odvolávat jejich předsedy a členy,
+>
+> - p) stanovit výši odměn neuvolněným členům zastupitelstva za měsíc,
+>
+> - q) stanovit paušální částku náhrady výdělku ušlého v souvislosti s výkonem funkce podle § 46 odst. 3, rozhodovat o mimořádných odměnách podle [[#§ 51|§ 51]] a o plněních pro členy zastupitelstva podle [[#§ 55|§ 55]],
+>
+> - r) vyslovovat souhlas se vznikem pracovněprávního vztahu mezi krajem a členem zastupitelstva,
+>
+> - s) stanovit pravidla pro poskytování cestovních náhrad členům zastupitelstva ([[#§ 56|§ 56]]),
+>
+> - t) rozhodovat o peněžitých plněních spojených s výkonem funkce členů výborů, komisí a zvláštních orgánů fyzickým osobám, které nejsou členy zastupitelstva,
+>
+> - u) udělovat ceny kraje,
+>
+> - v) rozhodovat o vyhlášení krajského referenda,
+>
+> - w) plnit další úkoly stanovené zákonem.
+>
+> (3) Zastupitelstvo rozhoduje o zrušení usnesení rady, jsou-li mu předložena k rozhodnutí podle [[#§ 62|§ 62]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 59, § 46, § 51, § 55, § 56, § 62
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=909c243bdec7b8db0d9d -->
 
 ### § 36 — Pravomoci v majetkoprávních jednáních
 
@@ -507,6 +808,80 @@ Smlouvy o úvěru, zápůjčce, ručitelských závazcích a vydávání **komun
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=88ee3be9653f119e7d5f generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 36
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> Zastupitelstvu je dále vyhrazeno rozhodování o těchto právních jednáních kraje:
+>
+> - a) nabytí a převod hmotných nemovitých věcí, s výjimkou inženýrských sítí a pozemních komunikací,
+>
+> - b) poskytování věcných a peněžitých darů podle zvláštního zákona v hodnotě nad 500 000 Kč jedné fyzické nebo právnické osobě v kalendářním roce,
+>
+> - c) poskytování dotací a návratných finančních výpomocí nad 1 000 000 Kč v jednotlivém případě fyzickým nebo právnickým osobám a uzavření veřejnoprávních smluv o jejich poskytnutí, nejedná-li se o dotace z prostředků státního rozpočtu, o návratné finanční výpomoci příspěvkovým organizacím zřízeným krajem nebo o dotace nebo návratné finanční výpomoci poskytované v době trvání krizového stavu28), mimořádného opatření při epidemii nebo nebezpečí jejího vzniku nebo mimořádného veterinárního opatření a v souvislosti s nimi,
+>
+> - d) vzdání se práva a prominutí dluhu vyšší než 1 000 000 Kč,
+>
+> - e) zastavení movitých věcí nebo práv v hodnotě vyšší než 1 000 000 Kč,
+>
+> - f) dohody o splátkách s lhůtou splatnosti delší než 18 měsíců,
+>
+> - g) postoupení pohledávky vyšší než 1 000 000 Kč,
+>
+> - h) uzavření smlouvy o přijetí a poskytnutí úvěru, zápůjčky, o převzetí ručitelského závazku s výjimkou převzetí ručitelského závazku na základě smlouvy o spolupráci podle zákona o podpoře bydlení, o přistoupení k závazku a ke smlouvě o společnosti,
+>
+> - i) zastavení nemovitostí,
+>
+> - j) vydání komunálních dluhopisů,
+>
+> - k) stanovení majetkové účasti na podnikání jiných právnických osob,
+>
+> - l) peněžité a nepeněžité vklady do právnických osob,
+>
+> - m) nabytí a převod práva stavby a smluvní zřízení práva stavby k pozemku ve vlastnictví kraje,
+>
+> - n) zpeněžení hmotné nemovité věci ve vlastnictví kraje nebo práva stavby ve veřejné dražbě a nabytí hmotné nemovité věci nebo práva stavby krajem v dražbě, ve veřejné soutěži o nejvhodnější nabídku nebo jiným obdobným způsobem; tuto pravomoc může zastupitelstvo zcela nebo zčásti svěřit radě nebo hejtmanovi.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=88ee3be9653f119e7d5f -->
+
 ### § 37 — Vyhrazení dalších pravomocí
 
 > **§ 37**
@@ -558,6 +933,52 @@ Praktický význam: zastupitelstvo si často vyhrazuje schvalování významnýc
 **Typicky rozhodné důkazy / podklady:** atrahující usnesení zastupitelstva, usnesení rady, smlouva, vnitřní předpisy oběhu materiálů, zápisy z jednání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=823ccd5541e9daac3a6c generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 37
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> Zastupitelstvo má právo vyhradit si další pravomoci v samostatné působnosti mimo pravomoci vyhrazené radě podle § 59 odst. 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 59
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=823ccd5541e9daac3a6c -->
 
 ### § 39 — Ustavující zasedání
 
@@ -631,6 +1052,56 @@ Ustavující zasedání svolává dosavadní hejtman tak, aby se konalo do 15 dn
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=859fb801065cbd45a7f5 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 39
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Ustavující zasedání nově zvoleného zastupitelstva svolává dosavadní hejtman po uplynutí lhůty pro podání návrhu soudu na neplatnost voleb nebo neplatnost hlasování tak, aby se konalo do 15 dnů ode dne uplynutí této lhůty, a jestliže byl návrh na neplatnost voleb nebo na neplatnost hlasování podán, do 15 dnů ode dne právní moci rozhodnutí soudu o posledním z podaných návrhů, pokud žádnému z podaných návrhů nebylo vyhověno.
+>
+> (2) Ustavujícímu zasedání předsedá zpravidla nejstarší člen zastupitelstva do doby, než je zvolen hejtman nebo náměstek hejtmana. Ustavující zasedání zastupitelstva zvolí hejtmana, náměstka hejtmana a další členy rady. Pokud se tak nestane, předsedající ustavující zasedání přeruší. Současně zastupitelstvo rozhodne, kdy bude zasedání pokračovat tak, aby se uskutečnilo nejdéle do 7 dnů od konání přerušeného jednání.
+>
+> (3) Jestliže se ustavující zasedání nově zvoleného zastupitelstva nekonalo ve lhůtě podle odstavce 1, svolá je po uplynutí této lhůty ministerstvo, ledaže soud vyhověl návrhu na neplatnost voleb nebo na neplatnost hlasování. Informaci o svolání ustavujícího zasedání zastupitelstva zveřejní ministerstvo v rozsahu stanoveném v [[#§ 42|§ 42]] po dobu v tomto ustanovení stanovenou na své úřední desce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 42
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=859fb801065cbd45a7f5 -->
+
 ### § 40 — Pravidelnost zasedání, kvórum
 
 > **§ 40**
@@ -689,6 +1160,54 @@ Každé usnesení, rozhodnutí i volba vyžadují souhlas nadpoloviční větši
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b63e5f91f7f9cb2f860b generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 40
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Zastupitelstvo se schází podle potřeby, nejméně však jedenkrát za 3 měsíce. Zasedání zastupitelstva písemně svolává a řídí zpravidla hejtman. Do lhůty stanovené ve větě první se nezapočítává doba, po niž se na území kraje vztahuje krizový stav28), mimořádné opatření při epidemii nebo nebezpečí jejího vzniku nebo mimořádné veterinární opatření.
+>
+> (2) K platnému usnesení, rozhodnutí nebo volbě zastupitelstva je třeba souhlasu nadpoloviční většiny všech členů zastupitelstva.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b63e5f91f7f9cb2f860b -->
+
 ### § 41 — Neusnášeníschopnost; svolání na žádost menšiny
 
 > **§ 41**
@@ -744,6 +1263,58 @@ Třetinová menšina (např. 15 členů u malého kraje) má **veto vůči neči
 **Typicky rozhodné důkazy / podklady:** žádost s podpisy a podacím razítkem, publikace svolání, prezenční listiny, zápis ze zasedání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3b361e7c10b9f39d72a8 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 41
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Jestliže při zahájení zasedání zastupitelstva nebo v jeho průběhu není přítomna nadpoloviční většina všech členů zastupitelstva, ukončí předsedající toto zasedání zastupitelstva. Do 21 dnů se koná jeho náhradní zasedání.
+>
+> (2) Požádá-li o to alespoň jedna třetina členů zastupitelstva, hejtman je povinen svolat zasedání zastupitelstva tak, aby se uskutečnilo nejpozději do 21 dnů ode dne doručení žádosti krajskému úřadu.
+>
+> (3) Nesvolá-li hejtman zasedání zastupitelstva podle předchozích odstavců, učiní tak náměstek hejtmana nebo jiný člen zastupitelstva.
+>
+> (4) Do lhůt stanovených v odstavcích 1 a [[#§ 2|2]] se nezapočítává doba, po niž se na území kraje vztahuje krizový stav28), mimořádné opatření při epidemii nebo nebezpečí jejího vzniku nebo mimořádné veterinární opatření.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3b361e7c10b9f39d72a8 -->
 
 ### § 41a — Distanční účast
 
@@ -804,6 +1375,56 @@ Distanční účast členů i veřejnosti je možná jen na základě předchoz�
 **Typicky rozhodné důkazy / podklady:** jednací řád, záznam přenosu, technický protokol připojení, zápis ze zasedání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=49b87c6fb363d910d2ea generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 41a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Stanoví-li tak předem jednací řád zastupitelstva, může se člen zastupitelstva účastnit jednání zastupitelstva též distančním způsobem s využitím technického zařízení pro přenos obrazu a zvuku, pokud umožňuje uplatňovat zákonná práva spojená s účastí na jednání. Jednací řád stanoví pravidla účasti na jednání zastupitelstva distančním způsobem. Člen zastupitelstva má vždy právo účastnit se jednání zastupitelstva osobně v místě, v němž se zasedání zastupitelstva koná.
+>
+> (2) Ustanovení odstavce 1 se použije obdobně i pro účast veřejnosti na jednání zastupitelstva.
+>
+> (3) O možnosti účastnit se jednání zastupitelstva distančním způsobem a o podmínkách, za nichž je tato účast možná, informuje krajský úřad v informaci podle § 42 odst. 1 nebo [[#§ 2|2.]]
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 42, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=49b87c6fb363d910d2ea -->
 
 ### § 42 — Veřejnost zasedání a oznamovací povinnost
 
@@ -875,6 +1496,60 @@ Zasedání zastupitelstva je vždy veřejné; informace o místě, době a navr�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=53b869f6c87bc4046ad0 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 42
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Zasedání zastupitelstva je veřejné. Krajský úřad zveřejní informaci o místě, době a navrženém programu připravovaného zasedání zastupitelstva vždy nejméně 10 dnů předem na úřední desce2) krajského úřadu, kromě toho může informaci zveřejnit způsobem v místě obvyklým.
+>
+> (2) Je-li nezbytné konat zasedání zastupitelstva v souvislosti s řešením mimořádné události podle zákona o integrovaném záchranném systému38), k zabránění jejího vzniku nebo k odstraňování jejích následků, anebo jestliže se na území kraje vztahuje krizový stav28), mimořádné opatření při epidemii nebo nebezpečí jejího vzniku nebo mimořádné veterinární opatření, zveřejní se informace o místě, době a navrženém programu připravovaného zasedání zastupitelstva podle odstavce 1 na úřední desce krajského úřadu alespoň po dobu 2 dnů před zasedáním zastupitelstva. Záležitosti, které se netýkají řešení situací uvedených ve větě první, mohou být na tomto zasedání projednávány pouze tehdy, jestliže byla informace zveřejněna nejméně 10 dnů před zasedáním zastupitelstva.
+>
+> (3) Návrh programu jednání zastupitelstva připravuje a předkládá zastupitelstvu ke schválení rada.
+>
+> (4) O zařazení návrhů dalších bodů programu, přednesených v průběhu zasedání zastupitelstva, rozhodne zastupitelstvo.
+>
+> (5) Zúčastní-li se zasedání zastupitelstva člen vlády nebo jím pověřený zástupce, poslanec, senátor a požádá-li o slovo, musí mu být vždy uděleno.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=53b869f6c87bc4046ad0 -->
+
 ### § 43 — Zápis ze zasedání
 
 > **§ 43**
@@ -935,6 +1610,52 @@ Zápis je klíčové úřední osvědčení průběhu zasedání: vyhotovuje se 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3c8e743eced44b519540 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 43
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> O průběhu zasedání zastupitelstva se pořizuje zápis, který podepisuje hejtman nebo náměstek hejtmana a zvolení ověřovatelé. Zápis, který je nutno pořídit do 15 dnů po skončení zasedání, musí obsahovat údaj o počtu přítomných členů zastupitelstva, schválený program jednání, průběh a výsledek hlasování a přijatá usnesení a musí být uložen u krajského úřadu k nahlédnutí. O námitkách člena zastupitelstva proti zápisu rozhodne nejbližší zasedání zastupitelstva.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3c8e743eced44b519540 -->
+
 ### § 44 — Jednací řád
 
 > **§ 44**
@@ -984,6 +1705,52 @@ Jednací řád je obligatorní vnitřní předpis konkretizující jednání zas
 **Typicky rozhodné důkazy / podklady:** text jednacího řádu, zápisy dokládající jeho aplikaci, žádosti o vystoupení a reakce předsedajícího.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=879662495b7fbff3b3a5 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 44
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> Zastupitelstvo vydá jednací řád, v němž stanoví podrobnosti o jednání zastupitelstva a výborů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=879662495b7fbff3b3a5 -->
 
 ### § 45 — Pokles počtu zastupitelů, rozpuštění zastupitelstva
 
@@ -1047,6 +1814,54 @@ Při poklesu členů o více než polovinu bez náhradníků přechází zastupi
 **Typicky rozhodné důkazy / podklady:** doklady o zániku mandátů a vyčerpání náhradníků, oznámení ministerstvu, usnesení o provizoriu a rozpočtových opatřeních, zápisy ze zasedání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a09dbd3374a26520b76f generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 45
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Klesne-li počet členů zastupitelstva o více než polovinu oproti počtu stanovenému v § 31 odst. 1 a nejsou-li náhradníci, do doby, než bude zvoleno zastupitelstvo nové, zabezpečuje jeho úkoly stávající zastupitelstvo. V takovém případě však nepřísluší zastupitelstvu vykonávat působnost podle § 35 odst. 2 a [[#§ 36|§ 36]], s výjimkou přijímání rozpočtových opatření, rozhodování podle § 35 odst. 2 písm. m), n) a p) až t) a stanovení pravidel rozpočtového provizoria. Tuto skutečnost krajský úřad bezodkladně oznámí ministerstvu.
+>
+> (2) Jestliže se zastupitelstvo nesejde po dobu delší než 6 měsíců tak, aby bylo schopno se usnášet, nebo nezvolí-li hejtmana do 6 měsíců ode dne, kdy byl odvolán nebo se funkce vzdal, nebo do 6 měsíců ode dne ustavujícího zasedání, ministerstvo je rozpustí a ministr vnitra vyhlásí nové volby. Proti rozhodnutí o rozpuštění zastupitelstva může kraj podat žalobu k soudu. Ustanovení [[#§ 60a|§ 60a]] a [[#§ 64b|64b]] se použijí obdobně. Do lhůty podle věty první se nezapočítává doba, po niž se na území kraje vztahuje krizový stav28), mimořádné opatření při epidemii nebo nebezpečí jejího vzniku nebo mimořádné veterinární opatření.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 31, § 35, § 36, § 60a, § 64b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a09dbd3374a26520b76f -->
 
 ### Odměňování členů zastupitelstva (§§ 46–53)
 
@@ -1132,6 +1947,62 @@ Zastupitelstvo určuje, které funkce jsou uvolněné. Neuvolněným zaměstnanc
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8a93885f89b5cbfccbfc generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 46
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Funkci člena zastupitelstva vykonávají
+>
+> - a) členové zastupitelstva zvolení do funkcí, jež zastupitelstvo určilo jako funkce, pro které budou členové zastupitelstva uvolněni, (dále jen „uvolněný člen zastupitelstva“),
+>
+> - b) ostatní členové zastupitelstva (dále jen „neuvolněný člen zastupitelstva“).
+>
+> (2) Neuvolněnému členovi zastupitelstva poskytne zaměstnavatel pro výkon funkce pracovní volno s náhradou mzdy nebo platu; rozsah doby nezbytně nutný k výkonu funkce určí kraj. Náhradu mzdy nebo platu, včetně odpovídající částky pojistného na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti a pojistného na veřejné zdravotní pojištění podle zvláštních právních předpisů32), uhradí kraj zaměstnavateli.
+>
+> (3) Neuvolněnému členovi zastupitelstva, který je podnikající fyzickou osobou nebo osobou provozující jinou samostatnou výdělečnou činnost, poskytuje kraj náhradu výdělku ušlého v souvislosti s výkonem funkce paušální částkou. Paušální částku za hodinu a nejvyšší částku, kterou lze jako náhradu výdělku ušlého v souvislosti s výkonem funkce poskytnout v souhrnu za kalendářní měsíc, stanoví zastupitelstvo.
+>
+> (4) Kraj nesmí členovi zastupitelstva poskytnout v souvislosti s výkonem funkce člena zastupitelstva dar, a to ani po skončení výkonu funkce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8a93885f89b5cbfccbfc -->
+
 ### § 47 — Měsíční odměna
 
 > **§ 47**
@@ -1208,6 +2079,68 @@ Uvolněný člen má na odměnu zákonný nárok (zastupitelstvo ji nemůže kr�
 **Typicky rozhodné důkazy / podklady:** usnesení o odměnách, osvědčení o zvolení do kolidujících funkcí, mzdové listy, doklady o pracovní neschopnosti, korespondence o vrácení přeplatků.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ac7d37921bbc3b491c6a generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 47
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Uvolněnému členovi zastupitelstva poskytuje kraj za výkon funkce odměnu ve výši podle § 48 odst. 1. Odměna se poskytuje ode dne zvolení do funkce, již zastupitelstvo určilo jako funkci, pro kterou budou členové zastupitelstva uvolněni, nejdříve však ode dne, od kterého ji zastupitelstvo jako takovou funkci určilo. Uvolněnému členovi zastupitelstva, který je poslancem, senátorem nebo členem vlády, poskytuje kraj odměnu ve výši 0,4násobku výše odměny, která by jinak náležela uvolněnému členovi zastupitelstva. Je-li uvolněný člen zastupitelstva kraje zároveň členem zastupitelstva obce nebo hlavního města Prahy podle jiného právního předpisu, poskytne mu odměnu v plné výši pouze ten samosprávný celek, který by mu jako členovi zastupitelstva poskytoval odměnu vyšší. Druhý z obou samosprávných celků, jehož zastupitelstva je členem, mu poskytne odměnu ve výši 0,4násobku výše odměny, kterou by mu jinak jako členovi zastupitelstva poskytoval.
+>
+> (2) Neuvolněnému členovi zastupitelstva může kraj poskytovat za výkon funkce odměnu až do maximální výše podle § 48 odst. 2. V takovém případě se odměna poskytuje ode dne stanoveného zastupitelstvem, nejdříve však ode dne přijetí usnesení zastupitelstva, kterým odměnu stanovilo. Je-li neuvolněný člen zastupitelstva kraje, který vykonává funkci hejtmana nebo náměstka hejtmana, zároveň členem zastupitelstva obce nebo hlavního města Prahy podle jiného právního předpisu, poskytne mu odměnu v plné výši pouze ten samosprávný celek, který by mu jako členovi zastupitelstva poskytoval odměnu vyšší. Druhý z obou samosprávných celků, jehož zastupitelstva je členem, mu poskytne odměnu ve výši 0,4násobku výše odměny, kterou by mu jinak jako členovi zastupitelstva poskytoval. Neuvolněnému členovi zastupitelstva kraje vykonávajícímu funkci hejtmana nebo náměstka hejtmana, který je zároveň poslancem, senátorem nebo členem vlády, může kraj poskytovat odměnu nejvýše ve výši 0,4násobku výše odměny, která by mu jinak jako neuvolněnému členovi zastupitelstva kraje při výkonu těchto funkcí náležela.
+>
+> (3) V usnesení podle odstavce 2 zastupitelstvo stanoví výši odměn neuvolněným členům zastupitelstva za měsíc, a to částkou v celých korunách, přitom může přihlédnout k plnění individuálních úkolů, které jednotlivým neuvolněným členům zastupitelstva uložilo, a předem stanoveným způsobem k jejich účasti na jednání orgánů, jejichž jsou členy. Usnesení podle odstavce 2 pozbývá účinnosti ukončením funkčního období zastupitelstva, které odměnu stanovilo.
+>
+> (4) Neuvolněnému členovi zastupitelstva, který vykonává funkci hejtmana, poskytuje kraj odměnu v rozmezí od 0,3 do 0,6násobku výše odměny, která by náležela uvolněnému členovi zastupitelstva, který vykonává funkci hejtmana. Pokud zastupitelstvo neuvolněnému členovi zastupitelstva, který vykonává funkci hejtmana, odměnu nestanovilo, náleží mu ode dne zvolení do funkce hejtmana odměna ve výši 0,3násobku výše odměny, která by náležela uvolněnému členovi zastupitelstva, který vykonává funkci hejtmana.
+>
+> (5) Odměna se členovi zastupitelstva poskytuje měsíčně. Pokud člen zastupitelstva vykonával funkci jen po část měsíce, náleží mu za tento měsíc odměna ve výši násobku jedné třicetiny jeho odměny a počtu kalendářních dnů, po které funkci v daném měsíci vykonával.
+>
+> (6) Nevykonává-li uvolněný člen zastupitelstva funkci z důvodu dočasné pracovní neschopnosti, nařízené karantény, těhotenství a mateřství, péče o dítě do 4 let věku anebo ošetřování fyzické osoby nebo péče o dítě mladší 10 let podle zákona [[o nemocenském pojištění|o nemocenském pojištění]], odměna mu nenáleží, nestanoví-li tento zákon jinak.
+>
+> (7) Uvolněnému členovi zastupitelstva za každý kalendářní den od prvního do čtrnáctého kalendářního dne dočasné pracovní neschopnosti nebo karantény náleží odměna ve výši 60 % jedné třicetiny odměny. Pro účely stanovení výše odměny ve snížené výši podle věty první se jedna třicetina odměny upraví obdobným způsobem, jakým se upravuje denní vyměřovací základ pro stanovení nemocenského z nemocenského pojištění33).
+>
+> (8) Odměna stanovená podle odstavce 7 se snižuje o 50 %, pokud se nemocenské podle právních předpisů [[o nemocenském pojištění|o nemocenském pojištění]] snižuje na polovinu. Odměna ve snížené výši stanovená podle odstavce 7 a podle věty první za jednotlivý kalendářní den se zaokrouhluje na celé koruny nahoru.
+>
+> (9) Je-li člen zastupitelstva odvolán z funkce nebo se funkce vzdal a v tentýž den je zvolen do jiné funkce, za kterou mu náleží odměna, náleží mu za tento den pouze ta z odměn, která je vyšší. V případě souhrnu odměn podle § 49 odst. 2 je pro posouzení výše odměn rozhodná výše souhrnné odměny, o níž rozhodlo zastupitelstvo.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 48, § 49
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ac7d37921bbc3b491c6a -->
 
 ### § 48 — Výpočet odměny: základna × koeficient
 
@@ -1287,6 +2220,68 @@ Odměna se vždy počítá vzorcem „základna (ČSÚ, vyhlašovaná sdělením
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1dd9c6adeba5d8ab264c generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 48
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Odměna uvolněného člena zastupitelstva se určí jako součin základny pro výpočet odměny a koeficientu stanoveného v příloze k tomuto zákonu podle zastávané funkce a velikostní kategorie kraje.
+>
+> (2) Maximální výše odměny neuvolněného člena zastupitelstva se určí jako součin základny pro výpočet odměny a koeficientu stanoveného v příloze k tomuto zákonu podle zastávané funkce a podle velikostní kategorie kraje.
+>
+> (3) Za základnu pro výpočet odměny v příslušném kalendářním roce se považuje průměrná hrubá měsíční nominální mzda na přepočtené počty zaměstnanců v národním hospodářství dosažená za první pololetí předchozího kalendářního roku podle zveřejněných údajů Českého statistického úřadu známých k 1. říjnu předchozího kalendářního roku.
+>
+> (4) Výši základny pro výpočet odměny podle odstavce 3 vyhlašuje ministerstvo sdělením ve Sbírce zákonů a mezinárodních smluv.
+>
+> (5) Při určení výše odměny člena zastupitelstva se vychází z počtu obyvatel kraje34), kteří byli hlášeni v kraji k trvalému pobytu k 1. lednu kalendářního roku, ve kterém se konaly volby do zastupitelstva.
+>
+> (6) Změní-li se v průběhu volebního období zastupitelstva počet obyvatel kraje hlášených v kraji k trvalému pobytu k 1. lednu kalendářního roku ve srovnání s rozhodným počtem obyvatel podle odstavce 5 o více než 10 % tak, že dojde ke změně zařazení kraje ve velikostní kategorii krajů podle přílohy k tomuto zákonu, náleží od 1. ledna tohoto kalendářního roku
+>
+> - a) uvolněnému členovi zastupitelstva odměna ve výši odpovídající velikostní kategorii kraje,
+>
+> - b) neuvolněnému členovi zastupitelstva dosavadní odměna, pokud nepřesahuje maximální výši odměny pro příslušnou velikostní kategorii kraje, jinak mu přísluší odměna v maximální výši.
+>
+> (7) Odměna se zaokrouhluje na celé koruny nahoru.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1dd9c6adeba5d8ab264c -->
+
 ### § 49 — Souběh funkcí
 
 > **§ 49**
@@ -1339,6 +2334,54 @@ U uvolněných platí „jedna, nejvyšší odměna"; u neuvolněných lze usnes
 **Typicky rozhodné důkazy / podklady:** usnesení o odměnách a souhrnné odměně, jmenovací a volební akty, příloha zákona (maxima), mzdové listy.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=90a592e8bf146ce0673c generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 49
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) V případě souběhu výkonu více funkcí náleží uvolněnému členovi zastupitelstva odměna za tu z jeho funkcí, za kterou náleží nejvyšší odměna.
+>
+> (2) V případě souběhu výkonu více funkcí může být neuvolněnému členovi zastupitelstva poskytnuta odměna až do výše souhrnu odměn za tři různé funkce. Do tohoto souhrnu lze zahrnout pouze odměny za výkon funkce člena rady, předsedy nebo člena výboru zastupitelstva, předsedy nebo člena komise rady anebo předsedy nebo člena zvláštního orgánu. Pokud zastupitelstvo nerozhodne o poskytnutí odměny podle věty první, náleží neuvolněnému členovi zastupitelstva odměna za funkci, za kterou mu náleží nejvyšší odměna schválená zastupitelstvem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=90a592e8bf146ce0673c -->
 
 ### § 50 — Odměna za zastupování hejtmana
 
@@ -1400,6 +2443,62 @@ Kdo fakticky, nepřetržitě a déle než 4 týdny vykonává hejtmanovu funkci 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d678daf0d311a81ccdb8 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 50
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Náměstkovi hejtmana, který po dobu delší než 4 týdny nepřetržitě zastupoval podle [[#§ 64|§ 64]] věty třetí hejtmana v plném rozsahu jeho funkce z důvodu jeho nepřítomnosti nebo v době, kdy hejtman nevykonával funkci, náleží od prvního dne zastupování odměna ve výši, která by v daném období náležela hejtmanovi, je-li tato odměna vyšší.
+>
+> (2) Členovi rady, který byl zastupitelstvem pověřen výkonem pravomocí hejtmana podle [[#§ 64a|§ 64a]] věty druhé, náleží odměna ve výši, která by v daném období náležela hejtmanovi, je-li tato odměna vyšší.
+>
+> (3) Osobě, která nadále vykonává pravomoci hejtmana nebo náměstka hejtmana podle [[#§ 64b|§ 64b]], náleží po dobu výkonu těchto pravomocí dosavadní odměna za výkon této funkce a další související nároky spojené s výkonem této funkce. Osobě, která nadále vykonává pravomoci člena rady podle § 60 odst. 2 nebo [[#§ 60a|§ 60a]], náleží po dobu výkonu těchto pravomocí dosavadní odměna za výkon této funkce a další související nároky spojené s výkonem této funkce.
+>
+> (4) Osobě, která je předsedou nebo členem zvláštního orgánu, náleží po skončení funkčního období zastupitelstva do odvolání z funkce dosavadní odměna za výkon této funkce a další související nároky spojené s výkonem této funkce.
+>
+> (5) Osobě, která je předsedou nebo členem komise rady, náleží po skončení funkčního období zastupitelstva dosavadní odměna za výkon této funkce a další související nároky spojené s výkonem této funkce po dobu výkonu pravomocí dosavadní rady podle [[#§ 60a|§ 60a]].
+>
+> (6) Náležela-li by členovi zastupitelstva v jeden den odměna podle odstavce 3, [[#§ 4|4]] nebo [[#§ 5|5]] a současně odměna podle § 47 odst. 1 nebo [[#§ 2|2]], náleží mu za tento den pouze ta z odměn, která je vyšší. V případě souhrnu odměn podle § 49 odst. 2 je pro posouzení výše odměn rozhodná výše souhrnné odměny, o níž rozhodlo zastupitelstvo.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 64, § 64a, § 64b, § 60, § 60a, § 4, § 5, § 47, § 2, § 49
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d678daf0d311a81ccdb8 -->
+
 ### § 51 — Mimořádné odměny
 
 > **§ 51**
@@ -1459,6 +2558,58 @@ Mimořádná odměna je výjimečný nástroj: vyžaduje skutečně mimořádný
 **Typicky rozhodné důkazy / podklady:** program a zápis ze zasedání, text usnesení s odůvodněním, mzdové listy, podklady dokládající mimořádný úkol (zprávy, projekty, krizová dokumentace).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=dd33bb45bc69da47681b generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 51
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Členovi zastupitelstva může kraj poskytnout mimořádnou odměnu za splnění mimořádných nebo zvláště významných úkolů kraje.
+>
+> (2) Souhrnná výše mimořádných odměn poskytnutých v kalendářním roce členovi zastupitelstva, který byl alespoň po část tohoto roku uvolněným členem zastupitelstva, nesmí být vyšší než dvojnásobek nejvyšší odměny, která mu v průběhu tohoto kalendářního roku náležela za výkon jím zastávaných funkcí za měsíc.
+>
+> (3) Souhrnná výše mimořádných odměn poskytnutých v kalendářním roce neuvolněnému členovi zastupitelstva nesmí být vyšší než dvojnásobek nejvyšší maximální výše odměny neuvolněného člena zastupitelstva, která mu v průběhu tohoto kalendářního roku mohla být krajem poskytována za výkon jím zastávané funkce nebo v souhrnu za výkon jím zastávaných funkcí za měsíc.
+>
+> (4) Návrh na poskytnutí mimořádné odměny členovi zastupitelstva musí být odůvodněn a projednán jako samostatný bod programu jednání zastupitelstva. Důvod poskytnutí mimořádné odměny musí být uveden v usnesení zastupitelstva, kterým byla mimořádná odměna poskytnuta.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dd33bb45bc69da47681b -->
 
 ### § 52 — Odchodné
 
@@ -1534,6 +2685,64 @@ Odchodné náleží jen uvolněným členům zastupitelstva a neuvolněnému hej
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f11c70f9ef0e3181407c generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 52
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Neuvolněnému členovi zastupitelstva, který vykonává funkci hejtmana nebo náměstka hejtmana, a uvolněnému členovi zastupitelstva, jimž zanikl mandát člena zastupitelstva, poskytne kraj odchodné, pokud jim ke dni zániku mandátu člena zastupitelstva náležela odměna. K případům nevyplácení odměny v rozhodný den z důvodů uvedených v § 47 odst. 6 se nepřihlíží.
+>
+> (2) Neuvolněnému členovi zastupitelstva, který vykonává funkci hejtmana nebo náměstka hejtmana, a uvolněnému členovi zastupitelstva, kteří byli v průběhu funkčního období odvoláni nebo se vzdali funkce, poskytne kraj odchodné, pokud jim ke dni odvolání nebo vzdání se funkce náležela odměna. K případům nevyplácení odměny v rozhodný den z důvodů uvedených v § 47 odst. 6 se nepřihlíží.
+>
+> (3) Odchodné podle odstavce 1 při zániku mandátu člena zastupitelstva dnem voleb do zastupitelstva členovi zastupitelstva nenáleží, pokud byl v novém funkčním období opětovně zvolen do funkce uvolněného člena zastupitelstva nebo do funkce neuvolněného člena zastupitelstva, který vykonává funkci hejtmana nebo náměstka hejtmana, za niž mu náleží odměna. O opětovné zvolení do funkce podle věty první nejde, jde-li o druhé a následující obsazení uvedené funkce v průběhu funkčního období.
+>
+> (4) Odchodné podle odstavce 2 členovi zastupitelstva nenáleží, pokud byl nejpozději na následujícím zasedání zastupitelstva opětovně zvolen do funkce uvolněného člena zastupitelstva nebo do funkce neuvolněného člena zastupitelstva, který vykonává funkci hejtmana nebo náměstka hejtmana, za niž mu náleží odměna.
+>
+> (5) Odchodné členovi zastupitelstva nenáleží, pokud byl v průběhu výkonu funkce pravomocně odsouzen pro úmyslný trestný čin nebo pro nedbalostní trestný čin spáchaný v souvislosti s výkonem funkce člena zastupitelstva, jeho trestní stíhání pro takový trestný čin bylo podmíněně zastaveno nebo bylo rozhodnuto o schválení narovnání a zastavení trestního stíhání.
+>
+> (6) Vznikl-li členovi zastupitelstva nárok na odchodné v době, kdy je proti němu vedeno trestní stíhání pro úmyslný trestný čin nebo pro nedbalostní trestný čin spáchaný v souvislosti s výkonem funkce člena zastupitelstva, odchodné se nevyplatí. Byl-li člen zastupitelstva pro trestný čin uvedený ve větě první pravomocně odsouzen, jeho trestní stíhání bylo podmíněně zastaveno nebo bylo-li rozhodnuto o schválení narovnání a zastavení trestního stíhání, platí, že nárok na odchodné nevznikl; v opačném případě se odchodné vyplatí.
+>
+> (7) Odchodné podle odstavce 2 lze členovi zastupitelstva poskytnout ve funkčním období pouze jednou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 47
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f11c70f9ef0e3181407c -->
+
 ### § 53 — Výpočet a splatnost odchodného
 
 > **§ 53**
@@ -1592,6 +2801,56 @@ Odchodné = měsíční odměna ke dni zániku mandátu (odvolání, vzdání se
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e01e623565d5dcbb7eed generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 53
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Odchodné se stanoví ve výši odměny, která členovi zastupitelstva náležela za měsíc ke dni zániku mandátu člena zastupitelstva nebo ke dni odvolání nebo vzdání se funkce, k níž se přičte násobek této částky a počtu celých ukončených po sobě jdoucích let výkonu funkce, nejvíce však tří ukončených let výkonu funkce. Do rozhodné doby podle věty první se započte i doba, po kterou člen zastupitelstva podle § 52 odst. 3 nebo [[#§ 4|4]] do opětovného zvolení do funkce nevykonával funkci uvolněného člena zastupitelstva anebo funkci neuvolněného člena zastupitelstva, který vykonává funkci hejtmana nebo náměstka hejtmana.
+>
+> (2) Odchodné je splatné, jsou-li splněny podmínky stanovené v [[#§ 52|§ 52]] a předloženo čestné prohlášení podle odstavce 3, a vyplácí se jednorázově v nejbližším výplatním termínu. Pokud do 3 měsíců nenastala překážka pro nárok na odchodné podle § 52 odst. 3 a [[#§ 4|4]], odchodné se vyplatí. Člen zastupitelstva, jemuž bylo vyplaceno odchodné podle věty první, je povinen vyplacené odchodné vrátit, jestliže následně nastaly překážky pro nárok na odchodné podle § 52 odst. 3 a [[#§ 4|4.]]
+>
+> (3) Člen zastupitelstva je povinen předložit čestné prohlášení, že u něj nejsou dány překážky pro výplatu odchodného stanovené v § 52 odst. 5 a [[#§ 6|6.]]
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 52, § 4, § 6
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e01e623565d5dcbb7eed -->
+
 ### § 54 — Subsidiární použití zákoníku práce
 
 > **§ 54**
@@ -1649,6 +2908,52 @@ Na splatnost a výplatu odměn, srážky z nich, náhradu škody způsobené kra
 **Typicky rozhodné důkazy / podklady:** vyčíslení škody, záznam o události, mzdové listy a výpočet průměrného výdělku, doklady o pracovní cestě, dohoda o náhradě škody.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=594ca9a67d760a05192c generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 54
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> Splatnost a výplata odměny a dalších plnění poskytovaných v souvislosti s výkonem funkce členům zastupitelstva, jakož i srážky z nich, odpovědnost člena zastupitelstva za škodu, kterou způsobil kraji v souvislosti s výkonem funkce, a postup kraje v případě zjišťování průměrného výdělku, vzdání se práva na odměnu nebo další plnění a v případě smrti člena zastupitelstva se řídí zákoníkem práce. Pro tyto účely se kraj považuje za zaměstnavatele a členové zastupitelstva se považují za zaměstnance.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=594ca9a67d760a05192c -->
 
 ### § 55 — Další plnění (benefity)
 
@@ -1722,6 +3027,70 @@ Benefity lze zastupitelům poskytovat jen z taxativního katalogu § 55 odst. 1 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=870dad42f8cbd6950d1e generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 55
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Členovi zastupitelstva lze z peněžního fondu nebo z rozpočtu kraje poskytnout
+>
+> - a) příspěvek na podporu vzdělávání v souvislosti s výkonem funkce člena zastupitelstva,
+>
+> - b) příspěvek na stravování, jde-li o uvolněného člena zastupitelstva,
+>
+> - c) příspěvek na penzijní připojištění se státním příspěvkem, doplňkové penzijní spoření nebo životní pojištění,
+>
+> - d) odměnu při významném životním výročí,
+>
+> - e) příspěvek na pojištění rizik spojených s výkonem funkce člena zastupitelstva,
+>
+> - f) příspěvek na podporu zdravotních, kulturních a sportovních aktivit, jde-li o uvolněného člena zastupitelstva,
+>
+> - g) příspěvek na rekreaci, jde-li o uvolněného člena zastupitelstva,
+>
+> - h) příspěvek na úhradu zvýšených nákladů na úpravu zevnějšku v souvislosti se zastupováním kraje na veřejných občanských obřadech.
+>
+> (2) Plnění podle odstavce 1 lze členovi zastupitelstva poskytnout za obdobných podmínek a v obdobné výši jako zaměstnancům kraje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=870dad42f8cbd6950d1e -->
+
 ### § 56 — Cestovní náhrady
 
 > **§ 56**
@@ -1774,6 +3143,58 @@ Cestovní náhrady zastupitelů se řídí zákoníkem práce a prováděcí vyh
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ef7c363a1d23b6ab85b3 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 56
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Členovi zastupitelstva náleží v souvislosti s výkonem jeho funkce cestovní náhrady ve výši a za podmínek stanovených právními předpisy platnými pro zaměstnance kraje35) a v jejich mezích podle pravidel pro poskytování cestovních náhrad členům zastupitelstva, stanovených zastupitelstvem.
+>
+> (2) Zastupitelstvo může stanovit, že za pravidelné pracoviště člena zastupitelstva pro účely cestovních náhrad se považuje místo jeho trvalého pobytu.
+>
+> (3) Nestanoví-li v pravidlech pro poskytování cestovních náhrad členům zastupitelstva zastupitelstvo jinak, podmínky, které mohou ovlivnit poskytování a výši cestovních náhrad, zejména dobu a místo nástupu a ukončení cesty, místo plnění úkolů, způsob dopravy a ubytování, určuje členům zastupitelstva před zahájením pracovní cesty písemně hejtman.
+>
+> (4) Stanoví-li tak zastupitelstvo, náleží členovi zastupitelstva náhrada za opotřebení vlastního zařízení nebo jiných předmětů nezbytných k výkonu funkce člena zastupitelstva. To neplatí pro používání motorového vozidla, u kterého se poskytování náhrad řídí odstavci 1 až 3.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ef7c363a1d23b6ab85b3 -->
+
 ### § 56a — Dovolená uvolněného člena
 
 > **§ 56a**
@@ -1824,6 +3245,68 @@ Uvolněný člen zastupitelstva má 5 týdnů dovolené ročně (nejvýše 25 dn
 **Typicky rozhodné důkazy / podklady:** evidence dovolené, doklad o zániku či změně funkce, mzdové listy.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0076dc0502b2607b58f4 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 56a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Uvolněný člen zastupitelstva má nárok na dovolenou v délce 5 týdnů za kalendářní rok, přičemž nejvýše 25 dnů dovolené může připadnout na pondělí až pátek, pokud tento den není svátkem36).
+>
+> (2) Pokud výkon funkce uvolněného člena zastupitelstva netrvá po dobu celého kalendářního roku, má nárok na poměrnou část dovolené, která činí za každý i započatý kalendářní měsíc výkonu funkce jednu dvanáctinu dovolené za kalendářní rok.
+>
+> (3) Odměna se za dobu čerpání dovolené nekrátí.
+>
+> (4) Kraj poskytne uvolněnému členovi zastupitelstva též tu část dovolené, kterou nevyčerpal u svého zaměstnavatele před uvolněním k výkonu veřejné funkce.
+>
+> (5) Nevyčerpal-li uvolněný člen zastupitelstva dovolenou nebo její část v průběhu příslušného kalendářního roku, převádí se mu nárok na ni do bezprostředně následujícího kalendářního roku, v němž se eviduje jako nevyčerpaná dovolená z předchozího kalendářního roku a čerpá se přednostně. Do dalšího kalendářního roku se již tento nárok nepřevádí.
+>
+> (6) Nevyčerpal-li uvolněný člen zastupitelstva ke dni ukončení výkonu funkce poměrnou část dovolené podle odstavce 2 za kalendářní rok, ve kterém došlo k ukončení uvolnění pro výkon funkce, poskytne mu kraj náhradu za nevyčerpanou dovolenou. Nevyčerpaná dovolená z předchozího kalendářního roku se nenahrazuje ani nepřevádí.
+>
+> (7) Náhrada za nevyčerpanou dovolenou podle odstavce 6 se určí jako násobek počtu kalendářních dnů, za které je poskytována, a jedné třicetiny odměny, která náleží uvolněnému členovi zastupitelstva ke dni ukončení výkonu funkce.
+>
+> (8) Vyčerpal-li uvolněný člen zastupitelstva dovolenou v rozsahu větším, než mu náleží podle odstavců 1 až 5, posuzuje se odměna za každý den čerpání dovolené nad rámec zákonného nároku jako přeplatek poskytnuté odměny.
+>
+> (9) Krajský úřad vede evidenci o čerpání dovolené uvolněných členů zastupitelstva. Člen zastupitelstva oznámí předem čerpání dovolené krajskému úřadu prostřednictvím hejtmana.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0076dc0502b2607b58f4 -->
 
 ## Díl 2 — Rada
 
@@ -1894,6 +3377,57 @@ Rada je výkonným orgánem kraje odpovědným zastupitelstvu; má 9 (do 600 000
 **Typicky rozhodné důkazy / podklady:** usnesení zastupitelstva o volbě a odvolání, zápisy ze schůzí rady, prezenční listiny, údaj o počtu obyvatel kraje.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ecec623dc2d63e688ef7 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 57
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Rada je výkonným orgánem kraje v oblasti samostatné působnosti. Při výkonu své působnosti odpovídá rada zastupitelstvu. Rada může rozhodovat ve věcech přenesené působnosti, jen stanoví-li tak zákon.
+>
+> (2) Radu tvoří hejtman, náměstek hejtmana (náměstci hejtmana) a další členové rady, kteří jsou voleni z členů zastupitelstva. Počet členů rady činí v kraji s počtem
+> a)do 600 000 obyvatel9 členů,b)nad 600 000 obyvatel 11 členů.
+>
+> (3) Je-li hejtman nebo náměstek hejtmana odvolán z funkce nebo na tuto funkci rezignoval, přestává být i členem rady.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ecec623dc2d63e688ef7 -->
 
 ### § 58 — Schůze rady; usnášeníschopnost; neveřejnost
 
@@ -1966,6 +3500,62 @@ Schůze rady jsou neveřejné, ale její výstupy kontrole podléhají: zápis (
 **Typicky rozhodné důkazy / podklady:** zápis a usnesení rady, prezenční listina, jednací řád, dokumentace vyřízení žádostí dle InfZ.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3df68cd7063d2fc8d351 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 58
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Rada se schází ke svým schůzím podle potřeby. Schůze rady svolává hejtman. Schůze rady jsou neveřejné. Rada může k jednotlivým bodům svého jednání přizvat i dalšího člena zastupitelstva nebo jiné osoby.
+>
+> (2) K platnému usnesení, volbě nebo rozhodnutí je třeba souhlasu nadpoloviční většiny všech členů rady.
+>
+> (3) Rada vydá jednací řád, v němž stanoví podrobnosti o jednání rady.
+>
+> (4) Stanoví-li tak předem jednací řád rady, může se člen rady nebo jiná oprávněná osoba zúčastnit schůze rady též distančním způsobem s využitím technického zařízení pro přenos obrazu a zvuku, pokud umožňuje uplatňovat zákonná práva spojená s účastí na schůzi. Jednací řád stanoví pravidla účasti na schůzi rady distančním způsobem. Člen rady má vždy právo účastnit se schůze rady osobně v místě, v němž se schůze rady koná.
+>
+> (5) O průběhu schůze rady se pořizuje zápis, ve kterém se vždy uvede počet přítomných členů rady, schválený program schůze rady, průběh a výsledek hlasování a přijatá usnesení. Zápis podepisuje hejtman nebo náměstek hejtmana, spolu s ověřovateli. Zápis, který je nutno pořídit do 15 dnů po skončení schůze, musí být uložen u krajského úřadu k nahlédnutí členům zastupitelstva kraje. O námitkách člena rady proti zápisu rozhodne nejbližší schůze rady.
+>
+> (6) Rada podává na každém zasedání zastupitelstva zprávu o své činnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3df68cd7063d2fc8d351 -->
 
 ### § 59 — Pravomoci rady
 
@@ -2051,6 +3641,98 @@ Rada má tři okruhy pravomocí: vyhrazené (odst. 1 — mj. počet zaměstnanc�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3abf3e8ce5b1fa7ff247 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 59
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Rada připravuje návrhy a podklady pro jednání zastupitelstva a zabezpečuje plnění jím přijatých usnesení. Radě je vyhrazeno
+>
+> - a) zabezpečovat hospodaření podle schváleného rozpočtu, provádět rozpočtová opatření v rozsahu svěřeném zastupitelstvem,
+>
+> - b) stanovit počet zaměstnanců kraje zařazených do krajského úřadu, do zvláštních orgánů kraje a do organizačních složek a objem prostředků na platy těchto zaměstnanců,
+>
+> - c) na návrh ředitele krajského úřadu (dále jen „ředitel“) jmenovat a odvolávat vedoucí odborů krajského úřadu v souladu se zvláštním zákonem; jmenování nebo odvolání vedoucích odborů bez návrhu ředitele je neplatné,
+>
+> - d) zřizovat a zrušovat podle potřeby komise rady (dále jen „komise“), jmenovat a odvolávat z funkce jejich předsedy a členy,
+>
+> - e) ukládat krajskému úřadu úkoly v oblasti samostatné působnosti a kontrolovat jejich plnění,
+>
+> - f) přezkoumávat opatření přijatá krajským úřadem v samostatné působnosti,
+>
+> - g) vyřizovat návrhy, připomínky a podněty obcí a právnických osob z územního obvodu kraje,
+>
+> - h) stanovit pravidla pro přijímání a vyřizování petic a stížností,
+>
+> - i) vykonávat zakladatelské a zřizovatelské funkce ve vztahu k právnickým osobám, organizačním složkám, které byly zřízeny nebo založeny krajem nebo které byly na kraj převedeny zvláštním zákonem, včetně jmenování a odvolávání jejich ředitelů a stanovení jejich platu a odměn a rozhodování o poskytování návratných finančních výpomocí příspěvkovým organizacím zřízeným krajem; k tomu pravidelně jedenkrát ročně projednávat zprávu o jejich činnosti, o plnění jejich úkolů, pro které byly založeny nebo zřízeny, a přijímat příslušná opatření k nápravě,
+>
+> - j) rozhodovat ve věcech kraje jako jediného společníka obchodní společnosti,
+>
+> - k) vydávat nařízení kraje,
+>
+> - l) projednávat a řešit návrhy, připomínky a podněty předložené jí členy zastupitelstva nebo komisemi rady,
+>
+> - m) plnit úkoly stanovené zvláštním právním předpisem,
+>
+> - n) schvalovat účetní závěrku krajem zřízené příspěvkové organizace sestavenou k rozvahovému dni.
+>
+> (2) Rada rozhoduje o těchto právních jednáních kraje:
+>
+> - a) o poskytování dotací a návratných finančních výpomocí do 1 000 000 Kč v jednotlivém případě fyzickým nebo právnickým osobám a uzavření veřejnoprávních smluv o jejich poskytnutí, nejedná-li se o dotace z prostředků státního rozpočtu, o návratné finanční výpomoci příspěvkovým organizacím zřízeným krajem nebo o dotace nebo návratné finanční výpomoci poskytované v době trvání krizového stavu28), mimořádného opatření při epidemii nebo nebezpečí jejího vzniku nebo mimořádného veterinárního opatření a v souvislosti s nimi,
+>
+> - b) o vzdání se práva a prominutí dluhu nepřevyšující 1 000 000 Kč,
+>
+> - c) o zastavení movitých věcí nebo práv v hodnotě nepřevyšující 1 000 000 Kč,
+>
+> - d) o uzavírání dohod o splátkách s lhůtou splatnosti nepřevyšující 18 měsíců,
+>
+> - e) o nabytí a převodu movitých věcí na kraj včetně peněz,
+>
+> - f) o poskytování věcných a finančních darů do 500 000 Kč fyzické nebo právnické osobě v jednom kalendářním roce.
+>
+> (3) Rada zabezpečuje rozhodování v ostatních záležitostech patřících do samostatné působnosti kraje, pokud nejsou vyhrazeny zastupitelstvu nebo pokud si je zastupitelstvo nevyhradilo.
+>
+> (4) Rada může svěřit hejtmanovi, popřípadě krajskému úřadu zcela nebo zčásti rozhodování podle odstavce 2 písm. e) a f). Dále může svěřit hejtmanovi nebo krajskému úřadu zcela nebo zčásti rozhodování podle odstavce 3.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3abf3e8ce5b1fa7ff247 -->
+
 ### § 60 — Neusnášeníschopná rada, odvolaná rada
 
 > **§ 60**
@@ -2105,6 +3787,54 @@ Klesne-li rada pod usnášeníschopnost a zastupitelstvo ji na nejbližším zas
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3e427951cf3c46578757 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 60
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Poklesne-li v průběhu funkčního období počet členů rady tak, že rada není usnášeníschopná (§ 58 odst. 2) a na nejbližším zasedání zastupitelstva nebude počet členů rady doplněn tak, aby usnášeníschopná byla, vykonává její působnost, až do zvolení potřebného počtu členů rady, zastupitelstvo. V těchto případech zastupitelstvo může svěřit hejtmanovi výkon pravomoci rady s výjimkou vydávání nařízení kraje.
+>
+> (2) Je-li rada odvolána jako celek a není-li současně s tím zvolena nová rada, vykonává dosavadní rada své pravomoci až do zvolení nové rady.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 58
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3e427951cf3c46578757 -->
+
 ### § 60a — Pokračování pravomocí po volbách
 
 > **§ 60a**
@@ -2158,6 +3888,54 @@ Dosavadní rada vykonává své pravomoci i po volbách, dokud není zvolena nov
 **Typicky rozhodné důkazy / podklady:** rozhodnutí soudu s doložkou právní moci, zápis z ustavujícího zasedání, usnesení rady, rozpočtové dokumenty.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8ac37dc654e7aab67934 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 60a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Rada vykonává své pravomoci podle tohoto zákona i po ukončení funkčního období zastupitelstva až do zvolení nové rady. Za zvolení nové rady podle věty první se považuje zvolení alespoň nadpoloviční většiny počtu členů rady, který má být volen podle § 57 odst. 2, jestliže došlo ke zvolení hejtmana nebo náměstka hejtmana.
+>
+> (2) Jestliže soud vyhoví návrhu na neplatnost voleb nebo hlasování, je rada ode dne právní moci rozhodnutí soudu do dne, ve kterém se koná ustavující zasedání nově zvoleného zastupitelstva, kromě pravomocí stanovených v odstavci 1, oprávněna stanovit pravidla rozpočtového provizoria a schvalovat rozpočtová opatření19a).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 57
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8ac37dc654e7aab67934 -->
 
 ## Díl 3 — Hejtman
 
@@ -2260,6 +4038,74 @@ Hejtman zastupuje kraj navenek, svolává a zpravidla řídí zastupitelstvo i r
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=966b2b7bd39feca2f8e3 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 61
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Hejtman zastupuje kraj navenek.
+>
+> (2) Hejtmana a náměstka hejtmana (náměstky hejtmana) volí zastupitelstvo z řad svých členů. Hejtman a náměstek hejtmana musí být občany České republiky. Odpovídají za výkon své funkce zastupitelstvu. Rada může ukládat úkoly hejtmanovi jen v rozsahu své působnosti.
+>
+> (3) Hejtman
+>
+> - a) s náměstkem hejtmana podepisuje právní předpisy kraje,
+>
+> - b) po předchozím souhlasu ministra vnitra jmenuje a odvolává ředitele v souladu se zvláštním zákonem; jmenování nebo odvolání ředitele bez předchozího souhlasu ministra vnitra je neplatné,
+>
+> - c) stanoví podle zvláštního předpisu21) plat řediteli a ukládá mu úkoly,
+>
+> - d) na základě zmocnění v zákoně zřizuje pro výkon přenesené působnosti zvláštní orgány,
+>
+> - e) odpovídá za včasné objednání přezkoumání hospodaření kraje za uplynulý kalendářní rok,
+>
+> - f) odpovídá za informování občanů o činnosti kraje,22)
+>
+> - g) vykonává další úkoly v samostatné nebo přenesené působnosti, pokud jsou mu svěřeny zastupitelstvem, radou nebo tak stanoví zákon,
+>
+> - h) plní obdobné úkoly jako statutární orgán zaměstnavatele podle zvláštních předpisů vůči uvolněným členům zastupitelstva a řediteli.
+>
+> (4) Hejtman svolává a zpravidla řídí zasedání zastupitelstva a rady, podepisuje spolu s ověřovateli zápis z jednání zastupitelstva a zápis z jednání rady.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=966b2b7bd39feca2f8e3 -->
+
 ### § 61a — Mimořádné pravomoci hejtmana v krizi
 
 > **§ 61a**
@@ -2315,6 +4161,52 @@ V krizových situacích může hejtman rozhodovat namísto rady i zastupitelstva
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=86b09caeea145b3a0657 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 61a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> Je-li to nezbytné v souvislosti s řešením mimořádné události podle zákona o integrovaném záchranném systému38), k zabránění jejího vzniku nebo k odstraňování jejích následků, anebo jestliže se na území kraje vztahuje krizový stav28), mimořádné opatření při epidemii nebo nebezpečí jejího vzniku nebo mimořádné veterinární opatření, může hejtman rozhodovat v záležitostech podle § 59 odst. 2 písm. e) a f) a § 59 odst. 3 namísto rady, popřípadě zastupitelstva, pokud si podle [[#§ 37|§ 37]] rozhodování v těchto záležitostech předem vyhradilo. Tím není dotčeno předchozí svěření pravomoci radou podle § 59 odst. 4.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 59, § 37
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=86b09caeea145b3a0657 -->
+
 ### § 62 — Pozastavení usnesení rady hejtmanem
 
 > **§ 62**
@@ -2368,6 +4260,52 @@ Hejtman může výkon nesprávného usnesení rady pozastavit; tím se jeho real
 **Typicky rozhodné důkazy / podklady:** usnesení rady, písemné pozastavení s důvody, znalecké posudky či ekonomické analýzy, program a usnesení zastupitelstva.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=96d20c9ed51c7cd414c4 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 62
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> Hejtman pozastaví výkon usnesení rady, má-li za to, že je usnesení nesprávné. Věc pak předloží k rozhodnutí nejbližšímu zasedání zastupitelstva.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=96d20c9ed51c7cd414c4 -->
 
 ### § 64 — Náměstek hejtmana
 
@@ -2423,6 +4361,52 @@ Zastupitelstvo může zvolit více náměstků a rozdělit jim úkoly; hejtmana 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=151c4573a3e26d098d64 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 64
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> Hejtmana zastupuje náměstek hejtmana. Zastupitelstvo může zvolit více náměstků hejtmana a svěřit jim některé úkoly. Náměstek hejtmana, kterého určí zastupitelstvo, zastupuje hejtmana v době jeho nepřítomnosti nebo v době, kdy hejtman nevykonává funkci.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=151c4573a3e26d098d64 -->
+
 ### § 64a — Pověření při výpadku hejtmana
 
 > **§ 64a**
@@ -2474,6 +4458,52 @@ Při odvolání nebo rezignaci hejtmana nastupuje automaticky náměstek určen�
 **Typicky rozhodné důkazy / podklady:** rezignační projevy, usnesení o pověření, zápisy ze zasedání, evidence úkonů pověřeného člena rady.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e9106873119d32f81cbc generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 64a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> Je-li hejtman ze své funkce odvolán nebo se funkce vzdal a není-li současně zvolen nový hejtman, vykonává jeho pravomoci podle tohoto zákona náměstek hejtmana, kterého určilo zastupitelstvo k zastupování hejtmana ([[#§ 64|§ 64]]). Neurčilo-li zastupitelstvo takového náměstka hejtmana nebo byl-li náměstek hejtmana z funkce odvolán nebo se funkce vzdal současně s hejtmanem, pověří zastupitelstvo výkonem pravomocí hejtmana některého z členů rady.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 64
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e9106873119d32f81cbc -->
 
 ### § 64b — Pravomoci dosavadního hejtmana po volbách
 
@@ -2527,6 +4557,52 @@ Mezi dnem voleb a zvolením nové rady vykonává pravomoci hejtmana dosavadní 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=329bbbe9c7b8909b6286 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 64b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> Dosavadní hejtman v období ode dne voleb do zastupitelstva do zvolení nové rady podle [[#§ 60a|§ 60a]] vykonává pravomoci podle [[#§ 61|§ 61]]; v tomto období vykonává své pravomoci též dosavadní náměstek hejtmana. Nevykonává-li dosavadní hejtman své pravomoci podle věty první, vykonává je dosavadní náměstek hejtmana, a je-li dosavadních náměstků hejtmana více, ten, kterého přede dnem voleb pověřilo zastupitelstvo zastupováním hejtmana, jinak ten, kterého pověřil dosavadní hejtman. Vykonával-li ke dni voleb pravomoci hejtmana člen rady podle [[#§ 64a|§ 64a]], použijí se věty první a druhá obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 60a, § 61, § 64a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=329bbbe9c7b8909b6286 -->
+
 ### § 64c — Závěsný odznak hejtmana
 
 > **§ 64c**
@@ -2579,6 +4655,54 @@ Závěsný odznak s velkým státním znakem užívá při významných příle�
 **Typicky rozhodné důkazy / podklady:** usnesení rady dle odst. 2, scénáře ceremoniálů, protokolární evidence.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c23cb0bca713ef0d71d1 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 64c
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Hejtman má právo užívat při významných příležitostech závěsný odznak. Závěsný odznak má uprostřed velký státní znak a po obvodu odznaku je uveden název Česká republika.
+>
+> (2) Rada může stanovit, v kterých případech může tento odznak užívat jiný člen zastupitelstva nebo ředitel krajského úřadu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c23cb0bca713ef0d71d1 -->
 
 ## Díl 4 — Zvláštní orgány
 
@@ -2648,6 +4772,56 @@ Zvláštní orgány zřizuje hejtman výhradně na základě výslovného zmocn�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5faf06f5933dbfea14f7 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 65
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Hejtman zřizuje pro výkon přenesené působnosti zvláštní orgány, pokud tak stanoví zvláštní zákon.
+>
+> (2) V čele zvláštního orgánu může být jen osoba, která, nestanoví-li zvláštní zákon jinak, prokázala zvláštní odbornou způsobilost v oblasti přenesené působnosti, pro jejíž výkon byl zvláštní orgán zřízen. Pro prokázání zvláštní odborné způsobilosti osoby stojící v čele zvláštního orgánu platí obdobně ustanovení zvláštních právních předpisů upravujících toto prokázání pro úředníky územních samosprávných celků.
+>
+> (3) Ustanovení odstavce 2 se nevztahuje na případy, kdy v čele zvláštního orgánu stojí na základě ustanovení zákona hejtman.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5faf06f5933dbfea14f7 -->
+
 ## Díl 5 — Krajský úřad
 
 ### § 66 — Úkoly krajského úřadu v samostatné působnosti
@@ -2709,6 +4883,52 @@ Princip: úřad **nemá vlastní rozhodovací autonomii v samostatné působnost
 **Typicky rozhodné důkazy / podklady:** usnesení rady a zastupitelstva, text pokynu, smlouva a podpisová pověření, organizační řád krajského úřadu, rozpočtové podklady.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6cb01c9c28e4c30284ee generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 66
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> Krajský úřad plní úkoly v samostatné působnosti uložené mu zastupitelstvem a radou a napomáhá činnosti výborů a komisí. Rada může ukládat úkoly krajskému úřadu jen v rozsahu své působnosti svěřené jí zákonem. Krajský úřad rozhoduje v samostatné působnosti v případech stanovených tímto zákonem nebo zvláštním zákonem23a).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6cb01c9c28e4c30284ee -->
 
 ### § 67 — Úkoly krajského úřadu v přenesené působnosti
 
@@ -2777,6 +4997,68 @@ Specifická pravomoc plynoucí ze závazků ČR v oblasti **integrace národnost
 **Typicky rozhodné důkazy / podklady:** správní spis obou stupňů, záznamy o komunikaci a poradách, smluvní vztahy kraje s účastníkem řízení, organizační řád krajského úřadu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2ff0f233cf3edb38490e generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 67
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Krajský úřad vykonává přenesenou působnost s výjimkou věcí, které jsou zákonem svěřeny zastupitelstvu a radě nebo zvláštnímu orgánu. Krajský úřad
+>
+> - a) přezkoumává rozhodnutí vydaná orgány obce v řízení podle zvláštních zákonů,22a) pokud není zákonem tato působnost svěřena zvláštnímu orgánu nebo zákon nestanoví jinak,
+>
+> - b) projednává přestupky podle zákona,
+>
+> - c) poskytuje odbornou a metodickou pomoc obcím,
+>
+> - d) zabezpečuje koordinaci výstavby a provozu informačního systému kompatibilního s informačními systémy veřejné správy,
+>
+> - e) provádí kontrolu výkonu přenesené působnosti obcí,
+>
+> - f) zřizuje funkci koordinátora pro romské záležitosti,22c)
+>
+> - g) vykonává další působnosti svěřené mu zákonem.
+>
+> (2) Krajský úřad kontroluje v potřebném rozsahu a prostředky, které zákon dává k dispozici, činnost orgánů obcí při výkonu přenesené působnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2ff0f233cf3edb38490e -->
 
 ### § 68 — Složení krajského úřadu
 
@@ -2849,6 +5131,54 @@ V čele odboru stojí **vedoucí odboru** jmenovaný radou na návrh ředitele (
 **Typicky rozhodné důkazy / podklady:** organizační řád a jeho změny, rozhodnutí ředitele, usnesení rady o počtu zaměstnanců, popisy pracovních míst, výpověď a doklad o doručení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3ac64a004fbc490da8f3 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 68
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Krajský úřad tvoří ředitel a zaměstnanci kraje zařazení do krajského úřadu (dále jen „zaměstnanec“). V čele krajského úřadu stojí ředitel. Ředitele v případě nepřítomnosti zastupuje zástupce ředitele.
+>
+> (2) Krajský úřad se člení na odbory a oddělení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3ac64a004fbc490da8f3 -->
 
 ### § 69 — Ředitel krajského úřadu
 
@@ -2957,6 +5287,78 @@ Jak již zmíněno u § 61, ředitele jmenuje a odvolává **hejtman po předcho
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f7fc170b58539bb1cff0 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 69
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Ředitel je zaměstnancem kraje. Za plnění úkolů svěřených krajskému úřadu v samostatné a přenesené působnosti je odpovědný hejtmanovi.
+>
+> (2) Ředitel
+>
+> - a) zajišťuje úkoly v přenesené působnosti kraje vyplývající ze zvláštních zákonů,
+>
+> - b) podává Ústavnímu soudu návrh na zrušení nařízení obce za podmínek stanovených zvláštním právním předpisem22d),
+>
+> - c) podle zvláštních předpisů plní vůči zaměstnancům kraje zařazeným do krajského úřadu funkci statutárního orgánu zaměstnavatele,
+>
+> - d) stanoví podle zvláštních předpisů21) platy zaměstnancům kraje zařazeným do krajského úřadu,
+>
+> - e) je nadřízeným všech zaměstnanců kraje zařazených do krajského úřadu a kontroluje jejich činnost,
+>
+> - f) vydává zejména organizační a pracovní řád, spisový řád a skartační řád krajského úřadu,
+>
+> - g) je oprávněn předkládat radě návrhy na vydání nařízení kraje,
+>
+> - h) určuje po projednání s hejtmanem své zástupce,
+>
+> - i) plní úkoly uložené mu zastupitelstvem, radou nebo hejtmanem,
+>
+> - j) plní úkoly stanovené v samostatné působnosti zastupitelstvem a radou a další úkoly stanovené zákonem.
+>
+> (3) Ředitel je oprávněn zúčastňovat se zasedání zastupitelstva a schůzí rady s hlasem poradním.
+>
+> (4) Ředitel nesmí vykonávat funkce v politických stranách a v politických hnutích. Jeho funkce je neslučitelná s funkcí poslance a senátora Parlamentu České republiky a s funkcí člena zastupitelstva územního samosprávného celku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f7fc170b58539bb1cff0 -->
+
 ### § 69a — Dozor nad výkonem přenesené působnosti obcí
 
 > **§ 69a**
@@ -3006,6 +5408,52 @@ Krajský úřad **dozoruje výkon přenesené působnosti obcí** — paralelně
 **Typicky rozhodné důkazy / podklady:** text nařízení obce a zmocňovacího ustanovení, doklad o vyhlášení, dozorová výzva a rozhodnutí o pozastavení účinnosti, spisová dokumentace dozoru.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0c122279ee4c2a75bb38 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 69a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> Krajský úřad v přenesené působnosti provádí dozor nad výkonem přenesené působnosti svěřené orgánům obcí podle zvláštního právního předpisu22e).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0c122279ee4c2a75bb38 -->
 
 ### § 70 — Označování písemností
 
@@ -3069,6 +5517,54 @@ Výjimka: **nařízení kraje** vydává rada v přenesené působnosti, ale ozn
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e0f51fe212353c6c23a4 generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 70
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> (1) Všechny písemnosti vyhotovené orgány kraje týkající se samostatné působnosti se v záhlaví označují názvem kraje s uvedením názvu příslušného orgánu, který písemnost vyhotovil.
+>
+> (2) Všechny písemnosti vyhotovené orgány kraje týkající se přenesené působnosti se v záhlaví označují slovy „Krajský úřad“ s uvedením názvu kraje a současně se uvede i název odboru či zvláštního orgánu, který písemnost vyhotovil. Toto neplatí pro nařízení kraje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e0f51fe212353c6c23a4 -->
+
 ### § 70a — Razítko kraje
 
 > **§ 70a**
@@ -3122,6 +5618,52 @@ Razítko se státním znakem se používá vždy, když to **ukládá zákon** �
 **Typicky rozhodné důkazy / podklady:** otisky razítek na listinách, evidence razítek, spisový a podpisový řád, zmocňovací ustanovení zvláštních zákonů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5fd27fe788c87cae861a generator=2026-07-17.4 source_sha256=f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4 -->
+#### Revizní doplnění k § 70a — Razítko kraje
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/129-2000 Zákon o krajích (krajské zřízení).md`; identifikátor verze: `SB-2000-00129_2026-01-01`; SHA-256: `f95a9a6ee6ad20883e194448e0944a908c8ba007026e33597aff53dc075b54d4`.
+
+##### Znění ustanovení
+
+> Kraj může používat vlastní razítko. Razítko může kraj používat jen v případech, kdy zákonem není stanoveno povinné užívání úředního razítka s malým státním znakem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5fd27fe788c87cae861a -->
 
 ## Závěrečné systematické poznámky
 
